@@ -74,7 +74,7 @@ def from_sen_to_ldac(words,voc):
             except ValueError:
                 pass
     line = ["[ %d " % len(temp),]
-    for word,freq in temp:
+    for word,freq in temp.items():
         line.append("%s:%s " %(word,freq))
     line.append("]")
     print(line)
