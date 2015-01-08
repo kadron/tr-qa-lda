@@ -47,7 +47,6 @@ def add_to_vocabulary(word):
     if not word.isalnum():
         try:
             word = regexp_tokenizer.tokenize(word)[0]
-            print(word)
         except IndexError:
             return
     if VOCABULARY.has_key(word):
@@ -84,7 +83,6 @@ def from_sen_to_ldac(words,voc):
         if not word.isalnum():
             try:
                 word = regexp_tokenizer.tokenize(word)[0]
-                print(word)
             except IndexError:
                 continue
         try:
