@@ -30,7 +30,7 @@ def add_to_vocabulary_text(text):
             add_to_vocabulary(word)
 
 def add_to_vocabulary(word):
-    word =  word.lowercase()
+    word =  word.lower()
     if word in STOPWORDS or not word.isalnum():
         print(word)
         return
