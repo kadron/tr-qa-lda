@@ -91,6 +91,9 @@ def from_sen_to_ldac(words,voc):
                 temp[index] = 1
         except ValueError:
             pass
+    if len(temp) == 0:
+        print(words)
+        return
     line = ["[ %d " % len(temp),]
     for word,freq in temp.items():
         line.append("%s:%s " %(word,freq))
