@@ -42,7 +42,6 @@ def add_to_vocabulary_text(text):
 def add_to_vocabulary(word):
     word =  word.lower()
     if word in STOPWORDS or word in tokenizer.PUNCTUATION:
-        print(word)
         return
     if not word.isalnum():
         try:
@@ -60,7 +59,6 @@ def to_ldac():
     wikifile = codecs.open("allDocsTogether","rU","utf-8")
     for _ in range(0,COUNTER):
         title = wikifile.readline()
-        print("Title: %s" %title)
         wikifile.readline()
         body = wikifile.readline()
         while body != u'\n':
