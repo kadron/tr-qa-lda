@@ -41,7 +41,7 @@ def add_to_vocabulary(word):
         VOCABULARY[word] = 1
 
 def to_ldac():
-    VOCABULARY_l = VOCABULARY.keys()
+    voc = VOCABULARY.keys()
     docs = []
     wikifile = codecs.open("allDocsTogether","rU","utf-8")
     vocabulary = {}
