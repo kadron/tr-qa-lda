@@ -51,22 +51,22 @@ def to_ldac():
 	wikifile.readline()
 	body = wikifile.readline()
 	while body != u'\n':
-		from_par_to_ldac(body)
+		from_par_to_ldac(body,voc)
 		body = wikifile.readline()
     wikifile.close()
 
-def from_par_to_ldac(text):
+def from_par_to_ldac(text,voc):
     sentences = tokenizer.tokenize(text)
     for sent in sentences:
         words = punkt_word_tokenizer.tokenize(sent)
-        from_sen_to_ldac(words)
+        from_sen_to_ldac(words,voc)
 
 
-def from_sen_to_ldac(words):
+def from_sen_to_ldac(words,voc):
     temp = {}
     for word in words:
             try:
-                index = VOCABULARY_l.index(word)
+                index = voc.index(word)
                 if temp.has_key(index):
                     temp[index] = temp[index] + 1
                 else:
