@@ -27,10 +27,13 @@ def add_to_vocabulary_text(text):
     for sent in sentences:
         words = punkt_word_tokenizer.tokenize(sent)
         for word in words:
-            if word not in STOPWORDS:
-                add_to_vocabulary(word)
+            add_to_vocabulary(word)
 
 def add_to_vocabulary(word):
+    word =  word.lowercase()
+    if word in STOPWORDS or not word.isalnum():
+        print(word)
+        return
     if VOCABULARY.has_key(word):
         VOCABULARY[word] = VOCABULARY[word]+1
     else:
