@@ -8,6 +8,9 @@ from nltk.tokenize import word_tokenize
 #from nltk.tokenize import PunktWordTokenizer
 #punkt_word_tokenizer = PunktWordTokenizer()
 
+from nltk.tokenize import RegexpTokenizer
+regexp_tokenizer = RegexpTokenizer(r'\w+')
+
 COUNTER = 5
 STOPWORDS = stopwords.words('turkish')
 VOCABULARY = {}
@@ -38,9 +41,12 @@ def add_to_vocabulary_text(text):
 
 def add_to_vocabulary(word):
     word =  word.lower()
-    if word in STOPWORDS or word in tokenizer.PUNCTUATION or not word.isalnum():
+    if word in STOPWORDS or word in tokenizer.PUNCTUATION:
         print(word)
         return
+    if not word.isalnum():
+        word = regexp_tokenizer.tokenize(word)[0]
+        print(word)
     if VOCABULARY.has_key(word):
         VOCABULARY[word] = VOCABULARY[word]+1
     else:
@@ -48,6 +54,7 @@ def add_to_vocabulary(word):
 
 def to_ldac():
     voc = VOCABULARY.keys()
+    VOCABULARY_l.extend(VOCABULARY.keys())
     wikifile = codecs.open("allDocsTogether","rU","utf-8")
     for _ in range(0,COUNTER):
         title = wikifile.readline()
@@ -71,8 +78,11 @@ def from_par_to_ldac(text,voc):
 def from_sen_to_ldac(words,voc):
     temp = {}
     for word in words:
+        if not word.isalnum():
+            word = regexp_tokenizer.tokenize(word)[0]
+            print(word)
         try:
-            index = voc.index(word) + 1
+            index = VOCABULARY_l.index(word) + 1
             if temp.has_key(index):
                 temp[index] = temp[index] + 1
             else:
