@@ -38,6 +38,9 @@ def main():
     write_voc_as_dict_to_file(filename_extended,voc_d3)
     q_ldac3 = []
     questions = write_questions("../data/questions3.ldac",voc3,q_ldac3)
+    VOCABULARY = voc_d3
+    to_ldac()
+    write_ldac_as_list_to_file("../data/text3.ldac.txt",LDAC)
 
     if VERBOSE:
         print_ldac(q_ldac3,voc3)
@@ -65,6 +68,11 @@ def write_voc_as_dict_to_file(filename,voc_as_dict):
         v_file.write("First Line\n")
         for word,_ in voc_as_dict.items():
             v_file.write("%s\n" %word)
+
+def read_voc(filename):
+    with codecs.open(filename,"rU","utf-8") as voc_file:
+        voc = voc_file.read().split('\n')
+    return voc
 
 # voc_d2, voc2 = parse.load_vocabulary("../data/voc.pickle")
 def load_vocabulary(voc_pickle):
@@ -111,50 +119,25 @@ def add_to_vocabulary(word,voc_as_dict=VOCABULARY):
 def to_ldac():
     voc = VOCABULARY.keys()
     VOCABULARY_l.extend(VOCABULARY.keys())
-    wikifile = codecs.open("allDocsTogether","rU","utf-8")
-    for _ in range(0,COUNTER):
-        title = wikifile.readline()
-        wikifile.readline()
-        body = wikifile.readline()
-        while body != u'\n':
-            from_par_to_ldac(body)
+    with codecs.open("allDocsTogether","rU","utf-8") as wikifile:
+        while 1:
+            title = wikifile.readline()
+            if not title:
+                break
+            print("Title: %s" %title)
+            wikifile.readline()
             body = wikifile.readline()
-    wikifile.close()
-    out = open("corpus1.pickle","wb")
-    pickle.dump(VOCABULARY,out)
-    out.close()
+            while body != u'\n':
+                from_par_to_ldac(body)
+                body = wikifile.readline()
+    with codecs.open("corpus.pickle","wb","utf-8") as ldac_pickle_file:
+        pickle.dump(VOCABULARY,ldac_pickle_file)
 
 def from_par_to_ldac(text):
     sentences = tokenizer.tokenize(text)
     for sent in sentences:
         words = word_tokenize(sent)
         from_sen_to_ldac(words,VOCABULARY_l,LDAC)
-
-def read_voc(filename):
-    with codecs.open(filename,"rU","utf-8") as voc_file:
-        voc = voc_file.read().split('\n')
-    return voc
-
-def temp():
-    while True:
-        line = file.readline()
-        if not line:
-            break
-# questions = parse.write_questions("../data/questions.ldac",voc,q_ldac)
-def write_questions(filename,voc,ldac_q): # ../data/questions.ldac
-    questions = []
-    with codecs.open("trainingques.csv","rU","utf-8") as ques_file:
-        while True:
-            line = ques_file.readline()
-            if not line:
-                break
-            question = line.split("\t")[1]
-            words = word_tokenize(question)
-            from_sen_to_ldac(words,voc,ldac_q)
-            questions.append(question)
-    with codecs.open(filename,'w+', 'utf-8') as v_file:
-        v_file.write("\n".join(ldac_q))
-    return questions
 
 def from_sen_to_ldac(words,voc,ldac):
     temp = {}
@@ -183,6 +166,9 @@ def from_sen_to_ldac(words,voc,ldac):
         line.append("%s:%s " %(word,freq))
     ldac.append("".join(line))
 
+def write_ldac_as_list_to_file(filename,ldac):
+    with codecs.open(filename,'w+', 'utf-8') as l_file:
+        l_file.write("\n".join(ldac))
 
 def print_ldac(ldac_list,voc):
     for i in range(0,len(ldac_list)):
@@ -193,6 +179,22 @@ def print_ldac(ldac_list,voc):
 		question.append(voc[int(freqs.split(":")[0])])
         print(str(i) + ": "+  ldac_list[i])
         print(str(i) +": "+ " ".join(question))
+
+# questions = parse.write_questions("../data/questions.ldac",voc,q_ldac)
+def write_questions(filename,voc,ldac_q): # ../data/questions.ldac
+    questions = []
+    with codecs.open("trainingques.csv","rU","utf-8") as ques_file:
+        while True:
+            line = ques_file.readline()
+            if not line:
+                break
+            question = line.split("\t")[1]
+            words = word_tokenize(question)
+            from_sen_to_ldac(words,voc,ldac_q)
+            questions.append(question)
+    with codecs.open(filename,'w+', 'utf-8') as v_file:
+        v_file.write("\n".join(ldac_q))
+    return questions
 
 if __name__ == '__main__':
 	main()
