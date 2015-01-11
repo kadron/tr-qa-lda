@@ -158,7 +158,7 @@ def from_sen_to_ldac(words,voc,ldac):
             if VERBOSE:
                 print("%s is not found in vocabulary" %word)
     if len(temp) == 0:
-        print(words)
+        print("No voc key in: %s" %words)
         return
     line = ["%s " %len(temp),]
     for word,freq in temp.items():
