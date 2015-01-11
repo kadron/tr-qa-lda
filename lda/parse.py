@@ -25,6 +25,22 @@ class vocabulary(object):
         if filename:
             self.voc_as_l = read_voc(filename)
 
+def main():
+    build_vocabulary()
+    filename = "../data/voc_2.txt"
+    voc_as_dict = VOCABULARY
+    write_voc_as_dict_to_file(filename,voc_as_dict)
+    voc_d2, voc2 = load_vocabulary("../data/voc.pickle")
+    q_ldac2 = []
+    questions = write_questions("../data/questions2.ldac",voc2,q_ldac2)
+    voc_d3, voc3 = extend_vocabulary(questions,voc_d2)
+    filename_extended = "../data/voc_3.txt"
+    write_voc_as_dict_to_file(filename_extended,voc_d3)
+    q_ldac3 = []
+    questions = write_questions("../data/questions3.ldac",voc3,q_ldac3)
+
+    if VERBOSE:
+        print_ldac(q_ldac3,voc3)
 
 def build_vocabulary():
     wikifile = codecs.open("allDocsTogether","rU","utf-8")
@@ -177,3 +193,6 @@ def print_ldac(ldac_list,voc):
 		question.append(voc[int(freqs.split(":")[0])])
         print(str(i) + ": "+  ldac_list[i])
         print(str(i) +": "+ " ".join(question))
+
+if __name__ == '__main__':
+	main()
