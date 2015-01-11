@@ -38,7 +38,7 @@ def main():
     q_ldac3 = []
     questions = write_questions("../data/questions3.ldac",voc3,q_ldac3)
     VOCABULARY = voc_d3
-    to_ldac()
+    to_ldac(VOCABULARY,LDAC)
     write_ldac_as_list_to_file("../data/text3.ldac.txt", LDAC)
 
     if VERBOSE:
@@ -115,9 +115,7 @@ def add_to_vocabulary(word,voc_as_dict=VOCABULARY):
         if VERBOSE:
             print("%s added" %word)
 
-def to_ldac():
-    voc = VOCABULARY.keys()
-    VOCABULARY_l.extend(VOCABULARY.keys())
+def to_ldac(voc,ldac):
     with codecs.open("allDocsTogether","rU","utf-8") as wikifile:
         while 1:
             title = wikifile.readline()
@@ -127,16 +125,16 @@ def to_ldac():
             wikifile.readline()
             body = wikifile.readline()
             while body != u'\n':
-                from_par_to_ldac(body)
+                from_par_to_ldac(body,voc,ldac)
                 body = wikifile.readline()
     with codecs.open("corpus.pickle","wb","utf-8") as ldac_pickle_file:
-        pickle.dump(VOCABULARY,ldac_pickle_file)
+        pickle.dump(ldac,ldac_pickle_file)
 
-def from_par_to_ldac(text):
+def from_par_to_ldac(text,voc,ldac):
     sentences = tokenizer.tokenize(text)
     for sent in sentences:
         words = word_tokenize(sent)
-        from_sen_to_ldac(words,VOCABULARY_l,LDAC)
+        from_sen_to_ldac(words,voc,ldac)
 
 def from_sen_to_ldac(words,voc,ldac):
     temp = {}
