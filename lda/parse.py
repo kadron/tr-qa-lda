@@ -26,11 +26,10 @@ class vocabulary(object):
             self.voc_as_l = read_voc(filename)
 
 def main():
-    build_vocabulary()
+    #build_vocabulary()
     filename = "../data/voc_2.txt"
-    voc_as_dict = VOCABULARY
-    write_voc_as_dict_to_file(filename,voc_as_dict)
     voc_d2, voc2 = load_vocabulary("../data/voc.pickle")
+    write_voc_as_dict_to_file(filename,voc_d2)
     q_ldac2 = []
     questions = write_questions("../data/questions2.ldac",voc2,q_ldac2)
     voc_d3, voc3 = extend_vocabulary(questions,voc_d2)
@@ -40,7 +39,7 @@ def main():
     questions = write_questions("../data/questions3.ldac",voc3,q_ldac3)
     VOCABULARY = voc_d3
     to_ldac()
-    write_ldac_as_list_to_file("../data/text3.ldac.txt",LDAC)
+    write_ldac_as_list_to_file("../data/text3.ldac.txt", LDAC)
 
     if VERBOSE:
         print_ldac(q_ldac3,voc3)
