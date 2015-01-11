@@ -16,6 +16,7 @@ STOPWORDS = stopwords.words('turkish')
 VOCABULARY = {}
 VOCABULARY_l = []
 LDAC= []
+VERBOSE = False
 
 class vocabulary(object):
     def __init__(self,filename):
@@ -38,10 +39,35 @@ def build_vocabulary():
         while body != u'\n':
             add_to_vocabulary_text(body)
             body = wikifile.readline()
-    out = open("voc1.pickle","wb")
+    out = open("voc.pickle","wb")
     pickle.dump(VOCABULARY,out)
     out.close()
     wikifile.close()
+
+def write_voc_as_dict_to_file(filename,voc_as_dict):
+    with codecs.open(filename,'w+', 'utf-8') as v_file:
+        v_file.write("First Line\n")
+        for word,_ in voc_as_dict.items():
+            v_file.write("%s\n" %word)
+
+# voc_d2, voc2 = parse.load_vocabulary("../data/voc.pickle")
+def load_vocabulary(voc_pickle):
+    voc_as_dict = pickle.load(open(voc_pickle,'rb'))
+    voc = ["FirstLine",]
+    voc.extend(voc_as_dict.keys())
+    return voc_as_dict, voc
+
+# voc_d3, voc3 = parse.extend_vocabulary(questions,voc_d2)
+def extend_vocabulary(lo_sents,voc_as_dict):
+    length = len(voc_as_dict)
+    for sent in lo_sents:
+        words = word_tokenize(sent)
+        for word in words:
+            add_to_vocabulary(word, voc_as_dict = voc_as_dict)
+    voc = ["FirstLine",]
+    voc.extend(voc_as_dict.keys())
+    print("Added %d words" %(len(voc_as_dict) - length) )
+    return voc_as_dict, voc
 
 def add_to_vocabulary_text(text):
     sentences = tokenizer.tokenize(text)
@@ -50,7 +76,7 @@ def add_to_vocabulary_text(text):
         for word in words:
             add_to_vocabulary(word)
 
-def add_to_vocabulary(word):
+def add_to_vocabulary(word,voc_as_dict=VOCABULARY):
     word =  word.lower()
     if word in STOPWORDS or word in tokenizer.PUNCTUATION:
         return
@@ -59,10 +85,12 @@ def add_to_vocabulary(word):
             word = regexp_tokenizer.tokenize(word)[0]
         except IndexError:
             return
-    if VOCABULARY.has_key(word):
-        VOCABULARY[word] = VOCABULARY[word]+1
+    if voc_as_dict.has_key(word):
+        voc_as_dict[word] = voc_as_dict[word]+1
     else:
-        VOCABULARY[word] = 1
+        voc_as_dict[word] = 1
+        if VERBOSE:
+            print("%s added" %word)
 
 def to_ldac():
     voc = VOCABULARY.keys()
@@ -96,7 +124,7 @@ def temp():
         line = file.readline()
         if not line:
             break
-
+# questions = parse.write_questions("../data/questions.ldac",voc,q_ldac)
 def write_questions(filename,voc,ldac_q): # ../data/questions.ldac
     questions = []
     with codecs.open("trainingques.csv","rU","utf-8") as ques_file:
@@ -115,6 +143,7 @@ def write_questions(filename,voc,ldac_q): # ../data/questions.ldac
 def from_sen_to_ldac(words,voc,ldac):
     temp = {}
     for word in words:
+        word = word.lower()
         if not word.isalnum():
             try:
                 word = regexp_tokenizer.tokenize(word)[0]
@@ -126,8 +155,10 @@ def from_sen_to_ldac(words,voc,ldac):
                 temp[index] = temp[index] + 1
             else:
                 temp[index] = 1
+            #print("word %s index:%s" %(word,index))
         except ValueError:
-            pass
+            if VERBOSE:
+                print("%s is not found in vocabulary" %word)
     if len(temp) == 0:
         print(words)
         return
@@ -135,3 +166,14 @@ def from_sen_to_ldac(words,voc,ldac):
     for word,freq in temp.items():
         line.append("%s:%s " %(word,freq))
     ldac.append("".join(line))
+
+
+def print_ldac(ldac_list,voc):
+    for i in range(0,len(ldac_list)):
+        items = ldac_list[i].split(" ")
+        question = [items[0]+" ",]
+        for freqs in items[1:]:
+            if freqs:
+		question.append(voc[int(freqs.split(":")[0])])
+        print(str(i) + ": "+  ldac_list[i])
+        print(str(i) +": "+ " ".join(question))
