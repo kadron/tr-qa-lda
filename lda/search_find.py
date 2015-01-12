@@ -53,6 +53,7 @@ def merge_and_write_answers_inner(index,answer):
             docs_file.write(all_related_text)
     else:
         print(index)
+    return all_related_text
 
 
 
