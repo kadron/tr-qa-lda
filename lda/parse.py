@@ -35,6 +35,7 @@ def main():
     voc_d3, voc3 = extend_vocabulary(questions,voc_d2)
     filename_extended = "../data/voc_3.txt"
     write_voc_as_dict_to_file(filename_extended,voc_d3)
+    #voc3 = read_voc(filename_extended)
     q_ldac3 = []
     questions = write_questions("../data/questions3.ldac",voc3,q_ldac3)
     VOCABULARY = voc_d3
@@ -43,6 +44,14 @@ def main():
 
     if VERBOSE:
         print_ldac(q_ldac3,voc3)
+
+
+def write_part_as_ldac(doc_file, ldac_file): # ("allDocsTogether_2","../data/corpus_2.ldac.txt")
+    filename_extended = "../data/voc_3.txt"
+    voc3 = read_voc(filename_extended)
+    ldac = []
+    to_ldac(voc3,ldac,filename = doc_file)
+    write_ldac_as_list_to_file(ldac_file, ldac)
 
 def build_vocabulary():
     wikifile = codecs.open("allDocsTogether","rU","utf-8")
