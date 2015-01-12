@@ -115,8 +115,8 @@ def add_to_vocabulary(word,voc_as_dict=VOCABULARY):
         if VERBOSE:
             print("%s added" %word)
 
-def to_ldac(voc,ldac):
-    with codecs.open("allDocsTogether","rU","utf-8") as wikifile:
+def to_ldac(voc,ldac,filename="allDocsTogether"): #allDocsTogether_last_80000
+    with codecs.open(filename,"rU","utf-8") as wikifile:
         while 1:
             title = wikifile.readline()
             if not title:
