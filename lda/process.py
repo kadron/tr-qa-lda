@@ -3,6 +3,8 @@ from __future__ import absolute_import, unicode_literals  # noqa
 import os, math, codecs
 import numpy as np
 
+from subprocess import call
+
 from gensim import corpora
 from gensim import models
 
@@ -16,19 +18,23 @@ def load_vocab(folder, filename):
 		vocab = tuple(f.read().split())
 	return vocab
 
-#Discrete KL Divergence, p&q are tuples
-def kl_div(p,q):
-	total = 0;
-	for i in xrange(len(p)):
-		total = total + p[i]*math.log(p[i]/q[i])
-	return total
+
 
 #Information Retrieval metric, p&q are tuples
-def ir(p,q):
-	return kl_div(p,(p+q)/2)+kl_div(q,(p+q)/2)
+def ir(p,q,num_topics):
+	#return kl_div(p,(p+q)/2)+kl_div(q,(p+q)/2)
+	total=0
+	for tp in p:
+		for tq in q:
+			for i in xrange(num_topics):
+				if tp[0]==i and tq[0]==i:
+					x1 = tp[1]*math.log((2*tp[1])/(tp[1]+tq[1]))
+					x2 = tq[1]*math.log((2*tq[1])/(tp[1]+tq[1]))
+					total = total + x1 + x2
+					break
 
-def w(p,q):
-	return 10**(-ir(p,q));
+def w(p,q,num_topics):
+	return 10**(-ir(p,q,num_topics));
 
 def sim1(p,q,num_topics):
 	total = 0;
@@ -36,35 +42,66 @@ def sim1(p,q,num_topics):
 		total = total + w(p[i],q[i])
 	return total/num_topics
 
-def sim2(p,q):
-	return w(p,q)
+def sim2(p,q,num_topics):
+	return w(p,q,num_topics)
+
+def compare_sq(dist_list,num_question,num_answer,num_topics):
+	#5 answers to each question
+	answer_list = []
+	metric_list = []
+	
+	for q in dist_list[-num_question:]:
+		max_answer = [-1,-1,-1,-1,-1]
+		max_metric = [-1,-1,-1,-1,-1]
+
+		for i,p in enumerate(dist_list[0:num_answer]):
+			metric = sim2(p,q,num_topics)
+			if metric > max_metric[0]:
+				max_metric = [metric] + max_metric[1:5]
+				max_answer = [i] + max_answer[1:5]
+			elif metric > max_metric[1]:
+				max_metric = max_metric[0:1] + [metric] + max_metric[2:5]
+				max_answer = max_answer[0:1] + [metric] + max_answer[2:5]
+			elif metric > max_metric[2]:
+				max_metric = max_metric[0:2] + [metric] + max_metric[3:5]
+				max_answer = max_answer[0:2] + [metric] + max_answer[3:5]
+			elif metric > max_metric[3]:
+				max_metric = max_metric[0:3] + [metric] + max_metric[4:5]
+				max_answer = max_answer[0:3] + [metric] + max_answer[4:5]
+			elif metric > max_metric[4]:
+				max_metric = max_metric[0:4] + [metric]
+				max_answer = max_answer[0:4] + [metric]
+		
+		answer_list.append(max_answer)
+		metric_list.append(max_metric)
+	
+	return answer_list,metric_list
 
 def main():
 	#Loads dataset and vocabulary
 	#Generating topics and distributions
-	num_topics = 20
+	print('Starting up!')
+	num_topics = 10
+	num_question = 69
+	num_answer = 56100
 
 	corpus = corpora.BleiCorpus('../data/totalcorpus.ldac','../data/voc_2.txt')
+	print('Corpus processed!')
 	#id2word = corpora.Dictionary.load('../data/voc_2.txt')
-	lda = models.ldamodel.LdaModel(corpus, num_topics=num_topics, chunksize=2000, decay=0.5, offset=1.0, passes=5, update_every=0, eval_every=10, iterations=20000, gamma_threshold=0.001)
-	#print('Corpus1 finished!')
-
-	
+	lda = models.ldamodel.LdaModel(corpus, num_topics=num_topics, chunksize=2000, decay=0.5, offset=1.0, passes=1, update_every=0, eval_every=10, iterations=20000, gamma_threshold=0.001)
+	print('LDA applied to corpus!')
 
 	#print('=== Topic-Word Distributions ===')
 	#topic_word_list = lda.show_topics()
  
 	#for i in xrange(num_topics):
 	#	print('Topic {} : {}'.format(i,' '.join(topic_word_list[i][0:])))
-
-	#print ('=== Document-Topic Distributions ===')
-	doc_topic = lda[corpus]
-	for doc in doc_topic:
-		print(doc)
-
-
-
-
+	
+	print ('=== Document-Topic Distributions ===')
+	#Writing doc_topic distributions to a file to parse later
+	#doc_topic = lda[corpus]
+	dist_list = list(lda[corpus])
+	answer_list,metric_list = compare_sq(dist_list,num_question,num_answer,num_topics)
 
 if __name__ == '__main__':
 	main()
