@@ -1,4 +1,4 @@
-import codecs,pickle,traceback,sys
+import codecs,pickle,traceback,sys,re
 from nltk.corpus import stopwords
 import nltk.data
 
@@ -201,6 +201,34 @@ def write_questions(filename,voc,ldac_q): # ../data/questions.ldac
     with codecs.open(filename,'w+', 'utf-8') as v_file:
         v_file.write("\n".join(ldac_q))
     return questions
+
+def write_questions_raw(filename):
+    questions_raw = []
+    answers_raw = []
+    i = 0
+    with codecs.open("all_questions.csv","rU","utf-8") as ques_file:
+        while True:
+            line = ques_file.readline()
+            if not line:
+                break
+            row = line.split("\t")
+            answer = row[4].strip()
+            if answer is not '' and (len(answer.split(" ")) == 1 and not contains_digits(answer) ):
+                #print("%d: %s \t %s" %(i,row[4],row[0]))
+                questions_raw.insert(i,row[0].lower())
+                answers_raw.insert(i,answer.lower())
+                i +=1
+    with codecs.open(filename+".txt",'w+', 'utf-8') as v_file:
+        v_file.write("\n".join(questions_raw))
+    with codecs.open(filename+"_answers.txt",'w+', 'utf-8') as v_file:
+        v_file.write("\n".join(answers_raw))
+    print("%d questions wrote to file" %i)
+    return questions_raw,answers_raw
+
+_digits = re.compile('\d')
+def contains_digits(d):
+    return bool(_digits.search(d))
+
 
 if __name__ == '__main__':
 	main()

@@ -169,69 +169,58 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \headerbox{Abstract}{name=abstract,column=0,row=0}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\par Video tracking for purposes of behaviour analysis has been used by the researchers
-at Psychobiology lab extensively.Video tracking systems enable behavior to be studied in a reliable and consistent way, and over longer time periods than if they are manually recorded.\\ 
-\par The system takes an depth data as a digital video signal, cuts out data points that lie outside the range at which the kinect is mounted above the cages, and analyses
-the resultant pixels to determine the location of the tracked animals (as well
-as other data). Calculations are performed on a series of frames to derive a
-set of quantitative descriptors of the animal's movement. \\ 
-\par This project aims to provide researchers with a tool to create, repeat and
-document animal tracking experiment results in a credible way.
-It is meant to provide users with unbiased and structured data to be used to construct behaviour analysis reports.
-  }
+\par We present an exploration of a generative model for a QA (Question Answering) system applied to a Turkish corpora. The problem is “answering a natural language question using a relevant document”. Topic modeling using LDA (Latent Dirichlet Allocation) to rank the similarities between question and different passages in the document is a known method to solve this kind of problem as shown in the recent work of Celikyilmaz et. al. Their approach is multilingual however a morphologically rich language like Turkish might benefit from a model that is fine tailored for properties of such languages. \\
+\par We propose a model that can handle MRLs (Morphological Rich Languages) better when compared to the original model. This model also takes syntactic properties (stems, inflectional affixes) into account because in MRLs substantial grammatical information, i.e., information concerning the arrangement of words into syntactic units or cues to syntactic relations, is expressed at word level. In the end, we apply both models to a Turkish corpora and compare the results. \\
+
+}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \headerbox{Introduction}{name=intro,column=0,below=abstract}{
+  \headerbox{Motivation}{name=intro,column=0,below=abstract}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	\par One such system currently in use is EthoVision (from Noldus Information Technology). Which provides detailed analysis tools to researcher when tracking lab rats. But one limitation of the EthoVision is its inability to operate under lowly lit or dark environments. \\
 	\par Our project aims to fill the gap in functionality by providing researchers with a robust, easy to use tool that can operate at various physical set-ups under all lighting conditions. to this end Kinect was selected as the ideal sensor due to its ability to operate unhindered under dark lighting conditions.\\
-
-\centering
-\includegraphics[scale=0.5]{./figures/kinect} 
-	\vspace{-12pt}
-    \captionof{figure}{Depth data provided by Kinect}
-    \label{fig:figure}	
+	
 }
 
-
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \headerbox{Implementation}{name=exp,column=1,span=1}{
+  \headerbox{Original Model}{name=exp,column=1,span=1}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 	\par The system we developed is going to be used in an experiment where day/light periods are manipulated to observe changes in the rats biological clocks. Thus we decided the depth images provided by the Kinect made the perfect input for the task, as the data is unaffected by any light emission within human visual range.
 
-\includegraphics[scale=0.333]{./figures/phy_setup} 
-\vspace{-12pt}
-    \captionof{figure}{An example set-up with 3 cages.}
-    \label{fig:figure}
-\vspace{5pt}
+\begin{equation}
+  \label{eq:model}
+    \hat{ \phi}_{wi}^{(z_i)} = \frac{n^{WK}_{w_{i}k}+ \beta}{\sum^W_{j=1}n^{WK}_{w_{j}k}+ W \beta} \quad \hat{\theta}^{(s)} \frac{n^{SK}_{sk} +\alpha}{\sum^K_{j=1}n^{SK}_{sj}+ K \alpha}
+\end{equation}
+
+\begin{equation}
+  \label{eq:dists}
+  \begin{aligned}
+    w_i|z_i, \phi_{wi}^{(z_i)} & \sim Discrete(\phi^{(z_i)}), \quad i = 1, ..., W \\
+    \phi{(z)}  & \sim  Dirichlet(\beta), \quad z = 1, ..., K \\
+    z_i | \theta^{(s_i)} & \sim  Discrete(\theta^{(s_i)}), \quad i = 1, ..., W \\
+    \theta^{(s)} & \sim  Dirichlet(\alpha), \quad s = 1, ..., S \\
+  \end{aligned}
+\end{equation}
+
 	\par The application supports a tracking environment of up to 4 cages, each containing a single subject. The position data gathered is presented to the user in raw form and also in a candle-wick graph describing the speed at which a subject moves within a given period as a indicator of a subject's level of activity. \\
 	
-\includegraphics[scale=0.58]{./figures/track} 
-\vspace{-16pt}
-    \captionof{figure}{Results of tracking with a 2 cage set-up. Cage boundaries are drawn in green and detected rats are marked with a red rectangle }
-    \label{fig:figure}
+
   }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \headerbox{Results \& Conclusions}{name=results,column=2}{
+  \headerbox{Proposed Model}{name=results,column=2}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \par We are implemented a system for automatically tracking rat locomotor behaviour for experiment automation.\\
 \par We explored the advantages of using Kinect over classical RGB cameras since this approach allows for the system to operate without concerns over lighting conditions. This solution was deemed necessary because the product owners, researchers at the psychobiology lab, require the ability to track and observe subjects in both day and night conditions.\\
 
-\fbox{\includegraphics[scale=0.333]{./figures/ui}}
-\vspace{-5pt}
-    \captionof{figure}{Our current UI.}
+\includegraphics[scale=1.1]{./figures/model} 
+	\vspace{-12pt}
+    \captionof{figure}{Topic-Word and Passage-Topic Distributions}
     \label{fig:figure}
 \vspace{5pt}
-\par This project implements behavioural data gathering tool that is as easy to use as possible. For this purpose the tool will as simple a UI as possible. But currently the Psychobiology lab has yet to give us the go ahead for the deployment of our system so the UI has some elements left there for calibration purposes. This unfortunately clutters the UI but will be remedied once the calibrations and on-site long term testing is done. \\
-
-\par All in all, we are happy to say that we have implemented a useful tool which aims help researchers with experiment automation in behavioural analysis studies. As both experiment automation and behavioural analysis are fields that are of much interest both academia and industry, this project has the potential to be further improved upon to create more versatile and precise tools.\\
-
 }%
 \headerbox{Acknowledgements}{name=ack,column=3,row=0}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\par We are grateful of members of the Psychobiology Lab who provided us with
-an excellent project subject and much needed data and also of Albert Ali Salah who guided us through the project; their hard work and dedication is acknowledged here.
+\par We are grateful to Caner Derici and Yavuz Nuzumlalı for their help and support. We also want to thank Tunga Güngör and the team working with him on TÜBİTAK Project 113E036 for supplying us the data set and the opportunity to work further on their problem.
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
