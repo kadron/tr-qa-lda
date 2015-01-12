@@ -76,6 +76,12 @@
 \setlength{\bibspacing}{\baselineskip}
 
 Hello
+
+\begin{equation}
+  \label{eq:model}
+    \hat{ \phi}_{wi}^{(z_i)} = \frac{n^{WK}_{w_{i}k}+ \beta}{\sum^W_{j=1}n^{WK}_{w_{j}k}+ W \beta} \quad \hat{\theta}^{(s)} \frac{n^{SK}_{sk} +\alpha}{\sum^K_{j=1}n^{SK}_{sj}+ K \alpha}
+\end{equation}
+
 \begin{equation}
   \label{eq:dists}
   \begin{aligned}
@@ -85,4 +91,6 @@ Hello
     \theta^{(s)} & \sim  Dirichlet(\alpha), \quad s = 1, ..., S \\
   \end{aligned}
 \end{equation}
+\end{document}
+
 \end{document}
