@@ -1,5 +1,6 @@
 import os, sys, codecs
 sys.path.append("/Users/cagil/work/HazirCevap/hazircevap2")
+sys.path.append("/home/hazircevap/hazircevap")
 from search import indriDocFetch, indriHandler, queryBuilder
 from nltk import word_tokenize, sent_tokenize
 
