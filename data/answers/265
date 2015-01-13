@@ -1,0 +1,665 @@
+<docno>84189</docno>
+<text>
+elektriksel alan
+elektriksel alan, kıvıl alan, elektrik alan veya elektrik alanı, elektriksel yükü veya manyetik alanı çevreleyen uzayın bir özelliği olup, içerisinde bulunan yüklü nesnelere elektriksel güç aracılığı ile etki eder
+kavram fiziğe michael faraday tarafından kazandırılmıştır
+elektrik alan si birimi newton/coulomb ya da volt/metre olan bir vektör alanıdır
+si temel birimleri cinsinden kg·m·s−3·a−1 olarak ifade edilir
+alanın belli bir noktadaki büyüklüğü o noktaya konacak 1 coulomb'luk bir test yüküne ne kadar kuvvet uygulayacağıyla belirlenir, alanın yönü kuvvetin yönüdür
+elektrik alan, yoğunluğunun büyüklüğü alan büyüklüğünün karesiyle doğru orantılı elektriksel enerjiye sahiptir
+elektrik alanın yükle ilişkisi yerçekimi ivmesinin kütleyle ilişkisinin ve kuvvet yoğunluğunun hacimle ilişkisi gibidir
+zamana göre değişen bir elektrik alan (mesela hareketli bir yüklü parçacık nedeniyle) yerel manyetik alana sebep olur
+bu, elektrik ve manyetik alanların birbirinden bağımsız olmadığını gösterir; bir gözlemcinin yalnızca elektrik alan olarak gözlemlediğini başka bir referansa göre başka bir gözlemci bir elektrik ve manyetik alan karışımı olarak gözlemleyebilir
+bu nedenle elektrik ve manyetik alanlardan ayrı ayrı bahsetmek yerine bu ikisi “elektromanyetizma” ya da “elektromanyetik alan” olarak, birlikte incelenir
+kuantum mekaniğinde elektromanyetik alandaki değişmeler foton olarak adlandırılır ve fotonun enerjisi kuantize olmuştur
+tanım
+elektrik alan alan içinde belli bir noktada sabit duran noktasal yüke uygulanan, yük başına düşen kuvvet olarak tanımlanır:
+f parçacık tarafından hissedilen elektriksel kuvvet,
+"q" parçacığın yükü,
+e parçacığın konumundaki elektrik alan
+literal olarak alındığında bu denklem elektrik alanı yalnızca alanda durağan yükler olduğunda tanımlar
+dahası, alandaki yükler elektrik alanı değiştireceğinden, herhangi bir "q" yükünün varlığındaki elektrik alan o yük olmadığında olandan daha farklı olacaktır
+fakat, verili bir yük dağılımından kaynaklanan elektrik alan bu alanı hissedecek hiçbir parçacık olmasa dahi tanımlıdır
+bu tanımlılık alana varsayımsal olarak yerleştirilen test yükü ile sağlanır
+bu sayede elektrik alan test yükü sıfıra yaklaşırken yükün hissedeceği kuvvet ile tanımlanır:
+bu ifade elektrik alanın yalnızca kaynak yük dağılımına bağlı olmasını sağlar
+tanımdan anlaşılabilceği üzere elektrik alanın yönü pozitif yüklü parçacığın hissedeceği kuvvetin yönüyle aynı, negatif yüklü parçacığın hissedeceği kuvvetin yönünün zıttıdır
+aynı yükler birbirini çekip zıt yükler birbirini iteceğinden (aşağıda formülü verilmiştir), pozitif yüklerin etrafındaki alanların dışarıyı gösterdiğini ve negatif yüklerin etrafındaki alanların içeriye doğru yöneldiğini söyleyebiliriz
+coulomb yasasına dayanarak, uzayda tek bir noktasal yük tarafından üretilen elektrik alanı yazabiliriz:
+e=1/4pi
+"q" elektrik alanı üreten parçacığın yükü,
+"r" elektrik alanı hesapladığımız nokta ile "q" yükü arasındaki uzaklık,
+r "q" yükünden elektrik alanın hesaplandığı noktayı gösteren birim vektör,
+epsilon yalıtkanlık sabiti
+birden fazla noktasal yükün ürettiği elektrik alan yüklerin teker teker ürettiği elektrik alanların süperpozisyonudur:
+alternatif olarak, gauss yasası uzayda sürekli bir yük yoğunluğu dağılımının ürettiği elektrik alanı hesaplamamızı sağlar
+"ρ" pozisyona bağlı olarak yük yoğunluğunu verir
+coulomb yasası esasen elektrik yük dağılımı ile bu dağılımdan kaynaklanan elektrik alan arasındaki ilişkiyi gösteren gauss yasasının özel bir halidir
+gauss yasası elektromanyetik teoriyi oluşturan dört maxwell denklemlerinden biridir
+elektrik alan çizgileri
+elektrik alanını zihinde daha kolay canlandırmak için elektrik alan çizgileri kullanılır
+elektrik alan çizgilerinin özellikleri şunlardır:
+sabit alanlar
+her noktada aynı değere sahip olan elektrik alana sabit elektrik alan denir.iki paralalel iletken levhaya potansiyel fark uygulanarak yaklaşık olarak elde edilebilir.yaklaşık olmasanın sebebi elektrik alanın köşelerde düzenli halinden uzaklaşmasıdır.bu etkenleri ihmal edersek eşitlik
+formula_5 halini alır
+bu eşitlik sadece elektrik alanın büyüklüğünü vermektedir.elektrik alanın yönü ise pozitif yüklü levhada negatif yüklü levhaya doğrudur
+sabit alanda yüklü parçacığın hareketi
+m kütleli, q yüklü bir cismi e elektrik alanına koyarsak, bu cisme formula_6 kadarlık bir net kuvvet etki eder, dolayısıyla cisim ivmeli hareket yapar
+(newton'ın hareket yasaları) yani cismin ivmesi
+zamana bağlı alanlar
+elektrik alan durağan bir yük tarafından üretilebileceği gibi değişen manyetik alanın sonucu olarak da oluşurlar
+sonuç olarak,
+"phi" skaler elektrik potansiyeli,
+"a" manyetik vektör potansiyeli
+aynı zamanda formula_9 vektörü manyetik debi yoğunluğunu verir
+elektrik alan denkleminin curl'ünü alırsak,
+bu denklem maxwell denklemlerinden biridir, faraday-lenz yasası olarak bilinir
+elektrostatik durağan yükleri çevreleyen elektrik alanların bilimiyken manyetik alanın değişmesiyle oluşan elektrik alanlar elektrodinamik ve elektromanyetik konusudur
+elektrostatik özellikler
+yukarıdaki denklemlerde görüldüğü gibi elektrik alan pozisyona bağlıdır
+noktasal bir yük tarafından üretilen elektrik alan parçacığa olan uzaklığın karesiyle azalır
+elektrik alan süperpozisyon prensibine uyar
+eğer birden fazla noktasal kaynak varsa herhangi bir noktadaki toplam elektrik alan bu noktasal kaynakların o noktada tek başına ürettiği elektrik alanların vektörel toplamıdır
+bu kural sonsuz sayıda küçük yük elementi için genişletilirse toplam formülü integrale dönüşür:
+"ρ" pozisyona bağlı olarak yük yoğunluğunu yani birim hacme düşen yük miktarını verir
+bir noktadaki elektrik alan o noktadaki elektriksel potansiyelin negatif gradyanına eşittir:
+"φ" verilen noktada elektriksel potansiyeli gösteren skaler alandır
+eğer birden fazla yük dağılımını böyle bir elektriksel potansiyel üretiyorsa (örneğin bir katıda) elektrik alan gradyanı da tanımlanabilir
+doğrusal materyallerin yalıtkanlık sabiti epsilon olmak üzere, dielektrik alan aşağıdaki formül ile verilir:
+elektriksel potansiyel enerji
+elektrik alan enerji depolar
+bir elektrik alanın enerji yoğunluğu aşağıdaki gibidir
+epsilon alanın içerisinde bulunduğu yerin yalıtkanlık sabiti, e elektrik alan vektörüdür
+böylece, verili bir "v" hacminde depolanan toplam enerji d"v" diferansiyel hacim elementi olmak üzere
+olarak verilir
+elektrostatik ve kütle çekimi arasındaki paralellikler
+elektrik yükleri arasındaki ilişkiyi gösteren coulomb yasası
+newton'ın evrensel kütleçekim yasası ile benzerdir:
+bu, elektrik alanla yer çekimi alanı arasında benzerlikler olduğunu gösterir
+bu benzerlikler:
+elektrostatik ve kütleçekim kuvvetleri arasındaki farklar:
+</text></doc>
+<docno>158631</docno>
+<text>
+amerika birleşik devletleri'nin idari bölümleri
+amerika birleşik devletleri'nin siyasî birimleri ve bölümleri arasında aşağıdakiler bulunur:
+hepsi birlikte abd'de yaklaşık 85.000 siyasi varlık olduğu kestirilebilir
+abd'nin siyasi birimleri ve bölümleri toplam abd topraklarının bir altkümesini oluşturur
+politik birimler ve çalışma sistemleri
+amerika birleşik devletleri'nin birincil idari birimi, federal birlikten sonra, eyalettir
+teknik olarak ve hukuken, eyaletler abd'den yaratılmış bölümler değil, abd'yi oluşturan birimlerdir, çünkü abd ve onu oluşturan eyaletler, paralel bir egemenlik sistemi içinde faaliyet gösterirler
+abd anayasa mahkemesi'nin çeşitli kararlarına göre, eyaletler ve abd (yani 50 eyalet ve columbia bölgesi ile eşsınırlı olan federal devlet) egemen yetki alanlarıdır
+abd'nin egemenliği abd anayasası'nın hükümleriyle kesin şekilde sınırlandırılmıştır, buna karşın her bir eyaletin egemenliği, iki nokta dışında sınırsızdır: (1) her eyaletin abd anayasası aracılığıyla abd'ye aktarmış olduğu egemenliği ve güçleri ve (2) eyaletin kendi anayasasının hükümleri, genelde (ama hep değil) eyaletin egemenliğini uygulamasına belli kısıtlar getirir
+çoğu eyalet kendi egemenliğinin uygulamasını merkezsizleştirir
+bu tipik olarak üç seviyede olur ama en az iki, ve bazen üçten fazla seviyede de olabilir
+merkezsizleştirmenin ilk seviyesi eyalet düzeyinde olur, eyalet yönetiminin doğrudan kontrolü altında çalışan kuruluşlardan oluşur, nüfus müdürlüğü, motorlu taşıt veya halk sağlığı daireleri gibi
+ikinci seviye, genelde "county" (alaska'da "borough", louisianna'da "parish" denir) düzeyidir, bu eyaletin idari bir bölümüdür (bazen, örneğin metropol belediye durumunda eyaletin bir alt bölümü olmaktan da öte bir özelliği olabilir)
+bu ikinci düzey kuralının bir istisnası connecticut'tur, bu eyalet 1960'da "county" yönetimini yürürlükten kaldırmıştır
+çoğu eyalette görülen üçüncü bir düzey, "township" olarak adlandırılan ve county'nin idari bir alt birimi olan, kent düzeyinde yerel yönetimdir
+"county"ler eyalet yönetim faaliyetlerine yerel destek vermek amacını taşırlar, örneğin emlak vergi gelirlerinin toplanmasında ("county"ler genelde vergilendirme yetkisine sahip değildirler), ama genelde belediyelerce sunulan hizmetleri sağlamazlar
+"township"ler, bir belediyeye dahil olmayan bölgelerde halka yerel hizmetler temin ederler
+bazı eyaletlerde, michigan gibi, eyalet üniversiteleri eyalet anayasası gereği otonom hukuki yetki alanı olarak tanımlanmışlardır, bir metropol belediyeninkine yaklaşık eşit bir özel statüye sahiptirler
+yani, örgütler tüzelleştikçe belediyeymiş gibi faaliyet göstermeye başlarlar, ama içinde bulundukları belediyenin çoğu yasama ve idari kontrolünden özerk olmaları nedeniyle, eyaletin idari birimlerine benzer hâle gelirler, bazı bakımlardan "county"lere eşit veya hatta onlardan üstün olabilirler
+bazı eyaletlerde şehirler "township"lerden bağımsız olarak faaliyet gösterir
+bazı şehirler (ve virginia'daki tüm şehirler) hiçbir bir "county"nin yetki alanı içinde olmadan faaliyet gösterir
+şehirler (bazen "town", yani kasaba olarak da adlandırılır) "county" ve "township"lerden farklıdır, çünkü eyaletin idari bölümlerinden "değildirler"
+bunlar hukuken eyalet tarafından tanınan yarı özerk belediye şirketleridir
+esasta, bir belediye şirketi olan şehir, eski çağlardaki şehir devletlerin modern bir biçimidir, bu tür egemen varlıklar günümüzdeki örnekleri arasında monako, san marino, singapur ve vatikan sayılabilir
+federal hükümetin altbirimlerinin başında columbia bölgesi ("district of columbia") gelir, burada bulunan abd kapitol binası, abd yönetiminin yasama mekânıdır
+abd kongresi, columbia bölgesi ve federal hükümet tarafından kontrol edilen diğer tüm topraklar üzerinde tek başına yetki kullanır
+dört eyalet (massachusetts, pennsylvania, virginia, and kentucky) kendilerini ""commonwealth"" (kamu varlığı) olarak adlandırırlar, bu terim onların kuruluş tüzüklerinden ve anayasalarından kaynaklanır
+federal bağlamda, ""commonwealth"" terimi ""territory"" ile ""state"" (ingilizce hem "bağımsız devlet" hem "abd eyaleti" anlamında) arasında bir statüye karşılık gelir, ama kendini bu şekilde tanımlayan bu dört eyalet ile ilgili değildir
+federal düzeyde bir eyalete ""state"" (eyalet) veya ""commonwealth"" denmesinin bir farkı yoktur, bu eski terim günümüzde önemsiz hâle gelmiştir
+kuzey mariana adaları, abd ile ilişkili bir "commonwealth"dir
+bir gün eyalet olma mertebesine ilerleyebilir veya bağımsızlığı seçebilir, filipinler'in pekçok yıl bir abd "commonwealth"i olduktan sonra bağımsız olması gibi
+bir federal toprak ("territory"), "organize olmuş" veya "organize olmamış" olsun, (eyalet bir yana) bir "commonwealth"e kıyasla çok daha az sayıda hakka sahiptir, ama bir ""possession"" (zilyetlik)'ten bir nebze daha önde sayılabilir çünkü ""possession""da daimi bir nüfus yoktur ve dolayısıyla basit bir yönetime dahi gerek göstermez
+abd topraklarının federal denetimi
+abd kongresi
+abd anayasası'nda madde iv, bölüm 3, abd kongresi'nin abd toprakları üzerindeki otoritesini şöyle tanımlar:
+eyaletlerin parçası olmayan toprak birimler üzerinde kongre'nin gücü ayrıcalıklı (münhasır) ve evrenseldir
+federal toprak, birliğin bir eyaleti haline gelince eyalet, yetkilerinde meydana gelen değişikliklere rıza göstermelidir
+bu ilke bir kere ihlal edilmiştir, amerikan iç savaşı'ndan önceki aylarda virginia eyaleti abd'den çekilince, eyaletin kuzey batısında oluşan ayrılıkçı bir halk meclisi virginia'dan kopmaya karar verip west virginia eyaletini kurmuştur
+abd içişleri bakanlığı
+3 mart 1849'da, 30
+kongre'nin son günlerinde, "abd topraklarının" içişlerine bakacak bir içişleri bakanlığı ("u.s. department of the interior") kurulması için bir yasa kabul edildi
+içişleri bakanlığı'nın geniş bir sorumluluk yelpazesi vardır, bunların arasında toprak yönetimlerinin düzenlenmesi ve kamu topraklarıyla ilgili temel sorumlulukları sayılabilir
+başka ülkelerde benzer şekilde adlandırılan bakanlıklardan farklı olarak, abd içişleri bakanlığı yerel yönetimlerden veya kamu idaresinden sorumlu değildir
+bunun iki istisnası kızılderili rezervasyonlarına bakan kızılderili işleri bürosu ("bureau of indian affairs") ve bağımlı adalara bakan ada işleri ofisi ("office of insular affairs")'dir, bu iki kuruluş bakanlığa bağlıdır
+eyaletler
+bağımsızlık bildirisi yapıldığında, abd 13 eyaletten oluşmaktaydı, bunlar birleşik krallık'ın eski sömürgeleriydi
+izleyen yıllarda, eyaletlerin sayısı düzenli şekilde artmıştır; batıya doğru genişleme, fetih ve amerikan devletinin toprak satın alımı, ve mevcut eyaletlerden bazılarının bölünmesi sonucu, günümüzdeki 50 birleşik eyalete ulaşılmıştır:
+ülkenin federal sistemi nedeniyle eyalet ve millî hükümet arasındaki ilişki karmaşıktır
+abd hukukuna göre, eyaletler egemen varlıklardır, her bir eyaletin gücü federal yönetimden değil, o eyaletin vatandaşlarından kaynaklanır
+egemen eyaletler egemenliklerinin bir kısmını merkezî yönetime devredince abd'nin federal yönetimi meydana gelmiştir
+devrettikleri egemenlik mutlak değildir
+bu yetki devrinin mantıksal sonucu olarak, federal yönetimin sınırlı bir egemenliğe sahiptir ve eyaletlerin, federal yönetime devretmedikleri güçleri korumuştur
+federal yönetimin yetkili olduğu alanlarda federal kanunlar eyalet kanunlarını geçersiz kılabilir, ama federal yönetimin güçleri abd anayasası tarafından devredilmiş sınırlı egemenliğe tâbidir
+(abd anayasası'nın onuncu ek maddesi federal hükümete devredilmemiş güçlerin eyaletlere ait olduğu belirtilir ama bu bariz bir gerçek olduğu için bir belit ("truism") olduğu kabul edilir.)
+abd anayasa mahkemesi, "texas v. white" davasında, eyaletlerin ayrılma hakkı olmadığı kararını vermiş, ama "ihtilal, veya eyaletlerin onayı ile" bölünme olasılığını kabul etmiştir
+abd anayasası gereği eyaletler dış politika yürütemezler
+50 eyalet üç ayrık kısma bölünebilir:
+birleşik devletler ayrıca çeşitli topraklar, bölgeler ve zilyetliklere de sahiptir
+bunların başta geleni columbia bölgesi'ndeki federal bölge ve bazı denizaşırı adasal bölgelerdir, bunların en önemlisi amerikan samoası, guam, kuzey mariana adaları, porto riko ve abd virgin adaları sayılabilir
+20. yüzyıl başında ispanya'yla olan savaşta kazanılan adalar artık yabancı toprak sayılmamaktadır; buna karşın abd anayasa mahkemesi bu adaların otomatik olarak abd anayasasının yetki sahası içinde olmadığına hüküm vermiş, anayasa'nın hangi bölümlerinin bu adalara uygulanabileceğinin abd kongresi'nin takdirine kaldığını belirtmiştir
+bunun tek istisnası, abd'nin tek katılmış toprağı olan palmyra atolü'dür; burası örgütlenmemiş ve ıssızdır
+eyaletlerin bölümleri
+"county"ler
+eyaletler, daha küçük idari birimlere bölünmüştür iki eyalet haricinde bunlar "county" olarak adlandırılır
+istisnalar alaska ve lousiana eyaletleridir
+alaska eyaletin bir kısmı "borough" olarak adlandırılan alt birimler şeklinde düzenlenmiştir; eyaletin geri kalanı "unorganized borough" olarak adlandırılır, burası hiçbir "borrough"ya ait değildir, ve "nüfus sayım alanları" ("census area") olarak bölünmüştür
+louisiana ise, "county" dengi "parish"ler olarak bölünüştür
+ayrıca bazı eyaletlerde bulunan bağımsız şehirler hiçbir "county"ye ait değildir
+bir diğer tip teşkilatlanma, şehir ve "county"nin birleşip bağımsız bir şehir olarak faaliyet göstermesidir
+virginia'da 39 bağımsız şehir vardır, ayrıca "county"lere ait olmayan ve onlarla bütünleşmemiş bağımsız şehirler arasında baltimore, maryland, st. louis, missouri, ve carson city, nevada sayılabilir
+"county"lerde birden çok şehir, kasaba, köy veya hamlet olabilir, bazen de bir "county" bir şehrin sadece bir kısmını kapsayabilir
+"county"lerin siyasi ve hukuki önemi değişken olabilir ama hep bir eyaletin alt birimidirler
+bazı şehirler "county"leri ile bütünleşmiş ve eşsınırlıdır, örneğin denver, san francisco ve philadelphia, yani bu "county"lerin tamamı tek bir belediyedir, bu belediye yönetimi aynı zamanda county hükümetini yönetir
+new york city, kendisini oluşturan beş "county" ile eşsınırlıdır
+daha çok ayrıntı için "county" ve abd "county" istatistikleri maddelerine bakınız
+çoğu eyaletteki "county"ler "township"lere bölünmüştür, bunlar tanım olarak "county"nin idari alt birimleridir
+bazı eyaletlerde, örneğin michigan'da, bir "township", eyalet hükümetine bir kuruluş belgesi ("charter") sunarak kendisine "charter township" statüsü elde eder, bu bir tip karma belediye ve "township" statüsüdür (bir "township" için bir şehrin tüm sorumluluklarını almadan bazı haklarını elde etmesini sağlar), metropol belediyenin karışık bir "county" ve belediye olmasına benzer şekilde
+şehirler
+abd'de yaklaşık 30.000 tüzelleşmiş ("incorporated") şehir vardır, bunlar farklı derecelerde özerktirler
+"township"ler
+"township", bir şehir ile county arasındaki bir ara mülki terimdir; şehirler bazen "county" sınırlarını aşabilir, ama "townshipler" bunu yapmaz
+bazı "township"lerin hükümeti ve politik gücü vardır, diğerler sadece coğrafi bir tanımlamadır
+abd'deki "township"ler genelde kamu arazi haritalama sistemi ("public land survey system")'nin ürünüdür
+daha çok bilgi için "survey township" ve "civil township" maddelerine bakınız
+"township"ler "section"lara (bölümlere) bölünür, bunların ayrı yönetimi olmaz
+"township" ve "town" (kasaba) terimleri birbirleriyle yakından ilişkilidir (çoğu tarihî belgede iki terim birbiri yerine kullanılır)
+ancak, kasaba ve "township"lere verilen güçler eyaletten eyalete çok farklılık gösterir
+new england'da kasabalar yerel yönetimin başlıca biçimidir, diğer eyaletlerde "county"lerin pekçok işlevini sağlar
+california'da buna karşın, yönetim kanununun ilgili maddeleri ""town"" sözcüğünün ""city"" (şehir) anlamına geldiği, ama ""charter city"" değil de özellikle ""general law city"" (genel hukuk şehri) anlamına geldiği belirtilir
+"general law city"ler, eyalet yasaları ile meydana gelmişlerdir ve o yasalar ile kontrol edilir, "charter city"ler ise kendi kuruluş yasaları ile yönetilirler
+eyaletler tarafından idare edilmeyen yetki alanları
+federal bölgeler ("districts")
+kongre'nin doğrudan otoritesi altında ve ayrı bir federal bölge olan columbia bölgesi, maryland ve virginia tarafından federal devlete bırakılmış toprak üzerinde oluşturulmuştur
+ancak, virginia tarafından verilen toprak 1846'da o eyalete geri verilmiştir
+columbia bölgesi herhangi eyaletin parçası değildir ve abd kongresi şehir üzerinde "her durum için münhasır yetki hakkına sahiptir"; buna rağmen, "district of columbia home rule act" (columibia bölgesi yerek yönetim yasası) belediye başkanı ve belediye encümeni dahil olmak üzere sınırlı bir yerel yönetim hakkı ("home rule") tanımaktadır
+kızılderili rezervasyonları
+amerikan kızılderili rezervasyonları, birleşik devletler içinde yer alan ayrı ve özel bir siyasi alt birim sınıflandırmasıdır
+abd kanunlarına göre, kızılderili kabileleri egemen milletler olarak sayılır, yani yasal otoriteleri federal ve eyalet devletlerinden bağımsızdır
+ancak, bu kabile egemenliği tanımına göre, eyalet yasalarının denetiminden muaf olmalarına rağmen, federal devletten bağımsız davranamazlar
+19. yüzyıl sonlarına kadar, abd devleti ve yerli amerikalı gruplar arasındaki anlaşmalar genelde "antlaşma" olarak adlandırılmış ama günümüzde bu anlaşmaların nasıl adlandırılmış ulursa olsun, devlet kanunu sayılırlar
+1883 dawes yasası'ndan beri kızılderili kabileleri ile yeni bir antlaşma yapılmamıştır
+bölgeler ("territories")
+ne bir eyalete ait ne de bir yerli millet'e tahsis edilmiş bölgeler genelde abd yönetimi tarafından hukuken toprak ("territory") olarak tanımlanmıştır
+"territory" federal kanuna göre hukuki bir tanıma sahip olduğu için, "adasal alan" ("insular area") terimi jenerik olarak kullanılır
+bunlar enkorpore olmuş toprak (yani abd anayasası hükümlerine dahil edilmiş) veya enkorpore olmamış (yani abd anayasası'nın geçerli olmadığı bölgeler) olabilir
+1789'da kuzeybatı topraklarının örgütlenmesinden sonra, bir eyalet olarak katılmamış olan tüm alanlar, organize enkorpore topraklar olarak, yerel düzeyde biraz özerklik ile, kongre'nin direkt kontrolü altında oldular
+1959'da hawaii'nin kabulünden sonra başka enkorpore toprak olmamıştır, meskun olmayan palmyra atoll hariç
+palmyra atolü önceden hawaii toprağı'na aitti ama hawaii'nin kabulüne dahil edilmemişti
+diğer bazı deniz ötesi enkorpore olmamış topraklar artık bağımsız ülkelerdir, örneğin küba, filipinler, mikronezya federe devletleri ve palau
+eyaletlerden farklı olarak, adasal alanlarda egemenlik yerel insanlara ait değil, sadece kongre'nindir
+çoğu yerde bir organik yasa ile kongre öz yönetim vermiştir, bu organik yasalar yerel bir anayasa işlevine sahiptir
+kuzeybatı talimnamesi tarafindan topraklara, abd kongresine oy hakkı olmayan bir delege yollama hakkını verilir
+hukuken abd "toprağı" ("territory"si) sayılması gereken deniz ve ada egemenlik hakları ile ilgili bazı uluslarararası anlaşmazlıkları sürmektedir
+bakınız "abd'nin uluslararası toprak anlaşmazlıkları."
+adasal alanlar "(insular areas)"
+büyük okyanus ve karaip denizi'nde bazı adaları abd'in adasal alanlarından sayılır
+bazı abd devlet kaynakları ayrıca bajo nuevo bank ve serranilla bank'ı adasal alanlar arasında saymaktadır, bunları abd küçük dış adalarına dahil etmektedir
+bu iddialar uluslararası düzeyde kabul edilmemiştir
+abd, 18 temmuz 1947'den 1 ekim 1994'e kadar pasifik adaları vesayet toprakları'nı (trust territory of the pacific islands) idare etmiştir, ama daha sonra bu dört politik birim ile yeni bir siyasi ilişkiye girmiştir (bunlardan biri yukarıda belirtilen kuzey mariana adaları'dır, diğerleri aşağıda belirtilen özgürce ortaklaşmış devletlerdir ("associated state"))
+özgürce ortaklaşmış devletler
+özgürce ortaklaşmış devletler, abd'nin özgür ortaklık antlaşması ("compact of free association") yapmış olduğu üç egemen devlettir
+egemen olduklarından beri abd yetki alanı içinde değildirler; ancak bu ülkeler 1990'larda birleşmiş milletler'e dahil olana kadar bunlar abd'nin bağımlılıkları olarak görülmekteydi
+seçim bölgeleri
+her politik kurum, üyelerinin seçilerek geldiği bölgeler tanımlar
+kongre seçim bölgeleri ("congressional districts") bunun bir örneğidir
+eyalet yasama organları da eyalet toprağının alt bölümlerinin temsilcilerinden oluşur
+diğer bölgeler
+eyalet, "county" ve şehir düzeyinde yasama yapan genel amaçlı yönetim birimlerinine ek olarak, özel amaçlı doğa koruma bölgeleri de vardır
+hükümetimsi organlar
+yukarıdakilere ek olarak, abd mahkemeleri bazı daha küçük organların devlet fonksiyonlarını yerine getirdiğine hüküm vermişlerdir ve dolayısıyla diğer "geleneksel" (abd anayasası ile tanımlı) devlet organlarının tâbi olduğu kısıtlamaların (ayrımcılık yapılmaması, vb.)
+bu organlar için de geçerli olduğuna karar vermişlerdir
+bunlar arasında ev sahipleri dernekleri (abd anayasa mahkemesi'nin "shelley v. kraemer", "loren v. sasser", "committee for a better twin rivers v. twin rivers homeowners’ association" davaları ile bu konu belirlenmiştir) ve şirket mülkiyetli kasabalar (hem çalışanlar hem de tüketiciler için, 1946'da abd anayasa mahkemesi'nin "marsh v. alabama" davasında karara bağlanmıştır)
+çoğu evsahibi ve komşuluk dernekleri kâr amaci gütmeyen örgüt sayılır, ama bunların vergi veya harç toplama yeteneği vardır, tüzük kurallarına uymayan üyelerini cezalandırırlar, ve dava açabilirler
+bu tür topluluklarda sivil haklar ("civil rights") (fikir özgürlüğü, vb.)
+konusu kesin biçimde belirlenmemiştir ve eyaletten eyalete değişir
+</text></doc>
+<docno>7704</docno>
+<text>
+alan (fizik)
+alan, fizik kuramlarında kullanılan, matematikteki cebirsel alanın tüm özelliklerini taşıyan terim
+genellikle bu etki 100 nanometre ve daha küçük skalalarda etkili olur
+bu etki nanoteknolojiyle aynı skalaya denk gelir
+bir alan mekan ve zaman içinde her birnokta için bir değeri olan bir fiziksel miktar'dır ..örneğin, hava durumu ,rüzgâr hızı uzayda her nokta için bir vektör atayarak tarif edilmektedir
+her bir vektör bu noktada hava hareketinin hızını ve yönünü temsil eder
+bir alan her noktadaki alanın değeri sırasıyla skaler,vektör,bir spinor veya bir tensör olup olmadığını, uygun skaler, a vektör, bir spinör veya bir tensör,olarak sınıflandırılabilir 
+örneğin,newtonyen yerçekimi alanı bir vektör alanıdır: uzay zamanı içinde bir noktada onun değerini belirterek bu noktada üç sayı ,yerçekimi alan vektörününbileşenleri gerektirir 
+ayrıca, her kategoride ( skaler,vektör,tensör) içinde,bir alan sırasıyla numaraları veya kuantum operatorleri ile karakterize olup olmadığına bağlı olarak bir "klasik alan" veya bir "kuantum alanı"da olabilir.bir alan bütün uzay boyunca uzanan olarakta düşünülebilir.uygulamada, bilinen her alanın gücü tespit edilemez olma noktasına olan mesafe ile azaltmak için bulunmuştur.örneğin, çekimin newton teorisi, yerçekimi gücü çekilen nesneye olan uzaklığın karesi ile ters orantılıdır
+bu nedenle dünya'nın yerçekimi alanı hızla kosmik ölçeklerde saptanamaz olur 
+"uzaydaki numaralar" olarak tanımlanan alanın fiziksel gerçek olduğu fikrine olumsuz etkisi olmamalıdır
+"bu alanı kaplar.bu enerji içerir onun gerçek varlığını bir vakum ortadan kaldırır.öyle ki biz bunu bir parçacık koyduğumuz zaman,parçacık bir kuvvet "hissediyor ".” alan "uzayda bir durum yaratır" bir elektrik yükü hızlanır,başka bir yükün etkileri anında görünmüyor .ilk şarj momentum toplayıp,bir tepki kuvvet hisseder,fakat ikinci şarj etkisine kadar hiçbir şey hissetmiyor seyahat ışık hız onu ulaşır ve ona momentum verir.ikinci yükten önceki momentum nerede ?
+momentumun korunumu yasası ile bir yerde olmalı.fizikçiler derki " gücün analizi için büyük yarar" bunu bulduk "alan içindeki varlık olarak düşünüyorlar
+bu programı elektromanyetik alan ler gerçekten var olduğuna inanan fizikçiler yol açar,modern fiziğin tüm yapısının alan kavramına bir destek paradigma'sı yapıyor.john wheeler ve richard feynman derki bir uzaklıktan hareket'in newton'un öncesi alan kavramı ciddiye alınmalı(onlar, genel görelilik ve kuantum elektrodinamiği araştırması için sürmekte olan alan kavramının yararını bir kenara koymasına rağmen)
+"aslında elektromanyetik alanın sahip olduğu momentum ve enerji ile onu çok gerçek kılan...bir parçacık bir alan yapar ,ve bir alan başka bir parçacığa hareket verir ve alan;enerji içeriği ve momentum gibi tanıdık özelliklere sahip,sadece parçacıklar olabildiğince var"
+tarih
+isaac newton evrensel kütle çekimi kanununu sadece büyük nesneler herhangi bir çifti arasında hareket yerçekimi kuvvetini dile getirdi.tüm cisimlerin her çifti arasındaki kuvvet ile uğraşan , bu tür güneş sistemi'ndeki gezegenler gibi , birbirleri ile etkileşen birçok cisimlerin hareket baktığınızda ayrı hızla hesaplama sakıncalı olur.on sekizinci yüzyılda, yeni bir varlık tüm bu yerçekimi kuvvetlerinin defter tutma kolaylaştırmak için icat edildi.bu varlık,çekim alanı uzayda her noktada bu noktada birim kütleye sahip bir nesne tarafından hissedilir olacaktır.toplam yerçekimi kuvveti verir
+eğer tek bir nesne üzerindeki tümyerçekimi kuvvetleri hesaplanır ve daha sonra onları bir araya eklenir ise ya da ilk önce bir yerçekimi alanı olarak birlikte tüm katkıları toplanır ve nesneye bir uygulanırsa,önemli değil.bu herhangi bir şekilde fizikte değişmedi
+bir alan kavramının bağımsız gelişimi gerçekten elektromanyetizma teorisinin gelişimi ile on dokuzuncu yüzyılda başladı.erken evrelerde andré-marie ampère ve charles-augustin de coulomb elektrik yükleri ya da elektrik akımı çiftleri arasındaki kuvvetleri ifade newton tarzı yasalarla yönetilmiş olabilir.ancak, çok daha doğal alan yaklaşım ve elektrik ve manyetik alan açısından bu yasaları ifade etmek oldu; 1849 yılında michael faraday dönemi "alan" için ilk değer oldu 
+alanın bağımsız doğası bu alan içindeki dalgalar sonlu bir hızla yayılır ki james clerk maxwell keşfi ile daha belirgin hale geldi.sonuç olarak yükler ve akımları üzerinde kuvvetler artık sadece aynı zamanda diğer yük ve akımların pozisyonları ve hızlarına bağlıydı,ama aynı zamanda geçmişteki konumlarına ve hızlarına 
+maxwell ilk başta,bağımsız olarak var olabilecek alan gibi modern bir bir temel varlık kavramını kabul etmedi 
+bunun yerine , elektromanyetik alan'ın deformasyonunun bazı temel ortam yani -ışık-saçan eter- ifade etmesi gerekiyordu,bir lastik zarında gerginliğe çok benzer
+eğer bu durumda olsaydı, elektromanyetik dalgaların gözlenen hızı etere göre gözlemcinin hızına bağlı olması gerekir.çok çabaya rağmen,hiçbir deneysel kanıt böyle bir etkiyi şimdiye kadar bulamadı,durum 1905 yılında albert einstein tarafından özel görelilik teorisinin tanıtımı ile çözüldü.bu teori hareketli gözlemcilerin bakış açılarının maxwell'in teorisinde elektromanyetik dalgaların hızı tüm gözlemciler için aynı olacak şekilde birbirleriyle ilişkili olmalıdır şeklinde değişti 
+arka plan ortamı için ihtiyaç ortadan yaparak , bu gelişme gerçekten bağımsız kuruluşlar gibi konularda düşünmeye başlamak için fizikçiler içinbir yol açtı
+1920'li yılların sonlarında,kuantum mekaniği'nin yeni kurallar ilk elektromanyetik alanlara uygulanmıştır.1927 yılında,paul dirac başarılı bir atomun çürümesi olan alt kuantum durumu elektromanyetik alanın kuantumu bir foton'un spontan emisyonunu nasıl olduğunu açıklamak için kuantum alanları kullanılır.elektron ve proton da dahil olmak üzere tüm partikülleri, doğada en temel nesnelerin durumuna yükselten alanlar, bir kuantum alanının miktarı olarak anlaşılabilir ki(pascual jordan,eugene wigner,werner heisenberg,ve wolfgang pauli) çalışmasının ardından ) bu kadar çabuk gerçekleşmesi izledi
+klasik alanlar
+burada klasik alanlar'ın birkaç örneğidir.kuantum özellikleri meydana gelmeyen yerde klasik bir alan teorileri yararlı kalır,ve araştırmaların aktif alanları olabilir
+eşyaların elastisitesi, akışkan dinamiği ve maxwell denklemi nokta içindeki durumlardır
+bazı basit fiziksel alanlardan vektör kuvvet alanları vardır.tarihsel olarak, faraday'ın kuvvet çizgisi ise electrik alanı tanımı alanların ciddiye alındığını ilk zaman oldu.the çekim alanı was ise benzer tanımlandı
+newtonyen çekim
+bir klasik alan teorisi açıklayan yerçekimi newtonyen çekimdir,bu iki kütle(ler) arasındaki bir karşılıklı etkileşim çekim gücü olarak tanımlanır
+herhangi büyük gövde "m" bir çekim alanı g var bu olarak diğer büyük gövdeyi etkisiyle onu tanımlar
+"m" in çekim alanı olarak uzay içindeki bir r noktası f kuvveti tarafından belirlenerek bulunur
+bu "m" uygulama olarak bir küçük test kütlesi rde "m" yer alır, ve "m" tarafından bölünürse:
+öngörülen "m" çok küçük "m"e göre şunu sağlar ki "m" 'in varlığına "m" in davranışı ihmal edilebilir etkisi var
+newtonun kütleçekim kanunu'na göre, f(r) ile verilir
+burada formula_3 bir birim vektör "m" ve "m"dir ve "m" noktasından "me birleştiren hat boyunca uzanır.bu nedenle, m"' in çekim alanı dır
+deneysel araştırmalar bu eylemsiz kütle ve çekim kuvveti doğruluğun görülmemiş düzeyleri ne eştir çekim alanının özdeş gücü olarak to the deneysel hızlandırılan bir parçacık tarafından
+bu is eşdeğer prensipler'in başlangıç noktasıdır.bu genel görelilik için bir yoldur
+çünkü çekim kuvveti f koruyucudur,çekim alanı g gradienti bir skaler fonksiyonun terimleri içinde yazılabilir ,çekim potansiyeli φ(r):
+elektromanyetizma
+michael faraday önce fiziksel bir nesne gibi, bir alanın önemi içine yaptığı araştırmalar sırasında manyetizma'yı fark etti
+he realized that elektrik ve manyetik alanlar parçacıkların hareketini belirleyen kuvvetin yalnızca alanları değildir,ama onlar aynı zamanda enerjiyi taşırlar çünkü bağımsız bir fiziksel gerçekliğe sahipler
+bu fikirler sonunda elektromanyetik alan için denklemlerin tanıtımı ile,james clerk maxwell tarafından fizikte ilk birleşik alan teorisinin kurulmasına yol açtı
+bu denklemlerin modern versiyonuna maxwell denklemleri denir
+elektrostatik
+bir yüklü parçacık testi yüküne dayalı olarak yük "q" ile deneysel bir kuvvet f tir
+benzer tanım elektrik alanı e böyledir 
+kullanılan bu ve coulomb kanunu elektrik alanı nedeniyle bir tek yüklü parçacık olarak bize şunu söyler:
+elektrik alanı tutucudur ve bu nedenle bir skaler potansiyel ile tanımlanabilir, "v"(r):
+manyetostatik
+bir yol "ℓ" boyunca akan "i" sabit akım , yukarıda tarif edilen elektrik alan kuvveti kantitatif farklıdır yakındaki yüklü parçacıklar üzerine bir kuvvet uygulayacaktır.v hızı ile yakındaki bir "q" yükü üzerine "i" tarafından uygulanan kuvvet
+burada b(r) manyetik alandır,bu biot-savart kanunu tarafından "i" dan belirlenir:
+manyetik alan, genel olarak tutucu değildir, ve bu nedenle genellikle skaler potansiyeli açısından yazılı olamaz
+ancak açısından yazılmış olabilir bir vektör potansiyeli,a (r):
+elektrodinamik
+genel olarak, bir şarj yoğunluğu ρ(r, "t") ve akım yoğunluğuj(r, "t") her iki mevcudiyetinde, bir elektrik ve manyetik alan her ikisi olacak ve her ikisi de zaman içinde değişecektir
+bunlar doğrudan ρ ve j ye ilgilie ve b maxwell denklemleri, diferansiyel denklem kümesi tarafından belirlenir
+alternatif olarak, bir ile skalar ve vektör potansiyel "v" ve a cinsinden sistem tanımlayabiliriz
+"gecikmeli potansiyel" olarak bilinen ayrılmaz bir dizi denklem hesaplamasını sağlar "v" ve a dan ρ ve j,ye ve oradan elektrik ve manyetik alanlar ile ilişkileri belirlenir
+19.yüzyılın sonlarında,elektromanyetik alan uzay içindeki iki vektör alanının bir koleksiyonu olarak anlaşılmıştı.günümüzde, bir uzay zamanı içinde bir tek antisimetrik 2-rank tensör alanı olarak bu tanınır
+genel çekim içinde çekim
+çekimin einstein teorisi,genel görelilik olarak adlandırılır, bir alan teorisinin diğer bir örneğidir
+burada the prensip alan is the metrik tensördür,uzay-zaman içinde bir simetrik 2ci-rank tensör alanıdır evrensel çekimin newton kanunu'nun yerini aldı
+dalga alanları
+dalgalar fizik olanlar olarak yapılandırılabilirler, kendiliğinden sonlu yayılma hızı ve nedesel doğa ise izole kapalı sistem'in sadeleştirilmiş bir fizik model'inin kümesidir 
+bu aynı zamanda ters-kare yasası'na bağlıdır
+elektromanyetik dalgalar için, burada optik alan vardır, ve yakın- ve uzak-alan gibi terimler kırınım için sınırlardır.uygulamada, optik olsa da alan teorileri maxwell'in elektromanyetik alan teorisi tarafından aşılırlar
+kuantum alanları
+şimdi bir kuantum alan teorisi, en azından prensipte, kuantum mekanik anlamda bir yeniden düzenlemesine izin gerektiğini, böylece kuantum mekaniği, tüm fiziksel olayların temelinde olması gerektiğine başarı getirdiğine inanılan,kuantum alan teorisini verir
+örneğin,klasik elektrodinamik nicemleme ile kuantum elektrodinamiğini verir
+deneysel veriler başka bir teori daha (daha önemli basamak) daha yüksek bir duyarlıklı olarak onun öngörülerini teyit eder
+diğer iki temel kuantum alan teorisi kuantum renk ve elektrozayıf teorisi vardır; kuantum elektrodinamik tartışmasız en başarılı bilimsel teoridir
+kuantum kromodinamiğinde,renk alanı çizgileri gluon tarafından kısa mesafelerde birleştiğinde, alana göre polarize ve onunla hizalı olur.bu etki kısa bir mesafe içinde artar (kuarkların yakınlarından 1 fm çevresinde), hadronun içinde kuarklar hapsederek kısa bir mesafe içinde renk kuvvetinde artış yapar
+alan çizgileri gluonlar ile birbirine sıkıca çekilir gibi,bu elektrik yükleri arasındaki bir elektrik alanı olarak dışarıya kadar "beyaz" değil
+bu üç kuantum alan teorileri tüm parçacık fiziğinin ve sözde standart modelin özel durumları olarak elde edilebilir.genel görelilik, yerçekiminin einstein alan teorisi,şimdilik başarılı kuantize olmak için başarılı
+ancak bir uzantısı,termal alan teorisi," sonlu sıcaklıklarda", nadiren kuantum alan teorisi dikkate şeye kuantum alan teorisi ile ilgilenir
+brst teorisi içinde tek alanlar ile bölme yani faddeev–popov hayaletidir.dereceli manifoldu ve supermanifold her ikisi de tek klasik alanlarda farklı açıklamaları vardır
+klasik alanları yukarıda olduğu gibi, daha önce olduğu gibi benzer teknikleri kullanarak tamamen matematiksel bir görünümden kuantum karşılıkları yaklaşımı mümkündür
+kuantum alanları yöneten denklemler gerçeği kddlerin (özellikle, relativistik dalga denklemleri (rwes)) bulunmaktadır
+böylece bir yang-mills, dirac, klein-gordon ve schroedinger alanı ile ilgili denklemlerin çözümleri konuşulabilir
+olası bir sorun, bu rwes egzotik cebirsel özellikleri olan karmaşık matematiksel nesnelerin ile başa olduğunu (örneğin spinörleri tansörleri değildir, bu yüzden spinor alanı s üzerinde hesabı gerekebilir) ancak bu teori hala matematiksel genelleme uygun verilen analitik yöntemlere tabi olabilir
+alan teorisi
+bir alan teorisi , bir veya daha fazla fiziksel alan madde ile nasıl etkileşime açıklayan fizik teorisidir 
+alan teorisi genellikle bir alanın dinamiklerinin bir yapısı anlamına gelir , zaman veya alan bağımlı olduğu diğer bağımsız fiziksel değişkenler açısından alan değişikliklerin bir şartnamesidir yani 
+genellikle bu lagrangianveya alanın birhamiltonyen'i yazma ve serbestliğin derecesi sonsuz sayıda bir sistemin klasik mekanik (veya kuantum mekaniği) olarak muamele yapılır 
+oluşan alan teorileri klasik veya kuantum alan teorileri olarak adlandırılır
+klasik bir alanın dinamikleri genellikle alan bileşenleri açısından lagrangian yoğunluk ile belirtilen ,dinamik hareket prensibi kullanılarak elde edilebilir
+birkaç değişken hesabı , potansiyel teorisi ve kısmi diferansiyel denklemler (pdes) sadece matematik kullanarak herhangi bir fizik ön bilgi olmadan basit alanları inşa etmek mümkündür.örneğin, skaler pde gibi dalga denklemi ve akışkan dinamiği için genlik , yoğunluk ve basınç alanları gibi miktarlarda düşünebilirsiniz ısı/difuzyon denklemi denklemleri için ısı/konsantrasyon alanları
+fizik uygun (örneğin,radyometri ve bilgisayar grafikleri) dışında,hatta ışık alanları vardır 
+tüm bu örnekler, önceki skaler alanlar vardır 
+benzer vektörleri için , (uygulamalı matematik ) akışkan dinamiği deplasman , hız ve vortisiti alanları için vektör pde vardır , ama vektör hesabı şimdi bu üç miktarları gibi ( genel olarak vektör alanları üzerinde hesabı olan, yanı sıra ihtiyaç duyulan ve vektör pde için olanlar olabilir) .örneğin sürekli ortamlar mekaniği daha genel sorunlar içerebilir , daha sonra yön elastisite ( germek anlamına geldiği için latince kelime türetilmiş "tensor" terimi) , kompleks sıvı akar veya anizotropik difuzyon,matris - tensör kdd'lerin olarak çerçeveli ve matrisler gerektirir veya tensör alanları,dolayısıyla matris veya tensör hesabı
+bu skalerler (ve böylece, vektörler, matrisler ve tansörler) her ikisi de gerçek ya da kompleks soyut-cebir/halka-teoretik anlamda alanları olabilir unutulmamalıdır 
+genel bir ortamda,klasik alanlar lif demetleri ve bunların dinamikleri bölümleri jet manifoldlar (kovaryant klasik alan teorisi) açısından formüle edilmiştir tarif edilmektedir 
+modern fizikte ,en sık çalışılan alanlar bir gün birleşik alan teorisine yol açabilir olan dört temel kuvvet modelidir
+alanların simetrileri
+bir alan sınıflandırmak için uygun bir yol(klasik veya kuantum) ile simetrilere sahiptir
+fiziksel simetriler genellikle iki tiptir:
+iç simetriler
+alanlar uzay simetrilerine ek olarak iç simetriye sahip olabilir.örneğin, birçok durumda, bir uzay-zaman skalerlerin bir listesi verilmiş alanlar gerekir: (φ1, φ2, ... φ"n").örneğin, hava tahminleri, bu gibi sıcaklık, basınç, nem, olabilir,
+parçacık fiziğinde, kuarkların etkileşiminin renk simetrisi izospin veya çeşni simetrileri olduğu gibi, kuvvetli etkileşimin iç simetrisine bir örnektir
+bu bileşenleri birbirine dönüştürmek altında uzayzamanı kapsamayan sorunun bir simetrisi, var ise, o zaman simetrilerin bu dizisi bir iç simetrik olarak adlandırılır
+bir de iç simetrileri altında alanların yüklerinin bir sınıflandırması yapılabilir
+istatistiksel alan teorisi
+istatistiksel alan teorisi çoklu-cisim sistemleri ve istatistik mekanik'e yönelik alan teorik paradigmasını genişletmek için çalışır
+yukarıdaki gibi, bileşen serbestlik derecesi olağan sonsuz sayıya ulaşılabiliyor
+çok istatistiksel mekanik gibi kuantum ve klasik mekaniğin arasında bazı örtüşmeler vardır, istatistiksel alan teorisi birçok yöntemleri paylaştığı özellikle önceki,hem kuantum ve hemde klasik alan teorileri bağlantıları vardır
+önemli bir ortalama alan teorisi örneğidir
+sürekli rasgele alanlar
+bu tür elektromanyetik alanındaki gibi yukarıdaki klasik alanların, genellikle sonsuz türevlenebilir fonksiyonlar, ama hemen hemen her zaman, her durumda iki kez türevlenebilenleri vardır
+buna karşılık, genelleştirilmiş fonksiyonlar sürekli değildir
+sonlu sıcaklıkta klasik alanlar ile dikkatlice uğraşırken termal dalgalanan klasik alanlar hiçbir yerde türevlenebilir olmadığından, sürekli rasgele alanlar matematiksel yöntemleri kullanılır
+rastgele alanlar rastgele değişkenlerin indisli setleridir, sürekli rasgele alan kendi dizin kümesi gibi fonksiyonları bir dizin olan rastgele bir alandır
+özellikle, sık sık onun indisli seti gibi fonksiyonların bir schwartz uzayı'na sahip sürekli bir rasgele alanı almak matematiksel olarak uygundurki bu durum sürekli rasgele bir alanına bir
+katkılı dağılımlıdır
+biz sürekli bir rasgele alanı hakkında düşünebiliriz, bir (çok) kaba bir şekilde, hemen hemen her yerde formula_13 olduğunu, ancak bu sıradan bir fonksiyonu olarak bir bütün sonsuzlukların ağırlıklı ortalamasını alırken herhangi bir sonlu bölge üzerinde,ise sonlu bir sonuç alabiliriz
+sonsuz iyi tanımlanmış değildir, ancak sınırlı değerler sonlu değerlerini elde etmek için ağırlık işlevleri olarak kullanılan işlevler ile ilişkili olabilir, ve bu iyi tanımlanmış olabilir
+biz gerçek sayıların içine fonksiyonların bir uzaydan gelen bir doğrusal haritanın yeterince sürekli bir rasgele alanını tanımlayabiliriz
+alanların matematiği
+süreklilik görünümü (dolayısıyla "alan" terimi) sistem serbestlik derecesine sonsuz sayıyı sağlayarak ulaşılabiliyor
+bir vektör adi diferansiyel denklemin boyutu sadece vektör bağımlı değişken veya vektör fonksiyonun boyutudur
+bu anlamda kısmi diferansiyel denklemler yani sonsuz boyutun (birleştirilmiş)odelerinin ( bileşen serbestlik derecesi matematiksel yorumlama) olarak düşünülebilir
+ayrıca yön alanları olarak adlandırılan vektör alanları önemli araçları odelerinin sonuçları içinde analiz bulunmaktadır (faz düzlemine bakınız)
+nesnenin gerçek doğası diferansiyel denklemi analizin türünü belirler(ve bağımsız değişkenlerini) (örneğin gerçek skaler, karmaşık matris, öklid vektör veya dört vektör vs) - (bizim örneklerde - tek değişkenbir real hesabı , karmaşık bir matriks ve reel vektör alanlar üzerinde) gerekli
+kısmi diferansiyel denklemlerin dışında, (klasik) reel analiz ve karmaşık analizin diğer parçalar ya esinlenmiş veya teknikleri alan teorisi (veya her ikisi) uyguladık
+bu tür alanlara örnek spektral teorisi ve harmonik analiz (titreşim ve dalgalar) veya kendini açıklayıcı potansiyel teorisi, kendi başlarına tüm matematiksel konulardır
+ancak belki de en belirgin örnekleri varyasyon hesabı (lagrangiyen ve hamiltoniyen biçimcilikler) verilen bağlantılar) ve çok değişkenli hesabı ile diferansiyel geometri genellemelleri vardır - tensör hesabı da dahil olmak üzere, ve ayar kuramı - ve onun yakın akrabası diferansiyel topoloji
+</text></doc>
+<docno>128343</docno>
+<text>
+amit
+kimyada amit sözcüğü iki anlama sahiptir:
+- birinci anlamıyla amit, bir azot atomuna (n) bağlı bir karbonil grubu bulunduran bir organik fonksiyonel grup, veya bu gruba sahip bir bileşiktir
+- ikinci anlamıyla amit, bir azot anyonudur
+birinci anlamıyla amit, bir amin türevidir, azota bağlı ornatıklardan biri bir asil grubudur
+genelde r1(co)nr2r3 formülü ile gösterilir, burda r2 ve r3'ten biri veya ikisi birden hidrojen olabilir
+başka bir bakış açısıyla amitler bir karboksilik asit türevi olarak da sayılabilirler, hidroksil grubu bir amin veya amonyakla yer değiştirmiştir
+"amit" sözcüğünün ikinci bir anlamı, amonyak (nh3) veya bir aminin protonsuz hali olan amit anyonudur
+genelde [r1nr2]- formülü ile gösterilir
+çok güçlü bir bazdır, çünkü amonyak ve türevleri, brønsted asitleri olarak çok zayıftırlar
+bir amin veya amonyaktaki azotun üzerindeki bir hidrojen atomunun bir metal katyonu ile değişmiş olduğu bileşikler de amit olarak bilinirler, bunlara azanid de denir
+bu maddenin kalan kısmı amit sözcüğünün karbonil-azot anlamı hakkındadır
+anyonik amitlere örnek olarak sodyum amit ve lityum diizopropilamit maddelerine bakınız
+amit tepkimeleri
+amitler carbonil fonksiyonle gruplarının en kararlısıdır
+rezonans stabilizasyonu nedeniyle amitler fizyolojik şartlarda göreceli tepkisizdirler, benzer esterlerden dahi
+buna rağmen, amitler gene de tepkimeye girebilirler, genelde eğer karbonil atomuna bir elektronegatif atom saldırınca karbonil çift bağı kırılır ve tetrahedral bir ara bileşik oluşur
+amide saldıran fonksiyonel grup bir tiol, hidroksil veya amin olursa meydana gelen molekül bir siklol olarak, veya daha özel olarak, sırasıyla, tiasiklol, oksasiklol veya azasiklol olarak adlandırılır
+normal şartlarda amidin protonu ayrışmaz: pka'sı genelde 15'in üzerindedir
+ancak, aşırı asit şartlarda karbonik oksijen yaklaşık pka= -1 ile protonlaşabilir
+amitlerin özellikleri
+amit bağı kinetik olarak hidroliz olmaz
+ancak hem kaynayan alkalide, hem de kuvvetli asit şartlarda hidrolize olabilir
+biyokimyada amit bağlarına peptit bağı denir
+amit bağları proteinin tanımlayıcı özelliklerinden biridir, proteinlerin ikincil yapıları kısmen amitlerin hidrojen bağı kurma özelliğine bağlıdır
+aminlere kıyasla amitler zayıf bazlardir
+bir aminin eşlenik asidinin pka'sı 9.5 dolayındayken, bir amidin eşlenik asidinin pka'sı -0.5'tir
+dolayısiyla amitlerin suda pek belirgin asit-baz özellikleri yoktur
+bu bazlık noksanlığı karbonil grubunun elektron çekici özelliği ile açıklanır
+azottaki yalnız elektron çifti rezonans sonucu karbonil grubuna delokalize olur, karbonille bir çift bağ oluşturarak oksijende bir eksi yük oluşmasına neden olur
+öte yandan amitler karboksilik asitlere, esterlere, aldehitlere ve ketonlara kıyasla çok daha güçlü bazlardır, (eşlenik asit pka'sı -6 ile -10 arasındadır)
+çözünürlük
+amitler, elektronegatif oksijen ve azot atomları ile elektro-nötür karbon atomları arasında kovalent bağlanmadan meydana gelen karbonil (c=o) ve eter (n-c) dipollerine sahiptir
+birincil ve ikincil amitler de, sırasıyla, iki ve bir n-h dipole sahiptirler
+karbonilin pi-bağlanma düzeninden ve oksijenin daha yüksek olan elektronegatifliği nedeniyle, karbonil (c=o) dipolu n-c dipolundan daha güçlüdür
+c=o dipolunun varlığı ve n-c dipolunun da daha düşük oranda katkısı, amitlerin h-bağı alıcısı olmalarını sağlar
+dolayısıyla amitler su ve diğer protik çözücülerle hidrojen bağı kurabilir
+oksijen ve azot atomları sudan hidrojen bağları alırlar, n-h hidrojen atomarı da h-bağları verirler
+bu etkileşimler sayesinde amitlerin suda çözünürlükleri benzer hidrokarbonlardan daha yüksektir
+hidrojen bağları hidrokarbonlara kıyasla amitleri suda daha çok çözünür yapsa da, tipik olarak amitlerin suda çözünürlüğü az sayılır
+benzer alkol ve karboksilik asitlere kıyasla daha az çözünürler çünkü 1) iyonlaşmazlar, 2) polar olmayan hidrokarbon kısımları vardır, ve 3) üçüncül amitler suya hidrojen bağı veremezler (ancak hidrojen bağı alıcısı olabilirler)
+bu yüzden amitlerin suda çözünürlükleri esterlerinkine benzer
+genelde amitler benzer amin ve karboksilik asitlerden daha az çözünürler, çünkü bu bileşikler hem hidrojen bağı verici hem de alıcısıdırlar, ve uygun ph'lerde iyonlaşarak çözünürlüklerini daha da artırablirler
+türevler
+sülfonamitlerde oksijene çift bağ yapan atom kabon değil kükürttür
+halkalı amitlere laktam denir
+dış bağlantılar
+iupac kimya terminoloji özeti amit sayfası[http://goldbook.iupac.org/a00266.html
+</text></doc>
+<docno>75829</docno>
+<text>
+enzim
+enzimler, kataliz yapan (yani kimyasal tepkimelerin hızını artıran) biyomoleküllerdir
+neredeyse tüm enzimler proteindir
+enzim tepkimelerinde, bu sürece giren moleküllere substrat denir ve enzim bunları farklı moleküllere, ürünlere dönüştürür
+bir canlı hücredeki tepkimelerin neredeyse tamamı yeterince hızlı olabilmek için enzimlere gerek duyar
+enzimler substratları için son derece seçici oldukları için, ve pek çok olası tepkimeden sadece birkaçını hızlandırdıklarından dolayı, bir hücredeki enzimlerin kümesi o hücrede hangi metabolik yolakların bulunduğunu belirler
+her katalizör gibi enzimler de bir tepkimenin aktivasyon enerjisini ("e"a veya δ"g"‡) azaltarak çalışır ve böylece tepkime hızını çarpıcı şekilde artırır
+çoğu enzim tepkimesi, ona karşılık gelen ve katalizlenmeyen tepkimeden milyonlarca kere daha hızlıdır
+diğer katalizörler gibi enzimler de katalizledikleri tepkime sonucunda tükenmez, ve bu tepkimelerin dengesini değiştirmez
+ancak, diğer çoğu katalizörden farklı olarak enzimler çok daha özgüldür (spesifiktir)
+enzimlerin 4000'den fazla biyokimyasal tepkimeyi katalizlediği bilinmektedir
+enzimlerin büyük çoğunluğu protein olmakla beraber, ribozim adlı bazı rna molekülleri de tepkimeleri katalizler, bunun en iyi bilinen örneği ribozomu oluşturan bazı rna'lardır
+enzimlerin etkinliği başka moleküller tarafından etkilenebilir
+inhibitörler enzim aktivitesini azaltan moleküllerdir, aktivatörler ise enzim aktivitesi artıran moleküllerdir
+etkinlik ayrıca sıcaklık, kimyasal ortam (örneğin ph) ve substrat konsantrasyonu tarafından etkilenir
+bazı enzimler endüstriyel amaçla kullanılırlar, örneğin antibiyotik sentezinde
+ayrica bazı ev ürünlerinde biyokimyasal tepkimeleri hızlandırmak için enzim kullanılır (örneğin, çamaşır tozunda bulunan enzimler lekelerdeki protein ve yağları parçalar)
+etimoloji ve tarih
+1700'lerin sonlarında mide salgıları tarafından etin sindirildiği, tükürük ve bazı bitki özütlerinin nişastayı şekerlere dönüştürdüğü biliniyordu
+ancak, bunun hangi mekanizmayla olduğu bilinmiyordu
+19. yüzyılda, louis pasteur, maya tarafından şekerin alkole dönüşmesini (fermantasyonu) araştırırken, fermantasyonun maya hücrelerinde bulunan bir canlı güç tarafından meydana geldiği sonucuna vardı
+"ferment" diye adlandırdığı bu etmenler sadece canlılarda işlev gördüğü düşünülüyordu
+pasteur, "alkol fermantasyonu yaşam ve maya hücrelerinin organizasyonu ile bağıntılıdır, hücrelerin ölüm ve çürümesiyle değil" diye yazmıştır
+1878'de alman fizyolog wilhelm kühne (1837–1900) ilk defa ":wikt:enzim" terimini kullandı; sözcük yunanca "ἔνζυμον"'den ("maya içinde") türetilmişti, söz konusu süreci betimlemek için
+daha sonraları "enzim" sözcüğü canlı olmayan bileşikler (örneğin pepsin) için kullanılmış, canlılar tarafından üretilen kimyasal aktiviteler için de "ferment" sözcüğü kullanılmaya başlanmıştır
+1897'de eduard buchner içinde canlı hücre bulunmayan maya özütünün (ekstresinin) şekeri fermante etme yeteneği olduğunu gösterdi
+sükroz şekerinin fermantasyonuna yol açan enzime "zimnaz" adını verdi
+1907'de "biyokimya araştırmaları ve hücresiz fermantasyonu keşfi için" nobel kimya ödülünü kazandı
+buchner'in örneği izlenerek enzim adları katalizledikleri tepkimelere göre adlandırılır
+tipik olarak substratın veya reaksiyon tipinin adının sonuna "-az" eklenir
+örneğin, laktaz, laktozu parçalayan enzimdir, dna polimeraz, dna polimerleri oluşuran enzimdir
+enzimlerin hücre dışında çalıştığının gösterilmesinin ardından gelen aşama, bunların biyokimyasal niteliğinin anlaşılmasıydı
+ilk araştırmacılar çoğu enzim etkinliğinin proteinlerle ilişkili olduğunu kaydetmiş, ama bazı bilimciler (örneğin nobel ödüllü richard willstätter) proteinlerin sadece gerçek enzimlerin birer taşıyıcısı olduğunu ve proteinlerin kendi başlarına kataliz yapmaktan aciz olduklarını iddia etmiştir
+ancak, 1926'da james b. sumner, üreaz enziminin saf bir protein olduğunu gösterdi ve onu kristalleştirdi; 1937'de sumner aynı işi katalaz enzimi için yaptı
+saf proteinlerin enzim oldukları kesin olarak northrop ve stanley tarafından, bunların sindirim enzimleri tripsin ve kimotripsin üzerinde yaptıkları çalışma sonucunda gösterildi
+bu üç bilimci 1946 nobel kimya ödülünü kazandılar
+enzimlerin kristalleştirilebildiğinin gösterilmesi, onların yapılarını x-ışını kristalografisi ile çözülmesini mümkün kıldı
+bu ilk defa david chilton phillips önderliğinde bir grup tarafından lizozim için başarıldı ve 1965'te yayımlandı (lizozim göz yaşında, tükürükte ve yumurta beyazında bulunan ve bakterilerin hücre duvarını sindiren bir enzimdir)
+lizozimin yüksek çözülümlü yapısı yapısal biyoloji sahasının ve enzimlerin nasıl çalışıtığının atomik düzeyde anlaşılmasının başlangıcı olmuştur
+yapılar ve mekanizmalar
+enzimler genelde küresel proteinlerdir, büyüklük olarak 62 amino asitten (4-oksalokrotonat totomeraz'ın monomeri) 2500 amino asitten fazlasına (hayvan yağ asit sentaz) kadar uzanırlar
+az sayıda rna-temelli biyolojik katalizörler de mevcuttur, bunların en yaygın olanı ribozomdur, bunlara ya "rna-enzim" veya ribozim denir
+enzimlerin etkinliği onların üç boyutlu yapısı tarafından belirlenir
+çoğu enzim etki ettikleri substratlardan çok daha büyüktür ve enzimin sadece ufak bir bölümü (3-4 amino asit kalıntısı) doğrudan kataliz ile doğrudan ilişkilidir
+bu katalitik amino asit kalıntıların bulunduğu, substrata bağlanan ve tepkimeyi yürüten bölge aktif merkez (veya "aktif bölge") olarak adlandırılır
+enzimlerde ayrıca kataliz için gerekli olan kofaktörlerin bağlandığı konumlar da mevcuttur
+bazı enzimlerde ayrıca katalizlenen tepkimenin endirekt substrat veya ürünleri olan küçük moleküllerin bağlandığı başka yerler vardır
+bu bağlanma enzimin aktivitesini artırabilir veya azaltabilir, bu da geri beslemeli bir düzenleme yoludur
+çoğu protein gibi enzimler de uzun amino asit zincirlerinden oluşur, bunlar katlanır ve üç boyutlu bir yapı oluşturur
+her amino asit dizisi, kendine has özellikleri olan özgül bir yapı oluşturur
+tek başına protein zincirleri bazen gruplanarak protein kompleksleri oluşturabilir
+çoğu enzim ısı veya bazı kimyasal etmenlerle denatüre olur, yani proteinin üç boyutlu yapısının bozulması sonucu katlanmış hali açılır ve inaktive olur
+enzime bağlı olarak denatürasyon tersinir olabilir veya olmayabilir
+özgüllük
+enzimler genelde hangi tepkimeleri katalizledikleri ve bu tepkimelerdeki substratlar konusunda çok özgüldürler
+enzim ve substratlarının birbirini tamamlayıcı şekil, yük ve hidrofilik/hidrofobik özellikleri bu özgüllüğü meydana getirir
+enzimler ayrıca steroizomerik, yönsel ve kimyasal özgüllük de gösterebilirler
+en yüksek seviyede özgüllük ve doğruluk gösteren enzimler genomun kopaylanması ve ifadesi ile ilişkilidir
+bu enzimlerin "prova okuma" mekanizmaları vardır
+dna polimeraz gibi bir enzim, ilk aşamada bir reaksiyonu katalizler, ikinci aşamada da ürünün doğruluğunu kontrol eder
+bu iki adımlı süreç sayesinde yüksek sadakatli polimerazlarda ortalama hata oranı 100 milyon reaksiyonda 1'den az olur
+benzer prova-okuma mekanizmaları rna polimeraz, aminoasil trna sentetaz ve ribozomlarda da vardır
+ikincil metabolit üreten bazı enzimler ayırım gözetmediği söylenir, çünkü göreceli olarak geniş bir substrat grubuna etki edebilirler
+substrat spesifisitesindeki bu genişlik sayensinde yeni metabolik yolların evrimleşebildiği öne sürülmüştür
+"anahtar kilit" modeli
+enzimler hangi tepkimeyi katalizledikleri ve bu tepkimeye hangi substratın girdiğine çok büyük bir özgüllük gösterirler
+1894'te emil fischer bunun nedeninin, enzim ve substratının birbirine tam uyan tamamlayıcı geometrik şekilleri olmasından dolayı olduğunu öne sürmüştür
+bu fikre sıkça "anahtar kilit" modeli olarak değinilir
+bu model enzim özgüllüğünü açıklasa da geçiş halinin enzim tarafından stabilizasyonunu açıklamaz
+"anahtar ve kilit" modeli artık yetersiz sayılmaktadır, "indüklenmiş uyum" (ing
+"induced fit") modeli halen en yaygın kabul gören enzim-substrat-koenzim şeklidir
+indüklenmiş uyum modeli
+1958'de daniel koshland anahtar ve kilit modelinin bir modifikasyonunu öne sürdü: enzimler göreli olarak esnek yapılar olduklarına göre, substrat enzimle etkileşirken aktif merkezin şekli sürekli olarak substrat tarafından değiştirilmektedir
+bunun sonucu olarak, substrat sadece hareketsiz bir aktif merkeze bağlanmıyor, aktif merkezi oluşturan amino asit yan zincirleri biçim alarak enzimin katalitik işlevini yerine getirmesini sağlıyorlar
+bazı durumlarda, örneğin glikozidazlarda, substrat molekül de aktif merkeze girerken şeklini biraz değiştirir
+substrat tamamen bağlanana kadar aktif merkez şeklini değişitirir, o noktada en son şekil ve yükü belirlenmiş olur
+mekanizmalar
+enzimler birkaç farklı yolla çalışırlar, bunların hepsi aktivasyon enerjisini (δg‡) azaltır:
+ilginç bir şekilde, bu entropik etki, temel halin destabilizasyonu ile ilişkilidir, ve katalize olan katkısı göreli olarak düşüktür
+geçiş hali stabilizasyonu
+aktivasyon enerjisi azalmasını anlamak için onun geçiş halinin katalizlenmemiş tepkimenin geçiş haline kıyasla enzim tarafından nasıl stabilize edildiğinin bilmek gerekir
+büyük bir stabilizasyon elde etmenin en etkili yolu elektrostatik etkiler kullanmaktır, özellikle geçiş halinin yük dağılımına doğru yönlenmiş, nispeten sabit polar bir ortam oluşturarak
+suda cereyan eden katalizlenmeyen tepkimede böylesi bir ortam yoktur
+dinamik ve işlevler
+yakın zamanlarda yapılan araştırmalar sonucunda enzimlerin iç dinamikleri ile kataliz mekanizması arasındaki ilişki daha iyi anlaşılmaya başlamıştır
+bir enzimin iç dinamikleri onun iç kısımlarının (örneğin bir grup amino asit, bir ilmik bölgesi, bir alfa sarmal, komşu beta yapraklar ve hatta bütün bir bölge) hareketleridir
+bu hareketler femtosaniyelerden saniyelere kadar uzanan zaman ölçeklerinde cereyena edebilir
+bir enzimin yapısının içinde yer alan protein kalıntılarının oluşturduğu ağlar, hareketleri ile katalize katkıda bulunabilirler
+protein hareketleri pekçok enzim için çok önemlidir, ama küçük ve hızlı titreşimlerin mi, büyük ve yavaş hareketlerin mi daha önemli olduğu tepkimenin tipine bağlıdır
+ancak, bu haketler substrat ve ürülerin bağlanma ve salınmaları için önemli olsalar da, protein hareketlerinin enzimatik tepkimelerdeki kimyasal adımları hızlandırdığı belli değildir
+bu bulgular alosterik etkilerin anlaşılmasında ve yeni ilaçların keşfinde önemli uzantıları vardır
+alosterik modülasyon
+alosterik enzimler, effektörlerine bağlanmaya cevaben yapılarını değiştirirler
+eğer effektör molekül doğrudan enzimdeki bağlanma yerlerinden birine bağlanırak katalitik aktiviteye etki ederse modülasyon doğrudan olur, allosterik enzimle etkileşen başka protein veya protein alt birimlerine bağlanıyorsa modülasyon dolayı olur
+kofaktörler ve koenzimler
+kofaktörler
+bazı enzimler etkinliklerini göstermek için ek bir bileşiğe gerek duymazlar bunlara basit enzim denir
+ancak bileşik enzim denen bazıları aktiviteleri için, kofaktör denen, protein olmayan moleküllere gerek duyarlar
+kofaktörler inorganik (örneğin metal iyonları ve demir-kükürt kümeleri veya organik bileşikler (örneğin, flavin ve hem)
+organik kofaktörler ya prostetik gruptur, bunlar enzime sıkıca bağlıdır ya da koenzimdir, bunlar tepkime sırasında enzimin aktif merkezinden salınırlar
+koenzimler arasında nadh, nadph, ve atp sayılabilir
+bu moleküller enzimler arasında kimyasal gruplar taşımaya yararlar
+kofaktör içeren bir enzimlere bir örnek karbonik anhidrazdır, yukarıdaki şeritli şekilde aktif merkezinin parçası olan çinko kofaktörle birlikte gösterilmiştir
+bu sıkıca bağlı moleküller genelde aktif merkezde bulunur ve katalizle ilişkilidir
+örneğin flavin ve hem kofaktörleri çoğunluklar redoks tepkimelerinde yer alırlar
+kofaktör gerektiren ama bunlara bağlı olmayan enzimlere "apoenzim" veya "apoprotein" denir
+kofaktörüyle beraber olan apoenzime "holoenzim" denir, bu o enzimin aktif halidir
+çoğu kofaktör bir enzime kovalent bağlı değildir ama ona sıkıca bağlıdır
+buna karşın, organik prostetik gruplar kovalent bağlı olabilirler (örneğin pirüvat dehidrojenaz enzimindeki tiamin pirofosfat)
+holoenzim terimi birden çok protein altbirimden oluşmuş enzimler için de kullanılabilir; örneğin dna polimeraz'larda holenzim, aktivite için gerekli olan tüm altbirimleri içeren kompleksin tamamıdır
+koenzimler
+koenzimler kimyasal grupları bir enzimden öbürüne taşıyan küçük organik moleküllerdir
+bu bileşiklerden bazıları vitamindir, riboflavin, tiamin, ve folik asit gibi
+vitaminler vücut tarafından üretilemezler ve besin yoluyla elde edilmelidirler
+taşınan kimyasal gruplara örnek olarak nad tarafından taşınan hidrit iyonu (h-), koenzim a tarafından taşınan asetil grubu, folik asit tarafından taşınan formil, metenil veya metil grupları ve s-adenozilmetiyonin tarafından taşınan metil grubu gösterilebilir
+koenzimler enzim etkisiyle kimyasal olarak değiştikleri için, koenzimlerin farklı enzimlere ortak özel bir substrat sınıfı, veya ikinci bir substrat olarak değerlendirilmesi yararlıdır
+örneğin nadh koenzimini kullanana yaklaşık 700 enzim bilinmektedir
+koenzimler genelde kullanıldıktan sonra yenilenirler ve hücredeki konsantrasyonları sabit kalır: örneğin nadph pentoz fosfat yolu ile yeniden oluşturulur, "s"-adenozilmetyonin de metyonin adenoziltransferaz kullanılır
+termodinamik
+bütün katalizörler gibi enzimler de tepkimenin kimyasal dengesini değiştirmezler
+genelde, bir enzimin mecudiyeti durumunda tepkimenin yönü, enzimin yokluğundaki yönün aynıdır, ama tepkime daha hızlı gider
+ancak, enzimin yokluğunda, başka olası katalizlenmeyen, "spontan" tepkimeler farklı ürünler meydane getirebilir, çünkü o şartlar altında diğer ürünler daha hızlı oluşabilir
+buna ilaveten, enzimler iki veya daha fazla tepkimeyi birleştirebilir, öyle ki termodinamik açıdan olumlu bir tepkime, olumsuz bir tepkimeyi "götürebilir"
+örneğin, atp'nin hidrolizi sıkça başka kimyasal tepkimeleri yürütmeye yarar
+enzimler ileri ve geri tepkimeyi eşit derecede katalizler
+dengeyi değil, ona ulaşma hızını değiştirirler
+örneğin, karbonik anhidraz, substratların konsantrasyonuna bağlı olarak tepkimesini her iki yönde de katalizleyebilir
+buna rağmen, eğer denge taraflardan birine çok yakınsa, yani tepkime eksergonik ise, tepkime pratik anlamda tersinmezdir
+bu durumlarda enzim tepkimeyi sadece termodinamik olarak izin verilen yönde katalizler
+kinetik
+enzim kinetiği, enzimlerin substratlarına bağlanmasını ve onları ürüne dönüştürmesini araştıran bilim dalıdır
+kinetik analizlerde kullanılan hız verileri enzim ölçümlerinden elde edilir
+1902'de victor henri enzim kinetiğine dair nitel bir teori önerdi ama hidrojen iyonu konsantrasyonunu önemi daha bilinmediğinden deneysel verileri yararlı değildi
+1909'da peter lauritz sørensen logaritmik ph ölçeğini tanımlayıp tamponlama kavramını keşfedince alman kimyacı leonor michaelis ve onun kanadalı postdoku maud leonora menten henri'nin deneylerini tekrarladılar ve onun denklemlerini teyid ettiler
+henri-michaelis-menten kinetiği olarak değinilen bu denklemler michaelis-menten kinetiği olarak da bilinir
+bu çalışma g. e. briggs ve j
+b. s. haldane tarafından daha da geliştirilmiş, bunların geliştirdiği kinetik denklemler günümüzde hâlâ yaygın olarak kullanılmaktadır
+henri'nin ana katkısı enzim tepkimelerini iki aşamalı olarak düşünmek olmuştur
+birinci aşamada substrat enzimi tersinir olarak bağlanıp enzim-substrat kompleksini oluşturur
+bu bazen michaelis kompleksi olarak adlandırılır
+enzim sonra tepkimenin kimyasal adımını katalizler ve ürünü salar
+enzimlerin saniyede katalizlediği tepkime sayısı birkaç milyonu bulabilir
+örneğin, orotidin 5'-fosfat dekarbosilaz tarafından katalizlenen tepkime, enzim olmadığında substratının yarısını 78 milyon yılda tüketir
+ama dekarboksilaz eklendiğinde aynı süreç 25 milisaniye tutar
+enzim hızları solüsyon şartlarına ve substrat konsantrasyonuna bağlıdır
+proteini denatüre eden şartlar, yüksek sıcaklık, aşırı ph veya tuz konsantrasyonu gibi, enzim aktivitesini ortadan kaldırır, substrat konsantrasyonunu artırmak ise aktiviteyi artırır
+bir enzimatik tepkimenin en yüksek hızını bulmak için, substrat konsantrasyonu artırılır, sabit bir ürün oluşum hızına varılana kadar
+bu, sağdaki doyma eğrisinde görülebilir
+doyma olmasının nedeni, substrat konsantrasyonu arttıkça, gittikçe artan sayıda enzim molekülünün substrata bağlı es biçimine dönüşmesidir
+enzimin maksimum hızında ("v"max), tüm enzim aktif merkezleri substrat tarafından bağlı durumdadır ve es kompleksinin miktarı toplam enzim miktarına eşittir
+ancak, "v"max enzimlerin kinetik sabitlerinden sadece biridir
+belli bir tepkime hızı için gereken substrat miktarı da önemlidir
+enzimin maksimum hızının yarısına ulaşması için gereken substrat konsantrasyonudur, michaelis-menten sabiti ("k"m) olarak tanımlanır
+her enzimin belli bir substrat için karakteristik bir "k"m değeri vardır, bu değer substratın enzime ne derece sıkıca bağlandığını gösterir
+bir diğer yararlı sabit sayı "k"cat'dır, bu bir saniyede aktif merkezde kaç substrat molekülünün değişime uğradığının sayısıdır
+bir enzimin verimliliği "k"cat/"k"m olarak ifade edilebilir
+bu aynı zamanda özgüllük sabiti olarak adlandırılır ve tepkimenin tüm adımlarının hız sabitlerini içerir
+özgüllük sabiti hem affinite (bağlanma eğilimi), hem de katalitik yeteneği içerdiği için farklı enzimleri birbiriyle kıyaslamakta, veya aynı enzimi farklı substratlar için kıyaslamakta yararlıdır
+özgüllük sabitinin teorik maksimumu difuzyon sınırıdır ve yaklaşık 108 ila 109 (m−1 s−1) arasındadır
+bu noktada enzimle substratın her çarpışması katalizle sonuçlanır ve ürün oluşumunun hızı artık tepkime hızıyla değil, moleküllerin difüzyon hızıyla sınırlanır
+bu özelliğe sahip enzimler "katalitik olarak mükemmel" veya "kinetik olarak mükemmel" olarak tanımlanırlar
+bu enzimlere örnek olarak trioz-fosfat izomeraz, karbonik anhidraz, asetilkolinesteraz, katalaz, fumaraz, β-laktamaz, and superoksit dismutaz gösterilebilir
+michaelis-menten kinetiği "kütle etkisi kanunu"na dayanır, bu serbest difüzyon ve rassal çarpışmalardan kaynaklanır
+ancak çoğu biyokimyasal ve hücresel süreç bu şartlara uymaz, çünkü ya makromoleküler kalabalık vardır, ya enzim/substrat/ürünün faz-ayrışması vardır ya da moleküllerin hareketi bir veya iki boyuta sınırlanmıştır
+bu durumlarda, michelis-menten kinetiğinin fraktal boyutlu olarak uygulnaması gerekebilir
+bazı enzimler difüzyon hızından çok daha yüksek hızlarda çalışırlar
+bu olguyu açıklamak için birkaç mekanizma öne sürülmüştür
+bazı proteinler katalizi hızlandırmak için dipol elektrik alanlar kullanır, bu sayede substratlarını çeker ve onların doğru yönlenmesini sağlarlar
+başka modeller kuantum-mekanik tünelleme açıklamaları getirirler, bu modellere göre, bir proton veya elektron, tünelleme yoluyla aktivasyon bariyerinin içinden geçer
+triptamin oksidasyonunda protonlar için kuantum tünellemesi gözlemlenmiştir
+proton tünellemesinin katalize ne kadar katkıda bulunduğu tartışmalıdır
+tünelleme modeline göre enzim katalizinde aktivasyon enerji bariyerini aşmak için onun "üstünden" geçmek şart değildir, "içinden" de geçilebilir
+inhibisyon
+enzim tepkime hızları çeşitli enzim inhibitör tipleri tarafından azaltılabilir
+bu etkiye inhibisyon (veya engelleme) denir
+yarışmalı inhibisyon, veya yarışmalı engellemede (ing
+"competitive competition"), inhibitör ve substrat enzim için yarısışırlar (yani, aynı anda ikisi birden bağlanamaz)
+yarışmalı inhibitörler genelde enzimin asıl substratına benzer
+örneğin, metotraksat, dihidrofolat redüktaz enziminin bir yarışmalı inhibitörüdür (bu enzim dihidrofolat'ın tetrahidrofolat'a indirgenmesini katalizler)
+aşağıda sağdaki şekilde bu inhibitör ve folik asitin yapılarındaki benzerlik görülebilir
+inhibitörün bağlandığı yerin substrat bağlanma yeri olması (bazı metinlerde öyle belirtilmesine rağmen) şart değildir, eğer inhibitörün bağlanması enzimin biçimini değiştirip substratın bağlanmasına engel olursa, ve kezâ tersi de olabiliyorsa, bu inhibisyon da yarışmalıdır
+yarışmalı inhibisyonda maksimal tepkime hızı değişmez, ama belli bir hıza ulaşabilmek için daha yüksek substrat konsantrasyonu gerekir, dolayısıyla görünür km artar
+sınırlı yarışmalı inhibisyon, veya yarı-yarışmalı inhibisyonda (ing
+"noncompetitive competition"), inhibitör serbest enzime değil, ancak es-kompleksine bağlanabilir
+oluşan eis-kompleksi enzimatik bakımdan inaktiftir
+bu tür inhibisyona ender rastlanır ama çokbirimli (multimerik) enzimlerde olabilir
+yarışmasız inhbisyon, veya yarışma dışı engellemede (ing
+"uncompetitive competition"), inhibitör enzim ve substratla aynı zamanda bağlanabilirler, yani bu tanım icabı, aktif merkeze hiçbir zaman bağlanmazlar
+hem ei hem de eis kompleksleri enzimatik bakımdan inaktiftir
+yarışmalı inhibisyondakinden farklı olarak, substrat konsantrasyonu artırılarak inhibitörün enzime bağlanmasını azaltmak mümkün değildir, bu yüzden görünür vmax değişir
+ama substrat enzime hâlâ bağlanabildiği için km aynı kalır
+bu tür inhibisyon sınırlı yarışmalı olana benzer, ama eis-kompleksinde kısmî enzim aktivitesi vardır
+çoğu canlıda inhibitörler geri besleme mekanizmasının parçası olarak etkirler
+eğer bir enzim bir bileşikten çok fazla miktarda üretirse bu bileşik, kendizini üreten metabolik yolun başında yer alan diğer bir enzime inhibitör olarak etki edebilir
+böylece, miktarı yeterli seviyede olunca bu bileşik oluşumu için gerekli olan substratın üretimini azaltır veya durdurur
+bu bir negatif geri besleme şeklidir
+bu tür düzenlemeye tâbi olan enzimler genelde multimerikdir (çok altbirimlidir) ve düzenleyici bileşikler için allosterik bağlanma konumlarına sahiptirler
+substrat/hız eğrileri hiperbolik değil sigmoidaldır (s-şekillidir)
+tersinmez inhibitörler enzimle tepkir ve protein ile kovalent bir eklenti meydana getirir
+meydana gelen inaktivasyon tersinmez
+bu tür bileşiklerden olan eflornitin, parazitik hastalık olan uyku hastalığının tedavisinde kullanılır
+penisilin ve aspirin de benzer şekilde etkirler
+bu ilaçlar aktif merkeze bağlanınca enzim bunları etkinleşmiş bir şekle dönüştürür, bu da enzimin bir veya birkaç amino asit kalıntısı ile tersinmez olarak tepkir
+etkisizleştiricilerin kullanımı
+inhibitörler sıkça ilaç olarak kullanılırlar ama zehir olarak da etki edebilirler
+paracelsus'un dediği gibi, ""herşeyde bir zehir vardır, zehirsiz bir şey yoktur,"" bir ilaç ile zehir arasındaki fark çoğu zaman miktara bağlıdır, çünkü çoğu ilaç belli bir seviyenin üzerinde zehirlidir
+antibiyotik ve diğer anti-enfeksiyon ilaçları aslında sadece bir batojeni öldürüp onun konağına zarar vermeyen seçici zehirlerdir
+bir etksizleştiricinin (inaktivatörün) ilaç olarak kullanılmasına örnek cox-1 ve cox-2 enzimlerini inhibe eden aspirindir
+bu enzimler enflamasyon mesajcısı prostaglandin üreterek ağrı ve enflamasyonu bastırır
+siyanür zehiri, sitokrom c oksidaz enziminin aktif merkezinde bulunan demir ve bakır ile birleşerek etkiyen, tersinmez bir enzim inhibitörüdür, hücresel solunumu durdurur
+biyolojik işlev
+enzimler canlıların içinde çok çeşitli işlevlere sahiptir
+hücredeki diğer işlevlerin düzenlenmesi ve sinyal iletimi başlıca kinaz ve fosforilazlar aracılığıyla gerçekleşir
+hareket sağlamak da enzimler sayesinde olur, miyozin tarafından atp hidrolizi sonucunda kas kasılır, hücre iskeleti tarafından da hücre içinde yük taşınır
+hücre zarında yer alan başka atpazlar arasında aktif taşıma yapan iyon pompaları sayılabilir
+ateş böceklerinde lüsiferaz tarafından ışık üretimi gibi daha egzotik işlevler de enzimler tarafından yürütülür
+virüsler hücreleri enfekte etmek için (aids virüsündeki hiv entegraz ve ters transkriptaz gibi) veya hücreden virüslerin salınması için (influenza virüsündeki nöraminidaz gibi) kendi enzimlerini kullanırlar
+enzimlerin önemli bir işlevi hayvanların sindirim sistemindedir
+amilaz ve proteaz tipi enzimler, nişasta ve protein gibi büyük molekülleri parçalayarak bunların bağırsak tarafından emilimini sağlar
+nişasta molekülleri, örneğin, ince bağırsak tarafından absorblanamayacak kadar büyüktürler ama enzimler nişasta zincirini hidrolizleyerek maltoz gibi daha küçük şekerlere ve en sonunda glukoza parçalarlar, bunlar da absorblanabilir
+farklı enzimler farklı gıda maddelerini sindirirler
+otobur olan geviş getiren hayvanların bağırsaklarında bulunan mikroorganizmalar bitki liflerindeki selülozlu hücre duvarlarını sindirmek için selüloz enzimini üretirler
+birkaç enzim beraberce, belli bir sıra içinde çalışarak metabolik yolaklar meydana getirir
+metabolik bir yolakta, bir enzimin ürünü, bir diğeri tarafından substrat olarak kullanılır
+bazen birden çok enzim türü aynı tepkimeyi paralel olarak yürütebilir, böylece daha karmaşık düzenleme mümkün olur: bir enzim düşük seviyeli ve sabit bir etkinlik sağlarken, diğeri ise tetiklenebilen (indüklenebilen) yüksek seviyeli bir etkinlik sağlar
+bu metabolik yollardaki aşamalar enzimler tarafından belirlenir
+enzimler olmasa metabolizma ne bu aşamalardan geçebilir, ne de hücrenin gereksinimlerini sağlayacak kadar hızlı olur
+glikoliz gibi bir metabolik yol enzimler olmadan gerçekleşemez
+örneğin, glukoz atp ile tepkiyerek bir veya daha çok karbon otumundan fosforlanabilir
+enzimler olmayınca bu tepkime anlamsız denecek derecede yavaş meydana gelir
+heksokinaz olunca bu yavaş tepkimeler gene devam eder ama karbon 6'daki fosforlanma o kadar hızlı gerçekleşir ki, kısa bir süre sonra karışım incelendiğinde glukoz-6-fosfat'ın anlamlı miktarda bulunan tek ürün olduğu görülür
+dolayısıyla, hücre içindeki metabolik yolların oluşturduğu ağ, mevcut olan enzimlerin kümesine bağlıdır
+etkinlik kontrolü
+hücrede enzim aktivitesinin kontrolünün 5 ana yolu vardır
+suyun etkisi:enzimler ortamdaki su oranı yüzde 15 'in altına düştüğünde çalışmazlar.ortamın su oranı yüzde 15 ve üzerine çıktığında tekrar etkinlik gösterir
+kuru yiyeceklerin bozulmadan kalması bu besinlerde üreyebilen mikrorganizmaların enzim etkinliğinin durmasından kaynaklanmaktadır
+hastalıklarda yeri
+enzim etkinliğinin kontrolü homeostaz için zorunlu olduğu için, kritik bir enzimdeki herhangi bir bozukluk (mutasyon, aşırı üretim, az üretim veya yokluk) genetik hastalığa yol açabilir
+vücudumuzdaki binlerce enzimden bir tanesinin bozuk çalışmasının ölümcül bir hastalığa yol açabilmesi enzimlerin ne derece önemli olduklarını gösterir
+bunun bir örneği, fenilketonuria hastalığının en yaygın olan tipidir
+fenilalanin yıkımının ilk adımını katalizleyen fenilalanin hidroksilaz enziminin bir amino asidindeki mutasyon, fenilanin ve ilişkili ürünlerin vücutta birikimine yol açar
+hastalık tedavi edilmezse bu zekâ geriliğine yol açar
+bir diğer örnek, dna tamir enzimlerinin genlerinde germ hücresi mutasyonları olunca, kseroderma pigmentosum gibi kalıtsal kanser sendromlarına neden olmasıdır
+bu enzimlerdeki kusurlar kansere yol açar, çünkü vicut genomdaki mutasyonları daha zor tamir edebilir
+bu yüzden mutasyonlar yavaş yavaş birikir ve bu, hastada çok çeşitli kanser tiplerinin gelişmesiyle sonuçlanır
+adlandırma konvansiyonları
+bir enzimin adı çoklukla substratı veya katalizlediği reaksiyonun adından türetilir, sözcüğün sonuna -az eki getirilerek
+bunun örnekleri laktaz, alkol dehidrojenaz ve dna polimerazdır
+bu adlandırma yöntemi ile, aynı tepkimeyi katalizleyen farklı enzimler aynı temel ada sahip olabilir, bunlara "izoenzim" denir
+izoenzimlerin amino asit dizileri birbirinden farklı olur, ve optimal ph'leri, kinetik özrllikleri ve immünolojik özellikleri ile ayırt edilebilirler
+ayrıca, yapay şartlar altında bir enzimin katalizlediği tepkime, fizyolojik şartlarda katalizlediğiyle aynı olmayabilir
+bu yüzden bazen aynı enzimin iki farklı adla tanımlandığı olur
+örneğin, endüstride glukozu fruktoz tatlandırıcısına dönüştürmek için kullanılan glukoz izomeraz, hücre ortamında ("in vivo") ksiloz izomeraz olarak adlandırılır
+uluslararası biyokimya ve moleküler biyoloji birliği, ec numaraları denen, enzimler için bir adlandırma sistemi geliştirmiştir; her enzim başında da "ec" olan ve dört sayıdan oluşan bir dizi ile betimlenir
+ilk sayı enzimleri mekanizmalarına göre genel olarak sınıflandırır:
+üst düzey sınıflandırma şöyledir:
+adlandırma sisteminin tamamı, resmi sitesinde (ingilizce olarak) bulunabilir
+endüstriyel uygulamalar
+enzimler, spesifik katalizörlere gerek duyulan kimya endüstrisinde ve diğer enüstriyel uygulamalarda kullanılır
+ancak, enzimler genelde katalizleyebildikleri tepkime sayısı, organik çözücü ve yüksek sıcaklıklarda stabiliteleri açısından sınırlıdırlar
+bu yüzden protein mühendisliği aktif bir araştırma sahası olmuştur, konusu yeni özelliklere sahip enzimlerin tasarımıdır
+bunun için ya rasyonel tasarım ya da laboratuvar ortamında ("in vitro") evrim yöntemleri kullanılır
+</text></doc>

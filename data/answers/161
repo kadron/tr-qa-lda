@@ -1,0 +1,201 @@
+<docno>41871</docno>
+<text>
+gpr
+yeraltı radarı ya da genel adıyla gpr (ground penetrating radar), yeraltının sığ tabakalarının (ilk 0-40 metre) araştırılmasında kullanılan jeofizik bilimi tabanlı bir ölçüm cihazıdır
+son otuz yıl içerisinde elektronik endüstrisinde yaşanılan olağanüstü gelişmeler, bir zamanlar zahmetli ve pahalı bir iş olan ışık hızı ölçümlerini son derece ucuz, kolay ve duyarlı bir şekle dönüştürmüştür
+1970’lı yıllarda milisaniye (10−3 s) duyarlıkla yapılan zaman ölçümleri, 1980’li yıllarda mikro saniye (10−6 s), 1990’lı yıllarda ise nano saniyeye (10−9 s) duyarlığa kadar inmiştir
+elektronikteki bu gelişmelere paralel olarak, yeraltında ışık hızına yakın bir süratle hareket eden elektromanyetik dalgaların yolculuk sürelerinin nano saniye mertebesinde ölçülebilmesi, sığ jeofizik görüntüleme yöntemlerine önemli katkılarda bulunmuştur
+yer radarı yukarıda söz edilen bu gelişmelerin somut bir sonucudur
+yöntem, yatay doğrultuda elektrik alan vektörü olan (te: transvers elektrik) bir verici anten aracılığı ile yer içine gönderilen çok yüksek frekanslı em dalgalarının (radyo dalgaları) ara yüzeylerden yansımasının (echoes) gözlemlenmesi ilkesine dayanmaktadır
+yeraltında, her iki tarafı farklı dielektrik özellikte kayaçlardan oluşan bir ara yüzey varsa, elektromanyetik dalga bu ara yüzeyde yansıma ve iletime uğrayacaktır
+dalga şekli olarak sürekli veya chirp adı da verilen birkaç nano saniye süreli elektromanyetik imler kullanılır
+kaynak dalgası için seçilen bir merkezi frekansın %50 altı ve üstü aralığındaki frekanslar kullanılır
+örnek olarak 100 mhz merkez frekanslı kaynakta 50 mhz den 150 mhz e kadar bir aralık kullanılır
+yer radarı (ground penetrating radar, gpr) ilk önce buz kalınlığının ölçülebilmesi için geliştirilmiştir
+normal yer ortamında yapılan çalışmalarda elde edilen verilerin sismik yöntemlerde kullanılan veri işlem teknikleri ile işlenmesi sonucunda 10 – 20 m gibi araştırma derinliğine ulaşıldığı görülmüştür
+günümüzde ise gpr yöntemi sığ yer araştırmaları ile arkeometri çalışmalarında yaygın olarak kullanılmaktadır
+kullanım yerlerine örnekler aşağıdaki gibi verilebilir :
+gpr kuramı
+bağıl permittivite k, sığalara ait dielektrik sabiti ile eşanlamlıdır
+bir sığaya ait dielektrik sabitinin büyümesi, o sığanın kutuplanma yolu ile daha çok elektromanyetik enerji biriktirebilmesi anlamına gelir
+bir maddenin yapısını oluşturan nötr durumdaki moleküller, üzerlerinden geçen elektromanyetik dalganın etkisi altında kutuplanırlar ve içerilerine elektromanyetik enerji depolarlar
+bunun hemen ardından söz konusu enerjiyi tekrar elektromanyetik dalga olarak geri verirler
+elektromanyetik dalga madde içerisinde bir molekülden diğerine bu şekilde ilerler
+olay bu açıdan sismik dalgaların madde içindeki ilerlemesine çok benzemektedir
+fakat elektromanyetik dalgalar madde olmaksızın uzay boşluğunda da ilerleyebilirler
+sismik dalgaların ilerleyebilmesi için ortamın maddeden oluşması şarttır (sismik yansıma katsayısının tanımındaki yoğunluk parametresinin nedeni)
+yere gönderilen elektromanyetik sinyal harmonik bir yapıda olup etken bir frekans içermektedir
+bu frekansın değeri nüfüz derinliğini, soğrulma miktarını ve saçılma derecesini belirler
+söz konusu frekans 10 mhz den küçük olduğunda, nüfüz derinliği artarken iki olumsuz durumla karşılaşılır:
+düşük frekanslarda elektromanyetik enerjinin elektrik iletkenliğe dönüşmesi soğurulmanın başlıca nedenidir
+300 mhz den yüksek frekanslarda ise madde içerisindeki kutuplanabilir unsurlar asıl yerlerini terk etmete fırsat bulamayacaklarından elektrik iletkenliğin neden olduğu soğurulmadan etkilenmeyeceklerdir
+bununla beraber yüksek frekanslarda bir etki-tepki gecikmesi sorunu yaşanacak, bunun sonucu artan frekansla birlikte bağıl permittivitede frekans bağımlı bir azalma söz konusu olacaktır
+öte yandan frekans arttıkça düşey çözünürlükte bir iyileşme olurken, bu kez nüfüz derinliği azalmaktadır
+yüksek frekanslar yer radarı kesitlerinde fazla sayıda saçılma hiperbolünün de ortaya çıkmasına neden olmaktadır
+yukarıda yapılan tartışmalardan anlaşılacağı üzere, yeraltı ne kadar dirençli (az iletken) ise, yer radarı görüntüleri o kadar kaliteli olmaktadır
+nüfuz derinliğinin önemli olduğu durumlarda, ortamın mümkün olduğunca kuru (rutubetsiz) olması gerekmektedir
+elektromanyetik dalgalar yeraltı su seviyesine ulaştıklarında göreceli olarak daha iletken bir ortama girmektedirler
+bu söz konusu ıslak seviyede, hem önemli bir bağıl permittivite farklılaşması (kontrastı) oluşmakta, hem de elektrik iletkenliğin bu seviyedeki ani artışı nedeniyle, yansıyarak yeryüzüne gelen elektromanyetik imin genliğinde ve yüksek frekans içeriğinde soğrulmaya bağlı olarak önemli azalmalar görülmektedir
+bunun sonucu olarak yer radarı kesitlerinde, yeraltı su seviyesinden itibaren derinlere doğru inildikçe, soğrulmaya bağlı olarak genlik ve yüksek frekanslar azalmakta, kesitte yeraltı su seviyesinin altındaki bölümlerde enerji ‘süpürülmüş’ bir görünüm sunmaktadır
+arazide ölçüm ve veri sunumu
+basit olarak gpr dizgesi :
+cu yardımıyla kullanılan frekans, ölçümün yapılacağı zaman pencereleri (windows) yığma yapılacak iz sayısı v.b
+koşullar ayarlanır
+ölçümlerde kullanılan frekans değerleri 25 ile 3000 mhz arasındadır
+kayıt pencereleri 32-2448 ns arasında olabilir ve 2049 ize kadar yığma yapılabilir
+cru olarak uygun bir pc ya da diz üstü bilgisayar kullanılmaktadır
+böylece birçok veri-işlem aşaması arazi koşullarında da yapılabilmektedir
+antenler ayrı ayrı olabildiği gibi tek bir parça içinde de yer alabilirler
+anten aralıklarının sabit tutulma koşuluna rağmen antenler arası mesafe kullanılan frekans, çevre koşulları ve anten boyutlarına bağlı olarak seçilmelidir
+tek parça anten sistemleri ise sürekli kayıt (continious profiling ) olanağı sağladığından bazı koşullarda daha yararlı olabilir
+fiziksel olarak antenler kullanıldıkları frekansa bağlı olarak değişik ölçülerde yapılırlar
+antenlerde yayınım silindirik bakışımlı ve anten ekseninde sıfır şiddetindedir
+bu basit şekil arazi koşullarında değişebilmektedir
+ortamdaki özdirenç ve dielektrik sabitine bağlı olarak enerjinin tepe değerleri yüzeye belli bir açı ile oluşabilmektedir
+gpr çalışmalarında frekans anten aralığı, durak aralığı, kayıt uzunluğu ve örnekleme aralığı araştırma amacına göre belirlenmesi gereken değiştirgelerdir
+en önemli değişkendir ve birçok değişkeninde belirlenmesinde rol oynar
+eğer d derinlik çözünürlüğü alınırsa uygun frekans
+f = 150 / d √ε mhz
+ile bulunur
+burada derinlik çözünürlüğü hedeflenen derinliğin %25 i olarak alınır
+çözünürlük ölçütü ve nüfus derinliği koşulları genelde karmaşa yaratır
+uygulamada buna dikkat edilmelidir
+çözünürlük durak aralığından da etkilenir
+eğer sabit aralıklı hatlarda iki durak arası uzaklık, dalga boyunun ¼ ünden daha büyük ise kuramsal olarak tanımlanabilecek hedefler belirlenemez
+bu koşul yaklaşık olarak
+dx= 75/ f √ε (m)
+ile verilebilir
+diğer bir yaklaşımla her iki işlemden dx in en fazla araştırma derinliğinin 1/8 i kadar veya daha az olması gerektiği görülebilir
+anten dizilimleri genelde yan yana olarak yapılmasına rağmen uygulamada uç uca dizgelerde kullanılır
+jeolojik uzanım bilindiği durumlarda antenler yapıya paralel olarak tutulmalıdır
+uygulamalarda anten aralığı araştırma derinliğinin 1/5 veya daha azı alındığında iyi sonuç verdiği görülmüştür
+derinliğe bağlı olarak ampirik bağıntı ise
+danten = (2 derinlik)/ √(ε-1) (m)
+ile verilir
+örnekleme frekansının seçiminde örnekleme kuramı göz önünde tutulmalıdır
+gpr da kullanılan en yüksek frekans merkezi frekansın 1.5 katı olduğuna göre örnekleme aralığı merkezi frekansın en az 3 katı olmalıdır
+sağlıklı ölçüm için 2 katsayısının da kullanımı önerilir
+bu durumda 100 mhz merkezi frekansta örnekleme aralığı
+∆f = 100x 3x 2 =600 mhz
+ve
+∆t = 1.67 nsn
+bulunur
+veri işlem teknikleri ve veri sunumu
+gpr verisi sayısal olarak kayıt edilir ve çok fazla veri- işlem gerektirir
+yüksek tekrarlanma oranı yardımı ile istenilen sayıda im elde edilip yığma yapılabilir
+yığma sayısına arazi koşullarında karar verilir
+yığma işleminden sonra alçak geçişli süzgeçler yardımı ile uyartım (inductive) etkiler, yüksek geçişli süzgeçler ile de gürültüler veriden ayıklanır
+im genliğinde zamana bağlı gelişen sönümlenme zaman – değişkenli (time –variant) veri-işlem yapılarak giderilir
+birçok veri-işlem aşaması arazi koşullarında yapılabildiği halde veriler genelde ham olarak saklanır
+veri işleme arazi çalışmalarının sonrasında yapılır
+günümüzde sismik yorumda kullanılan birçok veri işlem yöntemi hemen hemen hiç değişmeden gpr sonuçlarının yorumunda da kullanılmaktadır
+gpr izi eş aralıklı sayısal değerler olarak kayıt edilir
+gpr kesitleri, her bir izin yan yana çizilmesi ile elde edilir
+bu durumda yatay eksen uzaklık, düşey eksen ise gidiş geliş zamanıdır
+düşeyde kullanılan birim nano saniyedir
+bu da kesitin sismikte kullanılan ses dalgasından değil de radar tarafından üretildiğini gösterir
+elde edilen radar verileri sismik yönteme benzer olarak kesitler olarak sunulur
+eğer birbirine paralel ölçüm hatları varsa zaman seviye haritaları yapılabilir
+belli bir zaman değeri için bütün ölçümlerden genlik değerleri çıkartılır ve harita üzerindeki ölçüm noktalarına işlenir
+</text></doc>
+<docno>52242</docno>
+<text>
+biyom
+biyom, biyosferin aynı iklim koşullarında ve aynı bitki örtüsünün egemen olduğu çok geniş bölümlerini belirten çevrebilim terimidir
+yeryüzündeki birbirine bitişik, benzer yayılmış yaşam alanları olarak ta tanımlanabilir
+her biyomda, egemen bitki örtüsü, o biyoma özgü bir dizi hayvan topluluğunu barındırır
+her biyomun biyotası (bitkileri ve hayvanları), doğanın her yanında benzer özellikler taşır
+biyomlar, yaşam çevresi denilen içinde özel organizmaların yaşadıkları daha küçük birimlerden oluşurlar
+bölgenin coğrafyası ve iklimi gibi etkenler söz konusu biyomda gelişen yaşam biçimlerinin türünü belirler
+bir biyomda pek çok ekosistem olabilir
+biyomların birçok çeşidi vardır
+bunlar;
+farklı biyomlar
+bir biyomu öbüründen ayıran temel etki iklimdir
+sözgelimi, bir tropikal yağmur ormanının iklimi, iğne yapraklı ormanların ikliminden çarpıcı bir biçimde farklıdır
+tropikal yağmur ormanında bol su bulunur; günlük 13,9 - 29,4 °c'lik sıcaklık, bitki gelişmesi için aşağı yukarı kusursuz bir ortam yaratır
+iğne yapraklı orman, tipik olarak yazın kuraklığa, kışın da çok soğuk havaya daha iyi dayanır
+aynı biçimde hayvan topluluğu da biyomdan biyoma değişir
+her biyomun bitki ve hayvan toplulukları, o biyoma uyarlanmışlardır
+sözgelimi kuzey tundralarında, yılın önemli bir bölümünde çok soğuk bir iklim egemendir; bitki gelişme dönemi de serin ve kurak geçer
+bununla birlikte gerek bitki topluluğu, gerek hayvan topluluğu, bu sert koşullara uyum sağlamışlardır
+kuzey kutup bölgesinin ağaçsız tundra bitki örtüsü, çokyıllık bitkilerden oluşur
+bitkilerin alçak boylu olması, sert, dondurucu rüzgarlara karşı geliştirilmiş bir uyumdur; böylece nem, besin azlığı, vb
+öbür olumsuz koşullara, yüksek boylu bitkilerden daha iyi dayanırlar
+benzer biyomlar
+benzer biyomlar, çoğunlukla aynı enlemlerde bulunurlar
+bu durum tundrada ve tayga adı verilen iğne yapraklı kuzey ormanlarında açıkça görünür
+enlem benzerliklerinin yanı sıra, yükseklik benzerlikleri de biyomun oluşumunu etkiler
+yüksek bir dağın doruğuna doğru çıkıldıkça, sıcaklık düşer, hava soğur; kışlar daha uzun ve sert geçer (ekvator yakınlarındaki yüksek dağların dorukları bile karlarla kaplıdır)
+bu yüzden, aynı dağda birkaç farklı iklim ve bitki örtüsü kuşağı görülür
+kara ve su biyomları
+biyomlar kara ve su biyomları olmak üzere ikiye ayrılır
+kara biyomları; tundralar, taygalar (kozalaklı ağaç), yapraklarını döken ve dökmeyen ormanlar, ılıman bölge ormanları, koruluk ve çalılıklar, çöller, tropikal ormanlar ve çalılıklar, stepler-savanlar, çayırlıklardır
+su biyomları ise; tuzlu su ve tatlı su biyomları olmak üzere iki bölümde incelenir
+tatlı su biyomları da akarsular, haliçler ve göllerdir
+diğer biyomlar
+tümüyle kaya gözenekleri ve çatlaklarında oluşan bir endolitik biyom mikroskobik yaşamı, yüzeyden kilometrelik mesafeler içerisinde bulunmuş ve oluşumlar ancak son zamanlarda keşfedilmiştir; ve ayrıca en bilindik biyom sınıflandırma şemalarınada uymamaktadırlar
+</text></doc>
+<docno>113797</docno>
+<text>
+peribacası
+peribacası, vadi yamaçlarından inen sel sularının ve rüzgarın, tüflerden oluşan yapıyı aşındırmasıyla ortaya çıkan oluşumdur
+peribacaları konik gövdeli olup, tepe kısımlarında bir kaya bloku bulunmaktadır
+çapları ise 1 m ile 15 m arasında değişmektedir
+1 m'den küçük olan ve 15 metreden büyük olan oluşumlar peribacası olarak değerlendirilmemektedir
+oluşumu
+sel suları dik yamaçlarda kendine yol bulurken, sert kayaları çatlatarak aşındırır
+bitki örtüsünün özelliklerine göre aşınan malzeme peribacası olarak isimlendirilen şekillerin ortaya çıkmasına neden olmaktadır
+alt kısımlarda bulunan ve daha kolay aşınan malzeme derin bir şekilde oyulduktan sonra, üst kısımlarda yer alan şapka şeklinde duran bir parça ve aşınmadan korunan konik biçimli gövdeler ortaya çıkar
+peri bacalarının oluşumunda, rüzgar etkisi kadar yağmur sularının yüzeydeki akışı da önemlidir
+yağmur sularının etkili ve güçlü yüzey
+akıntısı olarak gelişmesine ise en önemli etken bitki örtüsünün azlığı ve tüflerin geçirimsiz olmasıdır
+şapkalı peribacaları, konik gövdeli ve tepe kısımlarında bir kaya bloğu vardır
+gövde tüf, tüffit ve volkan külünden oluşmuş kayaçtan, şapka kısmı ise lahar ve ignimbirit gibi sert kayaçlardan oluşmaktadır
+peribacasının oluşumu için ilk koşul, şapkayı oluşturan kaya türünün gövdeyi oluşturan kaya topluluğuna oranla daha dayanıklı olmasıdır
+şapkadaki kayanın direnci peribacalarının ömrünü belirler
+ayrıca şapka bloğu olan kaya, zayıf tüfün erozyonunu geciktiren ve peri bacalarının yüksekliğini kontrol eden bir unsurdur
+</text></doc>
+<docno>25599</docno>
+<text>
+zuhal demir
+zuhal demir (doğum 12 mart 1980 genk'de) belçikalı avukat ve politikacı ve n-va partisine bağlı kürt asıllı milletvekili
+demir 2001'de milletvekili olarak belçika temsilciler meclisi'ne seçildi.türkiye'den göç etmiş bir ailenin kizi olan zuhal demir, şu an eşi jan aertgeerts ile birlikte ekeren şehirinde yaşıyor
+belçika'daki politikacı jan peter peumans'ın, "düşünür voltaire'e göre, dünyadaki en iğrenç halk hangisidir" sorusuna "türkler" cevabını vermesi üzerine, politikacı türklerin tepkisini gördükten sonra bu cevabı vermekten dolayı "pişman olduğunu" söyledi, kürt asıllı milletvekili zuhal demir, tepkilerin abartıldığını, anlamsız bulduğunu ve türkiye'deki tepkileri anlıyamadığını söyledi
+</text></doc>
+<docno>192823</docno>
+<text>
+italya'da futbol
+futbol, çoğu ülkede olduğu gibi italya'da da en ünlü spordur
+italya millî futbol takımı dünyanın en başarılı takımlarından biridir
+dünya kupası'nı dört defa kazanarak (1934, 1938, 1982, 2006) brezilya'nın (5 defa) hemen arkasında yer alıyor
+ayrıca bu şampiyonluklarının haricinde 2 defa ikinci (1970, 1994), birer defa da üçüncü (1990) ve dördüncü (1978) olmuştur
+yani, toplamda 17 kez katıldığı dünya kupası turnuvalarının sekizini ilk dörde girerek tamamlamıştır
+başarıları bununla bitmiyor, bir defa avrupa futbol şampiyonası'nı birinci (1968), iki defa da ikinci (2000, 2012) olarak tamamlarken bir defa yaz olimpiyatları kupasını müzesine götürmüştür
+italyan kulüpleri de avrupa'nın en başarılı takımlarındandır, şuan 12 tane şampiyonlar ligi ve dokuzar tane avrupa ligi ile süper kupa'ya sahiptir
+italya'nın birinci seviyedeki ligi olan serie a ise dünyanın en iyi ulusal liglerinin arasında gösterilmektedir
+dünyanın en ünlü kulüplerinden olan juventus, inter ve milan, italya'da barınmaktadır
+juventus ve milan, avrupa kulüpler birliği'nin kurucu üyelerindendir
+her sene verilen ballon d'or ödülünü kazanan pek çok italyan futbolcu vardır
+yani italyan futbolu, pek çok farklı dallarda avrupa'nın en iyilerindendir
+futbol kelimesinin italyanca karşılığı calciodur
+geçmişi
+futbolun diğer türlerinin eski zamanlarda italya'da oynandığı bilinmektedir
+harpastumun en eski türü de, roma imparatorluğu zamanında oynanmıştır
+bu oyun, imparatorluğun genişlemesiyle diğer türleri (ortaçağ futbolu gibi) de etkilemiş olabilir
+16. yüzyıldan bu yana, farklı kurallar içeren futbol türleri modern futboldan ayrı olarak floransa'da oynanmıştır
+bazı ünlü floransalılar da bu oyunu oynardı, özellikle medici ailesinin üyeleri olan piero, lorenzo ve alessandro medici
+bunların yanı sıra, clement vii, leo xi ve urban viii gibi papalar bu oyunu vatikan'da oynardı
+italya'da önceden tekme anlamında kullanılan "calcio" kelimesi ise sonralarda futbol anlamında kullanılmaya başladı
+italyan futbolu doğdu: cenova
+modern futbol kuralları italya'ya 1880'ler sırasında geldi
+ilk italyan futbol kulübü hangisidir sorusunun cevabı biraz tartışmalıdır fakat popüler tarihte en çok bahsedilen bir ingiliz tarafından 1863'te ingiltere'yi temsil etmesi için kurulan cenova kriket ve futbol kulübü'dür
+3 yıl sonra 1896'da, james richardson spensley isminde bir adam futbol bölümü olan bir kulüple cenova'ya geldi ve italya'nın ilk teknik direktörü oldu
+ulusal turnuvalar
+ilk ulusal turnuva italyan jimnastik federasyonu tarafından düzenlendi
+bu turnuvayı udine şehrinin udinese calcio takımı kazandı
+1897'de yapılan turnuvayı ise s.g. torinese takımı kazandı
+1898 yılına gelindiğinde ise italya futbol federasyonu nihayet ilk turnuvayı düzenliyor
+bu turnuva ilk düzenli ulusal şampiyona olarak kabul edilir
+şampiyonu ise genoa cfc olmuştur
+</text></doc>

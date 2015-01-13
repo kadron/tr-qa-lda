@@ -1,0 +1,133 @@
+<docno>34235</docno>
+<text>
+konikler
+konik kesit, eliptik veya dairesel bir çift taraflı koninin, düzlemle kesitinden meydana gelen eğriler
+bunlar, çember, elips, parabol ve hiperboldür
+çember
+çember, düzlemde sabit bir noktaya eşit uzaklıkta bulunan noktaların kümesinin oluşturduğu yuvarlak, geometrik şekil
+çemberin çevrelediği 2 boyutlu alana daire denir
+tanımda bahsi geçen sabit noktaya "çemberin merkezi", eşit uzaklıkların herbirine "yarıçap", yarıçapın iki katı uzunluğa ise "çap" denir
+genellikle, merkez "m", yarıçap "r", çap ise "r" (büyük r harfi) ile gösterilir
+çember üzerindeki iki noktayı birleştiren doğru parçasına ise "kiriş" adı verilir
+bu anlamda, merkeze göre birbirine bakışık(simetrik) olan iki noktayı birleştiren doğru parçasının uzunluğu aynı zamanda çapa eşittir
+elips
+aralarındaki mesafe 2a olan ve odak noktaları denen iki noktaya uzaklıkları toplamı, sabit 2a'ya eşit olan noktaların yeridir
+elips oval bir eğri olup, iki dik simetri ekseni mevcuttur
+bunlar, bir m noktasında kesişirler
+bu eksenler koordinat takımı olarak alınırsa, elipsin denklemi; b² = a² - c² olmak üzere x²/a² + y²/b² = 1 şeklinde belirir
+eğer c=0 olursa, odaklar birbiriyle çakışır ve elips yarıçapı a=b eşit olan bir çembere dönüşür
+parabol
+parabol, belirli bir noktaya ve bir doğruya uzaklıkları eşit olan noktaların geometrik yeridir
+bu belirli noktaya parabolün odak noktası denir
+bu noktadan doğruya çizilen dik doğru, parabolün simetri eksenini teşkil eder
+parabolün bu eksene ve tepe noktasından geçen dik eksene göre denklemi y² = 2px olarak belirir
+koniklerin genel denklemi: dik x ve y koordinat ekseninde ikinci dereceden genel bir denklem;
+olarak belirir
+eğer a,c ve f katsayılarının hepsi birden sıfır değilse bu bir konik kesitini gösterir
+ancak bu halde konik kesiti yanında birbirini kesen iki doğru veya iki paralel doğru, üst üste bulunan iki doğruyu da kapsar
+bunlar b² x² - a² y² = 0 (x+a)= 0 veya x² = 0 olabilir
+ayrıca koniğin, x² / a² + y² / b² = -1 gibi sanal da (izafi de) olabilir ve x ve y koordinat ekseninde gösterilmez
+iki konik en fazla dört noktada kesişir
+ikinci dereceden işlevlerin grafikleri de birer paraboldür
+genel olarak f(x) = ax² + bx + c şeklinde ifade edilir
+tepe noktası t(r,k) hesaplanırken bu noktanın kordinatları, r= -b/2a , k=f(r) olarak bulunur
+parabol, bir düzlemde alınan sabit bir d doğrusu ile sabit bir f noktasından eşit uzaklıktaki noktaların geometrik yeri
+sabit f noktasına parabolün odağı, d doğrusuna da parabolün doğrultmanı denir
+af doğrusuna parabol ekseni denir
+parabol, bu eksene göre simetrik iki koldan ibarettir
+parabole ait herhangi iki noktayı birleştiren doğru parçasına kiriş; odakta eksene dik olan (mn) kirişinin yarısına parametre denir ve p ile gösterilir
+parabolün, ekseni kestiği noktaya (a noktasına) köşe adı verilir
+parabol üzerindeki her noktanın odak noktasına olan uzaklığı, doğrultmana olan uzaklığına eşittir
+yani |mf|= |ml|'dir
+parabolün simetri ekseni x ekseni ve a köşesi (0,0) noktası (yani başlangıç noktası) alınırsa parabolün standart denklemi y² = 2px olur (p parabolün parametresidir)
+odağın koordinatları f(p/2, 0) olur
+doğrultman denklemi x = p/2 şeklinde olur
+eğer parabol eksenini ox ekseni değil de oy ekseni olarak alınırsa ve köşesi de yine o(0,0) noktası olursa parabolün denklemi x² = 2py olur
+doğrultman denklemi y = -p/2'dir
+"http://tr.wikipedia.org/wiki/parabol"'dan alındı
+hiperbol
+hiperbol, belirli iki noktaya olan mesafelerinin farkı, sabit 2a'ya eşit olan noktaların geometrik yeridir
+bu sabit noktalar, hiperbolün odak noktaları olarak isimlendirilir ve ara mesafesi 2c olarak gösterilir
+hiperbolün iki ayrı kolu mevcut olup, birbirine dik iki simetri ekseni mevcuttur
+bu eksenlere göre hiperbolün denklemi, b² = c² - a² olmak üzere x² / a² - y² / b² = 1 olarak yazılır
+tarihi gelişimi
+ilk koni ile ilgilenen m.ö
+350 civarında menaechmus olmuştur
+bu konuda ilk kitap m.ö
+320'de euclid tarafından yazıldığı tahmin edilmektedir
+günümüze kadar gelen kitap m.ö
+225'ten, apollonius'un "konikler" kitabıdır
+arşimet (m.ö 287-212), konikleri tanımaktaydı ve çalışmalarında bunları kullanmıştır
+abbasi alimlerinden beni musa'nın konikler üzerine yazdığı "kitab-ül-mahrutat" kitabı meşhurdur
+ebu sa'id-el-siczi ise koni kesitlerini incelemiştir
+konik kelimesi, apollonius tarafından verilmiştir
+y² = 2px + ax² ifadesinde eğer a<0 ise hiperbol a>0 ise elips ve a=0 ise parabol ortaya çıkar
+rönesansta, özellikle kepler, gezegenlerin eliptik yörünge üzerindeki hareketini keşfettikten sonra, koniklere olan ilgi tekrar canlanmıştır
+descartes'in 1637'de analitik geometriyi keşfetmesinden sonra, cebirsel metodlar eski geometrik metodların yerini almıştır
+günümüzde konikler, ders kitaplarında, daha çok analitik geometrinin konusu olarak anlatılmaktadır
+</text></doc>
+<docno>35543</docno>
+<text>
+çember
+çember, düzlemde sabit bir noktaya eşit uzaklıkta bulunan noktaların kümesinin oluşturduğu yuvarlak, geometrik şekil
+çemberin çevrelediği 2 boyutlu alana daire denir
+tanımda bahsi geçen sabit noktaya "çemberin merkezi", eşit uzaklıkların herbirine "yarıçap", yarıçapın iki katı uzunluğa ise "çap" denir
+genellikle, merkez "m", yarıçap "r", çap ise "r" (büyük r harfi) ile gösterilir
+çember üzerindeki iki noktayı birleştiren doğru parçasına ise "kiriş" adı verilir
+bu anlamda, merkeze göre birbirine bakışık(simetrik) olan iki noktayı birleştiren doğru parçasının uzunluğu aynı zamanda çapa eşittir
+analitik geometride çemberin denklemi xy-koordinat sisteminde şu biçimde yazılabilir:
+eğer çemberin merkezi koordinat sistemi içinde (0,0) noktası olursa, yukarıdaki ifade
+şeklinde de yazılabilir ve bu çembere yarıçap 1 olduğunda "birim çember" denir
+çevre formülü
+yarıçapı "r" alan bir çember için çevre
+formula_3
+formülüyle bulunur
+çemberin açıları
+çemberin merkezi, merkez açının köşesidir
+çevre açının köşesi, çemberin üzerindedir
+merkez açının içinde kalan çember parçasına, merkez açının gördüğü yay; çevre açının içinde kalan çember parçasına, çevre açının gördüğü yay denir
+merkez açının kenarlarının, çemberi kestiği noktaların arasındaki yaylardan birisi majör, yani büyük çember yayı, diğeri de minör, yani küçük çember yayıdır
+merkez açının gördüğü yay, minör yaydır
+merkez açının ölçüsü, 0 ile 180 derece arasında, çember yaylarının ise, 0 ile 360 derece arasındadır
+</text></doc>
+<docno>219748</docno>
+<text>
+ekvator
+ekvator, kuzey ve güney yarımküreleri birbirinden ayıran hayalî dairesel hattır
+kuzey ve güney kutup noktalarına eşit uzaklıkta olan noktaların birleştirilmesiyle elde edilen çizgidir
+ekvator'un enlemi tanım gereği 0° dir
+yerküre'nin ekvatorunun uzunluğu 40.076,4 km'dir
+</text></doc>
+<docno>13993</docno>
+<text>
+haritalarda yüzey şekillerinin gösterilmesi
+haritalarda yüzey şekillerinin gösterilmesi amacıyla yeryüzü şekilleri düzlem üzerine geçirilirken değişik yöntemler kullanılarak çizim yapılır
+bunlardan bazıları;
+tarama yöntemi
+kalınlıkları, eğim ile orantılı olarak artan çizgilerle çizilir
+çizgiler eğimin çok olduğu yerde kalınlaşır, eğim azaldıkça incelir
+düzlükler beyaz bırakılır
+az kullanılan bir metotdur
+büyük ölçekli ve özel amaçlı haritalarda kullanılır
+renklendirme yöntemi hesaplamaları
+fiziki haritalarda yeryüzüşekillerini daha belirgin gösterebilmek için yükselti basamakları renklerle boyanır
+genellikle şöyle bir sıra takip edilir:
+eş yükselti eğrisi (izohips) yöntemi
+en çok kullanılan yöntemdir
+deniz seviyesine göre aynı yükseltiye sahip noktaların birleştirilmesiyle elde edilen iç içe kapalı eğrilere izohips "(eş yükselti eğrisi)" denir
+izohipslerin özellikleri şunlardır:
+</text></doc>
+<docno>33775</docno>
+<text>
+parabol
+parabol, bir düzlemde alınan sabit bir d doğrusu ile sabit bir f noktasından eşit uzaklıktaki noktaların geometrik yerleştirilmesidir
+cebirde ise "y=ax2+bx+c" şeklindeki ikinci derece fonksiyonları grafiği olarak bilinir
+denklemler
+kartezyen koordinat sisteminde bir parabolün denklemi:
+burada a, parabolün yönünü gösterir
+eğer a>0 ise parabolün kolları yukarı doğrudur, eğer a<0 ise aşağı doğrudur
+c değeri parabolün y ekseniyle kesiştiği yerdir
+tepe noktası
+tepe noktasının koordinatları t(r,k) olarak gösterilir
+tepe noktasında fonksiyonun eğimi 0 olduğundan türev alınıp sıfıra eşitlenirse,
+</text></doc>
