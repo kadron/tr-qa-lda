@@ -72,7 +72,7 @@ def sim2(p,q,num_topics):
 	return w(p,q,num_topics)
 
 def compare_sq(dist_list,num_question,num_answer,num_topics):
-	#50 answers to each question
+	#50985 answers to each question
 	answer_list = []
 	metric_list = []
 	
@@ -90,7 +90,7 @@ def compare_sq(dist_list,num_question,num_answer,num_topics):
 						max_answer = [i] + max_answer[1:num_s]
 						break
 				elif j == num_s-1:
-					elif metric > max_metric[num_s-1]:
+					if metric > max_metric[num_s-1]:
 						max_metric = max_metric[0:num_s-1] + [metric]
 						max_answer = max_answer[0:num_s-1] + [i]
 						break
