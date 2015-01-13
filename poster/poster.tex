@@ -132,13 +132,13 @@
   {\sf \vspace{5pt}%Sans Serif
   %\bf% Serif
   \vspace{-14pt}
-  Kinect Assisted Rat Behaviour Analysis for Experiment Automation
+  LDA Based Similarity Modeling for Question Answering on a Turkish Corpora
 }
   % Authors
   {\sf \Large \vspace{5pt} %Sans Serif
-  	\textbf{Çağrı Sofuoğlu, İsmet Burak Kadron and Albert Ali Salah}\\
+  	\textbf{İsmet Burak Kadron and Çağıl Uluşahin Sönmez}\\
     Department of Computer Engineering, Bo\u{g}azi\c{c}i University, Istanbul, Turkey\\
-    \{cagri.sofuoglu, burak.kadron, salah\}@boun.edu.tr
+    \{ismet.kadron, cagil.ulusahin\}@boun.edu.tr
 
   }
   % University logo
@@ -176,22 +176,16 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \headerbox{Motivation}{name=intro,column=0,below=abstract}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	\par One such system currently in use is EthoVision (from Noldus Information Technology). Which provides detailed analysis tools to researcher when tracking lab rats. But one limitation of the EthoVision is its inability to operate under lowly lit or dark environments. \\
-	\par Our project aims to fill the gap in functionality by providing researchers with a robust, easy to use tool that can operate at various physical set-ups under all lighting conditions. to this end Kinect was selected as the ideal sensor due to its ability to operate unhindered under dark lighting conditions.\\
+	\par TODO Çağıl \\
 	
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \headerbox{Original Model}{name=exp,column=1,span=1}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	\par The system we developed is going to be used in an experiment where day/light periods are manipulated to observe changes in the rats biological clocks. Thus we decided the depth images provided by the Kinect made the perfect input for the task, as the data is unaffected by any light emission within human visual range.
+	\par A passage in retrieved documents (document collection) is represented as a mixture of fixed topics, with topic $z$ getting weight $\theta^(s)_z$ in passage $s$ and each topic is a distribution over a finite vocabulary of words, with word $w$ having a probability $\phi^(z)_w$ in topic $z$. Placing symmetric Dirichlet priors on $\theta^(s)$ and $\phi^(z)$, where $\alpha$ and $\beta$, the generative model is given by: \\
 
-\begin{equation}
-  \label{eq:model}
-    \hat{ \phi}_{wi}^{(z_i)} = \frac{n^{WK}_{w_{i}k}+ \beta}{\sum^W_{j=1}n^{WK}_{w_{j}k}+ W \beta} \quad \hat{\theta}^{(s)} \frac{n^{SK}_{sk} +\alpha}{\sum^K_{j=1}n^{SK}_{sj}+ K \alpha}
-\end{equation}
-
-\begin{equation}
+\begin{equation*}
   \label{eq:dists}
   \begin{aligned}
     w_i|z_i, \phi_{wi}^{(z_i)} & \sim Discrete(\phi^{(z_i)}), \quad i = 1, ..., W \\
@@ -199,17 +193,28 @@
     z_i | \theta^{(s_i)} & \sim  Discrete(\theta^{(s_i)}), \quad i = 1, ..., W \\
     \theta^{(s)} & \sim  Dirichlet(\alpha), \quad s = 1, ..., S \\
   \end{aligned}
-\end{equation}
+\end{equation*}
 
-	\par The application supports a tracking environment of up to 4 cages, each containing a single subject. The position data gathered is presented to the user in raw form and also in a candle-wick graph describing the speed at which a subject moves within a given period as a indicator of a subject's level of activity. \\
+	\par S is the number of passages, K is the total number of topics, W is the total number of words in the document collection, and $s_i$ and $z_i$ are passage and topic of the $i$th word $w_i$, respectively. \\
+
+	\par Our goal is to calculate the expected posterior probabilities of a word in a candidate passage given a topic and expected posterior probability of topic mixings of a given passage. \\
+
+\begin{equation*}
+  \label{eq:model}
+    \hat{ \phi}_{wi}^{(z_i)} = \frac{n^{WK}_{w_{i}k}+ \beta}{\sum^W_{j=1}n^{WK}_{w_{j}k}+ W \beta} \quad \hat{\theta}^{(s)} \frac{n^{SK}_{sk} +\alpha}{\sum^K_{j=1}n^{SK}_{sj}+ K \alpha}
+\end{equation*}
+
+	\par For comparison metric, we have used TODO Burak\\
 	
 
   }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-  \headerbox{Proposed Model}{name=results,column=2}{
+  \headerbox{Proposed Model}{name=proposed,column=2}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\par We are implemented a system for automatically tracking rat locomotor behaviour for experiment automation.\\
-\par We explored the advantages of using Kinect over classical RGB cameras since this approach allows for the system to operate without concerns over lighting conditions. This solution was deemed necessary because the product owners, researchers at the psychobiology lab, require the ability to track and observe subjects in both day and night conditions.\\
+\par TODO Çağıl\\
+\par In the proposed model, the words in passages are transformed to their stems by using two different methods.\\
+\par First method is identifying and removing inflectional affixes. \\
+\par Second method is taking first N characters of the word. \\
 
 \includegraphics[scale=1.1]{./figures/model} 
 	\vspace{-12pt}
@@ -217,10 +222,17 @@
     \label{fig:figure}
 \vspace{5pt}
 }%
-\headerbox{Acknowledgements}{name=ack,column=3,row=0}{
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\headerbox{Dataset and Results}{name=results,column=3,row=0}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\par We are grateful to Caner Derici and Yavuz Nuzumlalı for their help and support. We also want to thank Tunga Güngör and the team working with him on TÜBİTAK Project 113E036 for supplying us the data set and the opportunity to work further on their problem.
+\par We have used 
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\headerbox{Acknowledgements}{name=ack,column=3,below=results}{
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\par We are grateful to Caner Derici and Yavuz Nuzumlalı for their help and support. We also want to thank Tunga Güngör and the team working with him on TÜBİTAK Project 113E036 for supplying us the data set and the opportunity to work further on their problem. \\
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
