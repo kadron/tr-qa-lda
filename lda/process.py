@@ -46,11 +46,11 @@ def ir(p,q,num_topics):
 		for tq in q:
 			for i in xrange(num_topics):
 				if tp[0]==i and tq[0]==i:
-					x1 = tp[1]*math.log((2*tp[1])/(tp[1]+tq[1]))
-					x2 = tq[1]*math.log((2*tq[1])/(tp[1]+tq[1]))
+					x1 = tp[1]*math.log(math.abs((2*tp[1])/(tp[1]+tq[1])))
+					x2 = tq[1]*math.log(math.abs((2*tq[1])/(tp[1]+tq[1])))
 					total = total + x1 + x2
 					break
-
+	return total
 def w(p,q,num_topics):
 	return 10**(-ir(p,q,num_topics));
 
@@ -104,10 +104,11 @@ def main():
 	#Generating topics and distributions
 	print('Starting up!')
 	num_topics = 10
-	num_question = 69
-	num_answer = 56100
-
-	corpus = corpora.BleiCorpus('../data/totalcorpus.ldac','../data/voc_2.txt')
+	num_question = 264
+	num_answer = 50985
+	corpus_name = '../data/ldac/deriv/sq.txt'
+	voc_name = '../data/voc/deriv/all.txt'
+	corpus = corpora.BleiCorpus(corpus_name,voc_name)
 	print('Corpus processed!')
 	#id2word = corpora.Dictionary.load('../data/voc_2.txt')
 	lda = models.ldamodel.LdaModel(corpus, num_topics=num_topics, chunksize=2000, decay=0.5, offset=1.0, passes=1, update_every=0, eval_every=10, iterations=20000, gamma_threshold=0.001)
@@ -124,6 +125,11 @@ def main():
 	#doc_topic = lda[corpus]
 	dist_list = list(lda[corpus])
 	answer_list,metric_list = compare_sq(dist_list,num_question,num_answer,num_topics)
+
+	f = open('{}{}'.format(corpus_name,'.answers'), 'w')
+	for i,answers in enumerate(answer_list):
+		f.write('Question {}: {}'.format(i,' '.join(answers)))
+	f.close()
 
 if __name__ == '__main__':
 	main()
