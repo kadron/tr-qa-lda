@@ -3,6 +3,7 @@ sys.path.append("/Users/cagil/work/HazirCevap/hazircevap2")
 sys.path.append("/home/hazircevap/hazircevap")
 from search import indriDocFetch, indriHandler, queryBuilder
 from nltk import word_tokenize, sent_tokenize
+from parse import from_sen_to_ldac
 
 def prepare_param_files():
     index = 1
@@ -69,3 +70,16 @@ def merge_and_write_answers(n=range(1,357)):
                 ansss.append(answer)
                 _ = merge_and_write_answers_inner(index,answer)
     return ansss
+
+
+def sentence_file_to_ldac(voc,filename,outname):
+    with codecs.open(filename,"rU","utf-8") as wikifile:
+        with codecs.open(outname,"wb","utf-8") as ldac_file:
+            while 1:
+                line = wikifile.readline()
+                if not line:
+                    break
+                words = word_tokenize(line)
+                line_ldac = from_sen_to_ldac(words,voc)
+                ldac_file.write(line_ldac)
+                ldac_file.write("\n")
