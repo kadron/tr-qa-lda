@@ -45,7 +45,8 @@ def ir(p,q,num_topics):
 	for tp in p:
 		for tq in q:
 			for i in xrange(num_topics):
-				if tp[0]==i and tq[0]==i:
+				if tp[0]==i and tq[0]==i and (tp[1]!=0 or tq[1]!=0):
+
 					x1 = tp[1]*math.log(math.abs((2*tp[1])/(tp[1]+tq[1])))
 					x2 = tq[1]*math.log(math.abs((2*tq[1])/(tp[1]+tq[1])))
 					total = total + x1 + x2
