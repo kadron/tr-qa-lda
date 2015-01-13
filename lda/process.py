@@ -22,7 +22,25 @@ def load_vocab(folder, filename):
 
 #Information Retrieval metric, p&q are tuples
 def ir(p,q,num_topics):
-	#return kl_div(p,(p+q)/2)+kl_div(q,(p+q)/2)
+	#kl_div(p,(p+q)/2)+kl_div(q,(p+q)/2)
+	containsList = [False] * num_topics
+	for tp in p:
+		for i in xrange(num_topics):
+			if tp[0]==i:
+				containsList[i] = True
+	for i,b in enumerate(containsList):
+		if(b==False):
+			p.append((i,0))
+
+	containsList = [False] * num_topics
+	for tq in q:
+		for i in xrange(num_topics):
+			if tq[0]==i:
+				containsList[i] = True
+	for i,b in enumerate(containsList):
+		if(b==False):
+			q.append((i,0))
+
 	total=0
 	for tp in p:
 		for tq in q:
@@ -36,12 +54,16 @@ def ir(p,q,num_topics):
 def w(p,q,num_topics):
 	return 10**(-ir(p,q,num_topics));
 
+"""
+#Topic-Word Distribution Metric
 def sim1(p,q,num_topics):
 	total = 0;
 	for i in xrange(num_topics):
 		total = total + w(p[i],q[i])
 	return total/num_topics
+"""
 
+#Document-Topic Distribution Metric
 def sim2(p,q,num_topics):
 	return w(p,q,num_topics)
 

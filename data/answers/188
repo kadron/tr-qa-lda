@@ -1,0 +1,148 @@
+<docno>214907</docno>
+<text>
+harita
+harita, yeryüzünün tümünün ya da bir parçasının belirli oranlarda küçültülüp işaretleştirilerek bir düzlem üzerinde gösterimidir
+yeryüzü düzleme açılamayan kapalı bir şekil olduğundan küçültme ile birlikte harita projeksiyonları kullanılarak düzleme izdüşüm işlemi de yapılır
+haritanın temel işlevi, bölgenin topografyası ya da ilişkili diğer konularda, jeolojisi, jeomorfolojisi, iklimi, trafiği, yeraltı kaynakları, değişik bakış açılarından ekonomisi vb
+hakkında bilgi vermektir
+bu haliyle harita, insandan (haritayı üreten kartograf) insana (harita kullanıcısı) yer referanslı bilgi aktaran, genel olarak basılı bir iletişim aracıdır
+haritaların, ülkenin değişik amaçlı kalkınmasında ve taşınmaz mal hukukunda kullanılmak üzere üretilmesi genellikle devletin temel görevlerinden biridir
+bu nedenle ülkemizde de büyük ölçekli topografik içerikli haritalar devlet eliyle üretilir ya da ihale yoluyla özel firmaların üretmesi sağlanır
+1: 5.000 ölçeğine kadar taşınmaz mal hukukunda hizmet verecek haritalar orijinal yer ölçümleri ya da fotogrametrik yöntemlerle başbakanlığa bağlı "tapu ve kadastro genel müdürlüğü" sorumluluğunda; 1:25.000 ve daha küçük ölçekli haritalar ise,milli savunma bakanlığına bağlı "harita genel komutanlığı" [http://www.hgk.mil.tr yetki ve sorumluluğunda üretilir ve güncellenir
+belediye hizmeti verilen yerleşim merkezlerinde özellikle teknik alt yapı tesislerinin projelendirilmesinde kullanılan haritalar ise yerel yönetimler tarafından, yine özel firmalara ihale yöntemiyle ürettirilir
+haritalar, basılı haritalar ve sayısal haritalar üzere iki gruba ayrılabilir
+sayısal harita (vektör harita, raster harita, matris harita) niteliğindeki coğrafi veriler, ulusal coğrafi veri altyapısının temel altlık verilerini oluşturur
+harita bilgileri
+pafta indeksi
+pafta indeksi, haritanın, haritası olduğu bölgenin kullanıcı tarafından konumunun algılanabilmesi için genel bir harita üzerinde bir çerçeve ile, bazen diğer harita paftaları ile komşuluklarını da göstererek haritanın kapsadığı alan ve nerenin haritası olduğu hakkında bilgi veren bir küçük haritadır
+türkiye pafta indeksi
+uzunluk ölçeği (çizgisel ölçek) ve eğim ölçeği
+uzunluk ölçeği, çizgisel ölçek olarak da tanımlanır
+harita üzerinde temsil ettiği mesafenin arazide gerçekte hangi uzunluğa karşılık geldiğini gösterir
+çizgisel ölçek üzerindeki rakamların hangi ölçü biriminde olduğu (km, m, mil vb)
+ülkemizdeki haritalarda çizgisel ölçek birimi genelde m ve km biriminde verilir
+bazı ülkelerde mil kullanılmaktadır
+bu tür haritalarda genelde iki birim için iki ayrı ölçek çizgisi kullanılarak farklı birimlerle çalışmaya alışmış olan kullanıcıları için kolaylık sağlanır
+eğim ölçeği ise yükseklik gösterimlerinin ölçeğini ifade eder, ancak çoğu topografik haritada kullanılmamaktadır
+harita çerçevesi
+harita çerçevesi üzerinde haritanın bulunan koordinat bilgileri, koordinat ağı ile kesiştiği yerde rakam olarak yazılmıştır
+büyük ölçekli haritalarda sadece çizgisel dakika, küçük ölçekli haritalarda çizgisel derece ve 30 dakika aralığında verilir
+koordinat bilgileri özellikle günümüzde gps ve haritayı birlikte kullanan ya da haritadan koordinat okuması yapan kullanıcılar için çok önemlidir
+bunun için koordinat çizgileri arasında kalan noktaların hassas koordinat hesabının yapılabilmesi için aşağıdaki cetvel kullanılır
+sapma açısı (deklinasyon)hesabı
+topografik haritaların üzerindeki koordinat ağı (grid) daima kuzeyi gösterir
+koordinat ağının yönü grid kuzeyi olarak adlandırılır ve coğrafi kuzeyden bir miktar sapar
+coğrafi kuzey gerçek kuzey olarak da adlandırılır
+haritayı araziyle çakıştırmak için kullanılan pusula ise magnetik kuzeyi gösterir
+magnetik kuzey kutbu ile coğrafi kuzey kutbu arasında büyük bir mesafe vardır ve bu fark haritalarda göz ardı edilirse hatalara sebep olur
+magnetik kuzey her yıl belli bir miktar hareket etmektedir
+aşağıdaki şekilde 1600 – 2000 yılları arasında magnetik kuzeyin yer değiştirme miktarı görülmektedir
+haritalar yapıldıkları anda güncelliklerini yitirdikleri ve magnetik kuzey de her yıl belli bir miktarda yer değiştirdiği için, magnetik kuzey, grid kuzeyi ve coğrafi kuzey arasındaki farklar mutlaka harita kenar bilgileri içinde belirtilir
+yıllık deklinasyon (sapma) farkı da kullanıcının haritanın üretim yılı ile haritanın kullanıldığı anda içinde bulunulan yıl arasındaki fark oranında eklenerek ya da çıkarılarak güncel deklinasyonun elde etmesine olanak verir
+jeodezik esaslar
+genelde ulusal harita çalışmalarında kullanılırlar
+mühendislik çalışmalarında altlık olarak hazırlanan özel amaçlı haritalarda bu tür özel bilgiler hesap hassasiyeti açısından önemlidir
+nirengi / nivelman çıkış noktaları, fotogrametrik belgeleme yöntemleri, hava fotoğraflarına ait bilgiler, hata aralığı diğer kartografik kaynaklar vb
+bu bilgiler arasında sayılabilir
+elipsoid, projeksiyon ve datum bilgisi
+datum, herhangi bir noktanın yatay ve dikey konumunu
+tanımlamak için başlangıç alınan referans yüzeyidir
+datum, yer’in şeklini ve boyutunu tanımlayan bir referans
+sistemidir
+yatay datum: koordinatlar için referans alınan başlangıç
+yüzeyi
+dikey datum: yükseklikler için referans alınan başlangıç
+yüzeyi
+bir datum; elipsoidi, enlem-boylam oryantasyonu ve fiziksel
+bir orijin ile tanımlanır
+örn: lambert kesen konik
+datum: wgs 84
+güney paralel dairesi:…
+kuzey paralel dairesi:…
+orta paralel dairesi:……
+dilim orta meridyeni:…
+haritalardaki bozulmanın etkisini azaltmak için çeşitli çizim yüzeyleri geliştirilmiştir.bu çizim yüzeylerine projeksiyon denir
+bazı projeksiyonlar açılardaki bozulmaları önlemeyi amaçlarken, bazı projeksiyonlar uzunluklardaki bozulmaları önlemeyi amaçlar
+bu yöntemlerden bir kaçı şöyledir:
+bilgi ağı
+haritalar içerisinde aranan bir bilgiye kullanıcının kolay ulaşmasını sağlayan konumları harfler ve rakamlara karşılık gelen (nazar tepe d 4 gibi) karelerden oluşan bir sistemdir
+bu sistem bir liste ile birlikte kullanılır
+haritanın yanında, arkasında ya da birlikte kullanıldığı bir kitapçık içerisinde özel noktaların bir listesi harita içerisinde bu sistem yardımı ile bulunur
+özellikle turistik amaçlı hazırlanmış olan haritalarda yaygın olarak kullanılırlar
+bu ağ bazen harita koordinat ağı dışında ikinci bir ağ olarak çizilebilirken, koordinat ağı da aralara numara ve harfler verilerek bu amaçla kullanılmaktadır
+diğer
+haritalar içerisinde ayrıca kullanıcı için faydalı olabilecek olan bilgiler de verilir
+özellikle turistik cep haritalarında harita dışında kalan veya haritanın arka sayfasında rehber bilgiler verilir
+bazı ülkeler tarafından hazırlanmış olan askeri amaçlı haritalarda da aynı amaçla harita etrafında kullanıcıya ayrıntılı bilgiler verildiği bilinmektedir
+</text></doc>
+<docno>37675</docno>
+<text>
+boylam
+boylam, başlangıç meridyeninin doğusundaki veya batısındaki herhangi bir noktanın açısal mesafesi
+boylamlar, doğu ve batı boylamları olmak üzere ikiye ayrılırlar; derece, dakika ve saniye cinsinden ifade edilirler
+dünya üzerindeki aynı boylama sahip noktaların birleşmesi ile oluşan yarım daire şeklindeki varsayımsal yaylara ise meridyen denir
+meridyenler bir kutuptan diğerine uzanırlar ve dünya'yı portakal dilimi gibi dilimlere ayırırlar
+meridyenler, ekvator'a dik açı yapacak şekilde yerküreyi 360 eşit parçaya bölen ve uçları kutuplarda birleşen, yay şeklindeki varsayımsal çizgilerdir
+her meridyen, bir büyük çemberin yarısıdır ve tüm meridyenler aynı uzunluktadır
+zaman zaman meridyen kavramı herhangi bir boylamdan ve kutuplardan geçen "tam" çember anlamında kullanılır
+karışıklıkları önlemek açısından bu yazıda meridyen sözcüğü her zaman yarım çember anlamında kullanılacaktır
+başlangıç meridyeni ve antimeridyen
+ingiltere'nin greenwich gözlemevinden geçen meridyen, başlangıç meridyeni kabul edilir ve 0 derece olarak gösterilir
+doğusunda kalan yerlere doğu yarımküre, batısında kalan yerlere batı yarımküre denir
+başlangıç meridyeninin 179 doğusunda, 179 batısında ve tam karşısında (180. meridyen) olmak üzere toplam 360 meridyen yayı vardır
+0 (greenwich) ve 180 derece meridyenleri karşı karşıyadır ve birbirini daireye tamamlar
+bu nedenle 180. meridyene "antimeridyen" de denir
+mesafe ölçümü
+meridyenler "üzerindeki" (iki paralel arasındaki) her 1 dakikalık açı 1 deniz miline (1852 m) eşittir
+herhangi bir harita üzerinde iki nokta arasındaki mesafe ölçülürken, harita projeksiyonlardan kaynaklanan hataları minimum düzeye indirmek için, iki nokta arasındaki doğrunun uzunluğu, ortasından geçen bir meridyen üzerindeki açılar ile kıyaslanır
+örneğin iki nokta arasındaki mesafe bir pergel ile ölçülüp doğru üzerindeki bir meridyenle (mümkünse tam ortadaki) kıyaslandığında 10 dakikalık açıya denk geliyorsa, o iki nokta arasındaki gerçek mesafe yaklaşık olarak 10 deniz milidir
+paraleller üzerindeki dakika aralıkları -ekvator haricinde- meridyenler ile aynı olmadığından mesafe hesaplaması için kullanılmaz
+</text></doc>
+<docno>218185</docno>
+<text>
+greenwich mean time
+gmt (greenwich mean time), başlangıç meridyeni üzerinde ortalama güneş zamanı
+gmt, "greenwich ortalama zamanı" anlamına gelir
+gmt, britanya adaları'nın standart zaman dilimidir
+adını londra'nın güneydoğusundaki greenwich banliyösünden alır
+burada bulunan rasathanenin üzerinde bulunduğu kabul edilen meridyen, başlangıç meridyeni (0°) kabul edilir
+atomik olarak hesaplanan ve gmt'den daha hassas olan utc kullanılmaya başlanmadan önce dünyadaki saat ayarlamaları greenwich'ten geçen meridyene göre yapılmaktaydı
+her boylam derecesi arası 4 dakikadır
+bu nedenle 15 derecelik her meridyen dilimi bir saate eşittir
+böylece 12 saat doğuda, 12 saat batıda olmak üzere, yeryüzü 24 saat dilimine bölünmüştür
+greenwich meridyeninden doğuya doğru gidildikçe saatler ileri (+), batıya doğru gidildikçe geri (-) gider
+osmanlı devleti'nde saatleri, ayasofya'nın kubbesinden geçtiği varsayılan ve "arz-ı halife" veya "arz-ı istanbul" olarak adlandırdıkları meridyene göre ayar ederlerdi
+1925'te 697 sayılı günün yirmi dört saate taksimine dair kanun ile birlikte, saat diliminde de uluslararsı bir standart haline gelmiş olan gmt sistemi kabul edilmiştir
+</text></doc>
+<docno>103167</docno>
+<text>
+baş meridyen
+baş meridyen, boylamı 0° olarak tanımlanan, başlangıç merdiyenidir
+baş meridyen ve onun karşıt meridyeni ("antimerdiyen") olan 180. meridyen (180° boylamı) dünyayı tümüyle saran hayalî bir çember oluştururlar ve bu çemberin doğusunda kalan bölge doğu yarımküre, batısında kalan bölge batı yarımküre olarak adlandırılır
+baş meridyen için günümüzde kabul edilen yaygın kanı londra'nın greenwich kasabasından geçtiği yönündedir
+uluslararası meridyen ya da greenwich meridyeni gibi adlarla da anılır
+coğrafya
+kuzey kutbu'ndan başlayarak güney kutbu'na ulaşan baş meridyen aşağıdaki yerlerden geçer:
+</text></doc>
+<docno>174763</docno>
+<text>
+lmt
+lmt (local mean time), herhangi bir meridyen üzerindeki gözlemcinin gözlediği güneş zamanı
+ingilizce "local mean time" kavramı "yerel ortalama zaman" anlamına gelir
+lmt herhangi bir meridyen boyunca aynıdır
+lmt herhangi bir meridyen üzerindeki gerçek güneş zamanını verir
+yani herhangi bir meridyen boyunca lmt'ye göre saat öğlen 12 iken güneş tam tepede görünür
+lmt her meridyende değiştiği için gündelik hayatta pratik olarak kullanımı zordur
+örneğin türkiye 26°-45° doğu meridyenleri üzerindedir
+batı ve doğu ucu arasındaki zaman farkı (19 meridyen x 4 dakika) 76 dakikadır
+yani batı ucunda lmt'ye göre saat öğlen 12:00 iken doğu ucunda 13:16'dır
+bu zaman farkını ortadan kaldırmak için zaman dilimi boyunca standart zaman (utc+2) kullanılır
+standart zamana yaz saati düzeltmesi dahil değildir
+greenwich'teki başlangıç meridyeni (0° boylamı) üzerinde lmt ve standart zaman aynıdır
+lmt'den başlıca hava seyrüseferinde astronomi almanakları kullanılarak herhangi bir meridyen üzerindeki gündoğumu ve günbatımı zamanlarını hesaplamakta yararlanılır
+örnek lmt hesabı
+şu an 00°20' batı boylamında öğlen ise 3° batı boylamında öğlen ne zaman gerçekleşmiştir veya gerçekleşecektir?
+çözüm: her bir boylam derecesi 4 dakikalık zamana, her bir boylam dakikası 4 saniyelik zamana eşittir
+örnekteki iki boylam arasındaki fark 2°40'dır
+3° batı boylamı "daha batıda" olduğu için öğlen 10 dakika 40 saniye "sonra" gerçekleşecektir
+</text></doc>

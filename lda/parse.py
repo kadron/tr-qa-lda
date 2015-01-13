@@ -53,6 +53,20 @@ def write_part_as_ldac(doc_file, ldac_file): # ("allDocsTogether_2","../data/cor
     to_ldac(voc3,ldac,filename = doc_file)
     write_ldac_as_list_to_file(ldac_file, ldac)
 
+def build_vocabulary_from_sent_file(filename,outname,voc_d = {}):
+    with codecs.open(filename,"rU","utf-8") as wikifile:
+    #    for _ in range(0,COUNTER):
+        while 1:
+            line = wikifile.readline()
+            if not line:
+                break
+            words = word_tokenize(line)
+            for word in words:
+                add_to_vocabulary(line,voc_as_dict=voc_d)
+    if outname:
+        write_voc_as_dict_to_file(outname,voc_d)
+    return voc_d
+
 def build_vocabulary():
     wikifile = codecs.open("allDocsTogether","rU","utf-8")
     #    for _ in range(0,COUNTER):
@@ -143,9 +157,10 @@ def from_par_to_ldac(text,voc,ldac):
     sentences = tokenizer.tokenize(text)
     for sent in sentences:
         words = word_tokenize(sent)
-        from_sen_to_ldac(words,voc,ldac)
+        words_ldac = from_sen_to_ldac(words,voc)
+        ldac.append(words_ldac)
 
-def from_sen_to_ldac(words,voc,ldac):
+def from_sen_to_ldac(words,voc):
     temp = {}
     for word in words:
         word = word.lower()
@@ -170,19 +185,30 @@ def from_sen_to_ldac(words,voc,ldac):
     line = ["%s " %len(temp),]
     for word,freq in temp.items():
         line.append("%s:%s " %(word,freq))
-    ldac.append("".join(line))
+    return "".join(line)
 
 def write_ldac_as_list_to_file(filename,ldac):
     with codecs.open(filename,'w+', 'utf-8') as l_file:
         l_file.write("\n".join(ldac))
+
+def print_ldac_from_file(filename,voc):
+    with codecs.open(filename,"rU","utf-8") as ldac_file:
+        ldac_list = []
+        while 1:
+            ldac_line = ldac_file.readline()
+            if not ldac_line:
+                break
+            ldac_list.append(ldac_line)
+    print_ldac(ldac_list,voc)
 
 def print_ldac(ldac_list,voc):
     for i in range(0,len(ldac_list)):
         items = ldac_list[i].split(" ")
         question = [items[0]+" ",]
         for freqs in items[1:]:
-            if freqs:
-		question.append(voc[int(freqs.split(":")[0])])
+            if freqs.strip():
+                #print(freqs.split(":")[0])
+                question.append(voc[int(freqs.split(":")[0])])
         print(str(i) + ": "+  ldac_list[i])
         print(str(i) +": "+ " ".join(question))
 
@@ -213,7 +239,7 @@ def write_questions_raw(filename):
                 break
             row = line.split("\t")
             answer = row[4].strip()
-            if answer is not '' and (len(answer.split(" ")) == 1 and not contains_digits(answer) ):
+            if answer is not u'' and (len(answer.split(" ")) == 1 and not contains_digits(answer) ):
                 #print("%d: %s \t %s" %(i,row[4],row[0]))
                 questions_raw.insert(i,row[0].lower())
                 answers_raw.insert(i,answer.lower())

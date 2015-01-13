@@ -1,0 +1,180 @@
+<docno>189470</docno>
+<text>
+arp zehirlenmesi
+arp zehirlenmesi, ar(adress resolution) protokolü osi katman modelinde network katmanında yer alır.bu katmanda yer alan arp, ip addreslerini mac adreslerini çevirir.bu ip'lere karşılık gelen mac adreslerini arp tablolarında tutar ve arp tabloları da belirli aralıklarla güncellenir
+arp zehirlenmesi nedir ve nasıl olur?
+bir ip adresine karşılık ,sahte bir mac adresi oluşturulmasına arp zehirlenmesi denilir.arp tablolarında tutulan ip ve mac adresi eşleştirmelerine müdahele etmek mümkündür.bu tablolara yapılacak müdahele ile ağ trafiği artırılarak, ağ isteklere cevap veremez hale getirilebilir.arp zehirlenmelerinde, saldırgan ağ trafiğini değiştirebilir ya da ağ trafiğini tamamen durdurabilir.işte bu tür olaylara arp zehirlenmesi denilmektedir
+arp zehirlenmesi çeşitleri
+arp zehirlenmesi adı verilen saldırılar yerel ağlarda gerçekleştirilen saldırılardır.arp saldırılarının yerel ağlarda yapılmasının sebebi ise mac adresinin yerel ağ dışına gönderilmemesidir.yerel ağda mac adresi bilgisi o ağda yer alan swicth ve yönlendirici gibi elemanlara gönderildiği için saldırgan mac adresi bilgisine ulaşabilir.buradaki güvenlik açığını kullanarak, arp tabloları üzerinde istediği değiştirmeleri yapabilir
+arp zehirlenmesi üç şekile gerçekleştirilmektedir
+arp zehirlenmesi bu üç şekilde gerçekleştirilmektedir
+1.hedef bilgisayarın arp tablosunu doldurma
+burada saldırgan hedef bilgisayarın arp tabloları üzerinde doğrudan değişiklikler yapar.örneğin; saldırgan hedef bilgisayarın arp tablosunu yanlış bilgilerle doldurur ve hedef bilgisayarın göndereceği paketlerin saldırganın belirttiği adreslere gitmesini sağlayabilir.bu yöntemle gönderilmek istenilen paketin ,istenilen yere ulaşması engellenebilir
+2.ortadaki adam yöntemi(man in the middle)
+bu yöntemde saldırgan, hedef bilgisayar ile hedef bilgisayarın ulaşmak istediği noktanın arasına girer.bütün iletişimi istediği gibi kontrol eder.ağda gönderilen bir paketi alıp, paketin destination mac adres bilgisine kendi mac adresini yazar.pakete yapılan bu müdahele ile artık yollanan paketler saldırganın bilgisayarına gider.saldırgan da paket üstünde istediği gibi değişiklik yapabilir.bu yöntemle kullanıcının yolladğı tüm bilgiler saldırgan üzerinden geçer ve bu yöntem oldukça tehlikelidir.tüm gönderilen bilgiler(kredi kartı bilgileri,şifre vb.)
+alınabilir.bu yöntem arp dışında pek çok saldırılarda da kullanılmaktadır.en fazla kullanılan saldırı çeşitlerindendir
+3
+hedef bilgisayarın paketlerini başkasına gönderme
+burada da saldırgan hedef bilgisayarın göndereceği paketi başka bir bilgisayara gönderebilir.örneğin kullanıcının http üzerinden erişmek istediği web sayfası yerine kendi oluşturduğu sayfaya kullanıcıyı götürebilir.bu şekilde bilgisayar servis dışı bırakılabilir
+peki nasıl savunulur?
+bunun içinde birkaç yötem bulunmaktadır.bunun için geliştirilmiş olan pekçok ücretli ve ücretsiz yazılım vardır.bu yazılımlar kullanılarak bu saldırıları engellemek mümkün olabilir.bir başka yöntem de donanımsal olarak çözmek olabilir.örneğin ip-mac karşılaştırmasını switchler üzerinde bazı port konfigürasyonları ile çözülebilir
+switch portlarında konfigürasyonlar odaklı çözümler için http://www.cisco.com/en/us/prod/collateral/switches/ps5718/ps708/white_paper_c11_603839.html adresine detaylı bilgi için bakabilirsiniz
+iç bağlantılar
+http://en.wikipedia.org/wiki/arp_poisoning
+http://en.wikipedia.org/wiki/address_resolution_protocol
+dış bağlantılar
+http://vividmachines.com/download/arpetter.html
+</text></doc>
+<docno>218407</docno>
+<text>
+orman
+orman, belirli yükseklikteki ve büyüklükteki ağaçlar, çalı, otsu bitkiler, mantarlar, mikroorganizmalar ve çeşitli hayvanlarla, toprağın meydana getirdiği, aynı zamanda topluma çeşitli faydalar sağlayan bir ekosistem
+kendisini meydana getiren bireylerin uzun yıllar karşılıklı etkileri sonucu yerleşmiş, biyolojik bir dengeye sahiptir
+bu denge ormanların sağlığı ve varlığı için şarttır
+bu denge olmadıkça, ormanların sağlığı ve varlığını korumak çok güç, hatta imkânsızdır
+orman şekilleri
+ekvatoral yağmur ormanı
+dünyanın en canlı, en kuvvetli ve yayılma kabiliyeti en yüksek olan orman tipidir
+orman ekosistemi bu tipte en yüksek seviyesine ulaşmıştır
+yüksek sıcaklık ve rutubetin biraraya geldiği yörelerde yağmur ormanı teşekkül etmiştir
+yağış miktarı esas itibariyle 2000-4000 milimetre arasında değişmekle beraber bazı mıntıkalarda 10.000 milimetreye ulaşır
+ortalama yıllık sıcaklık 20-30 °c arasında değişir
+en soğuk ayda 18 °c'nin altına düşmez
+mevsim değişmeleri olmadığından tropik yağmur ormanı ağaçlarında, ilkbahar ve sonbahar odunu meydana gelişi görülmez
+büyük çoğunluğu, daimi yeşil yapraklı ağaçlardan meydana gelen tropik yağmur ormanında ağaçların tepeleri zayıf, dallanma gevşek, gövde şekilleri düzensiz, ağaç kabukları parlaktır
+dallar üzerinde "epiphyte" denen eğrelti, orkide gibi konuk bitkiler, çeşitli sarılıcı ve tırmanıcı bitkiler, ormanın genel görünüşünde büyük rol oynarlar
+tozlaşma, böcekler ve kelebekler yoluyla olur
+tropik yağmur ormanının bazı ağaçları gövde üzerinde de çiçeklenme yapabilirler
+olağanüstü istila edici bir kuvvete sahiptir
+tedbir alınmadığı taktirde yolları, telefon, telgraf vs. gibi yapıları kısa zamanda kullanılmaz hale getirir.bu orman ekvator bölgelerinde bulunur
+endonezya takım adalarında, hindistan'da, kamerun sahilinde, amazon mıntıkasında, brezilya'nın doğu sahilinde, karayip denizi sahillerinde ve adalarında yayılış gösterir
+tropik yağmur ormanları; mangrov tropik iğne yapraklı ormanlar ve bambu ormanları olmak üzere üç grupta toplanır
+mangrov ormanları
+tropiklerde birçok deniz etekleri, kendine has tipik bir orman formasyonu taşırlar
+denizin ilerlemesi halinde (med), yaklaşık 10 ile 20 m arasında boy yapan ağaçların yalnız tepeleri suyun üzerinde kalır
+çekilmesi halinde (cezir) ise ağaç gövdeleri geniş nefes alma kökleri ile birlikte görülür
+tohumun çimlenmesi ve çimlenmeden sonra meydana gelen fidecikler, tohumlar henüz ağaçta iken gelişirler ve biraz büyüyünce çamur toprağa düşerek köklenirler
+bu bitkiler deniz tuzuna dayanıklı bitkilerdir
+muson ormanları
+muson iklimi etkisi altındaki ağaçlar daimi yeşil, derimsi yahut tüylü yapraklar taşırlar
+genellikle muson ikliminin yaygın olduğu bölgelerde yetişirler
+yazları yeşil yapraklıdırlar, kışları ise yapraklarını dökerler
+muson ormanlarının tipik ağacı teak ağacıdır
+bu ağaçlar yazın aşırı suya, kışın da kuraklığa karşı dayanıklı ağaçlardır
+tropik iğne yapraklı ormanlar
+güneydoğu asya'da ve orta amerika'da, çeşitli çam türlerinin meydana getirdikleri geniş ormanlar, bilhassa dağlık yerlerin fakir topraklarında yaygındır
+ağaç türleri; "pinus caribaea", "pinus merkusii", "callitris podocarpus"tur
+tayga ormanları
+taygalar, ormanda alt tabakanın bir kısmını meydana getirirler
+geniş yayılan rizomları sayesinde sürgün vererek çoğalırlar
+dünya üzerinde 60 cinsine dağılan yaklaşık 700 türü vardır
+boyları 0,15 m ile 30 m arasında değişir
+sert karasal iklimin nemli bölgelerinde görülürler.görüldükleri yerlere en fazla yağış yazın,en az yağış kışın düşmektedir
+yağmur yeşili yapraklı orman (kış ormanı)
+tropik memleketlerin, yazları periyodik kurak ve çok sıcak, kışları yağmurlu iklim mıntıkalarında görülür
+bu orman şeklinin tipik özelliği, yaprak dökümünün sıcak ve kurak mevsime, esas ve vejetasyon zamanında yapraklı durumla kışa rastlamasıdır
+kış ormanı sonbaharda yeşillenir ve ilkbaharda tekrar yaprağını döker
+ağaçların boyları kısa ve büyümeleri çok yavaştır
+hindistan, afrika ve güney amerika'nın geniş sahalarını kaplarlar
+maymun, ekmek ağacı ve şemsiye akasyaları bu vejetasyonun tipik ağaçlarıdır
+arka hindistan ve doğu cava ormanlarının en değerli ağacı, yaprakları (30x50) cm büyüklüğünde olan tectonia grandis'dir
+sert yapraklı orman
+sert yapraklı orman, yazları sıcak ve yağışça fakir, kışları ılıman, fakat yağışça zengin yörelerde yayılış gösterir
+daimi yeşil yapraklı olması, sert yapraklı ormana çok serin zamanlarda hatta kışın bile fotosentez imkânı verir
+bunun yanında yaz mevsiminin kuraklığı sebebiyle bilhassa kuru topraklarda büyümede bir nevi duraklama periyodu hasıl olur
+en tipik ağaç türleri; defne "(laurus nobilis)", yabani zeytin "(olea europaea)", mantar meşesi "(quercus suber)", fıstık çamı, pırnal meşe "(quercus ilex)", kermes meşesi "(quercus coccifera)", "eucalyptus", adi servi "(cupressus sempervirens)", fıstık çamı "(pinus pinea)", kızılçam "(pinus brutia)", halep çamı "(pinus halepensis)" dir
+sert yapraklı ormanın ana mıntıkaları, başta akdeniz iklim bölgesi olmak üzere dar bir şerit halinde kalifornia ve şili'dir
+maki dediği bitki formasyonu da sert yapraklı orman şekli içinde yer alır
+boylu veya bodur çalı görünümündeki maki akdeniz ve kısmen karadeniz kıyılarında, denizle dağ etekleri arasında yaygındır
+bulunduğu araziyi örtmesi ve toprağı girift olarak kaplaması erozyonu önleme ve toprak koruması bakımından büyük değer taşır
+makinin başlıca elemanları: yabani zeytin, defne, mersin, koca yemiş, sandal, funda, sumak, filarya, sakız, zakkum, laden, katırtırnağı, ardıç, ılgın, keçiboynuzu tur
+yazın yeşil yapraklı orman (yaz ormanı)
+kuzey yarı kürenin belirli derecede serin kışlara sahip olan ve yazlarla kışlar arasında mevsim farkları gösteren enlemlerinde görülür
+ince ve yumuşak olan yaprakların sonbaharda dökülmesi kış soğuğundan ziyade, toprağın donması halinde hasıl olabilecek kuraklık tehlikesine karşı alınan bir tedbirdir
+yaz ormanları bilhassa orta avrupa'da, yazları zengin yağışlı mıntıkalarda görülür
+türkiye'de, denizden yüksek olmayan yerlerde yaygındır
+yazın yeşil yapraklı ormanın ana türleri; kayın "(fagus)", meşe "(quercus)", akçaağaç "(acer)", ıhlamur "(tilia)", karaağaç "(ulmus)", gürgen "(carpinus)", huş "(betula)", kısmen de kestane "(castanea)", ceviz "(juglans)" ve caryadır
+iğne yapraklı (ibreli) orman
+yayılış sahası, kuzey yarı kürenin kışları sert, düzenli kar ve don mevsimleri gösteren yüksek enlemleridir
+yaz, kış yeşil iğne şeklini almış olan asimilasyon organları, kısa ve vejetasyon devresinde, sıcaktan en yüksek derecede faydalanmayı mümkün kılar
+iğne yapraklı ormanların çoğunda gövdeler devamlı, düz ve dalsızdır
+ağır olmayan gövde odunları, bıçkı kerestesi ve yapı ağacı olarak çok kıymetlidir
+bu orman tipi, kuzey avrupa ve asya'dan kuzey amerika'nın kuzeyine kadar, 20 enlem genişliğindeki bir şerit halinde yayılış gösterir
+dünyadaki igne yapraklı agaçlar(yapragını dökemeyen agaçlar):göknar,sedir,katran,arakorya,andız,ladin,çam,servi,ardıç,şemsiye agacı,lariks(melez),mazı
+galeri ormanları
+afrika, güney amerika ve iç anadolu'nun yağmurca fakir, kurak mıntıkalarında nehirler boyunca, dar veya geniş şeritler halinde oldukça kuvvetli büyüyen ormanlar meydana gelir ki, bunlara galeri ormanları denir
+bataklık ormanları
+tropik bölgelerin geniş, sürekli su altında kalan, bataklık bölgelerinde rastlanır
+florida'nın bataklık servisi ormanları bu ormanlara örnek olarak gösterilebilir
+ormanların yararları
+maddi faydaları
+ormanların yapacak, yakacak ve tali ürünlerle sağladığı değerlerdir
+ormanın ilk bakıştaki faydası, ürünlerin çeşitli iş ve sanayi kollarında hammadde olarak kullanılması veya tüketimi şeklinde göze çarpmaktadır
+inşaatta, kimya ve diğer sanayi kuruluşlarında, madencilik, ulaştırma, bayındırlık gibi ekonomik faaliyetlerde odun hammaddesinin kullanış yerleri gün geçtikçe artmaktadır
+odun hammaddesinin bu derece önem kazanmasının sebebi, sahip olduğu teknolojik vasıflarından ve devamlı üreyebilen; iyi bakıldığı taktirde tükenmez bir kaynağı olmasından ileri gelmektedir
+teknolojinin gelişmesi ve elektrik enerjisi, petrol, maden kömürü gibi çeşitli enerji maddelerinin bulunmuş olmasına rağmen odun, yakacak maddesi olarak önemini sürdürmektedir
+dünya odun üretiminin hemen hemen % 50'si yakacak olarak kullanılmakta ve özellikle gelişmekte olan ülkelerde bu oran % 80'e varmaktadır
+ormandan elde edilen tali ürünler, parfümeri, boya, ilaç, dericilik, tecrit malzemesi gibi endüstri kuruluşlarının ham maddesini meydana getirmektedir
+türkiye'de üretilen orman tali ürünlerinin başlıcaları; reçine, sığla yağı, palamut, mazı, defne yaprağı, çam fıstığı, sumak, kestane, ıhlamur çiçeği, mahlep, meyan kökü ve keçiboynuzu vb.dir
+kollektif faydaları
+ormanın bu yöndeki hizmetleri, maddi faydaları ile ölçülemeyecek kadar fazladır
+bulundukları yerin iklimini, kara iklim tipinden ılıman iklim tipine yöneltirler
+bu sayede don, kuraklık, aşırı sıcaklık, fırtına gibi zararları önlemek ve azaltmak suretiyle faydalı olurlar
+ormanın etkisi altında kalan sahaların nisbi rutubeti fazla olduğu gibi, akarsu ve kaynakların verimi, düzenli ve devamlıdır
+ormanların tarımı, hayvancılığı, bayındırlık tesislerini koruması; karada ve deniz kıyılarında kumulların teşekkülüne engel olması; bataklıkları kurutmak, havaya saf oksijen vermek, gürültüyü ve hava kirliliğini önlemek suretiyle insan sağlığına yardım etmesi; çeşitli av hayvanlarını barındırıp beslemekle yurdun tabii varlığını ve güzelliğini zenginleştirmesi gibi hususlar kollektif hizmetlerinin başlıcalarını teşkil eder
+türkiye ormanlarının durumu
+"(kaynak : orman genel müdürlüğü verileri)"
+</text></doc>
+<docno>79756</docno>
+<text>
+tenochtitlan
+tenochtitlan antik aztek imparatorluğu’nun başkentidir
+texcoco gölü'nde bulunan bir ada üzerine inşa edilmiştir
+1520'lerde hernan kortez yönetimindeki ispanyol “"conquistador"” lar (fatih) tarafından çok büyük oranda tahrip edilen şehrin üzerine, o zaman kurulan yeni ispanya’nın başkenti olarak mexico şehri kuruldu
+şehri çevreleyen texcoco gölü’de belli bir süre sonra büyük bir oranda kurutuldu
+bölgeden birçok kabile geçmesine rağmen azteklere kadar hiçbiri kalıcı olarak yerleşmemiştir
+aztek efsanelerine göre, kuzeyin çöllerinden göç eden kabile, rahiplerin kehanet ettiği, bir kartalın kaktüs üzerinde bir yılan yediğini gördükleri ideal yerleşim yerine yeni şehirlerini kuracaktı
+kabile , kartalı küçük bataklık bir adanın üzerinde görmüş olmalı
+bu efsane, şu anda meksika'nın sembolü olarak bayrağında ölümsüzleştirilmiştir
+tarihçilere göre, bu pek uygun olmayan yere yerleşmelerinin sebebi, diğer yerlerin daha güçlü kabileler tarafında ele geçirilmiş olması
+yine de bu durum aztekleri yıldırmadı; "chinampa" denilen ve göle dikilen kazıklar üzerine konulmuş kamıştan yapılan dikdörtgen platformların üzerine toprak konularak yapılan bir tarım şeklini bularak ekilebilir alan miktarını arttırdılar
+tarihçilerin tahminlerine göre şehir 14.yüzyılda kurulmuştur
+en çok öne sürülen tarih 1325 yılıdır
+ispanyol fatih ("conquistador") hernan kortez tenochtitlan'a 8 kasım 1519’da gelmiştir
+o zamanlar dünya üzerindeki en büyük şehirlerden biri olduğuna inanılmaktadır; avrupa'da sadece paris, venedik ve istanbul daha büyüktü
+yaklaşık olarak 100 bin-200 bin insanın yaşadığı tahmin edilmektedir
+şehir "campan" adı verilen dört bölgeye ve her "campan" 'da "calpulli" adı verilen 20 mahalleye ayrılmıştı
+her "calpulli" 'den "tlaxilcalli" adı verilen caddeler geçmekteydi
+şehri baştan sona geçen ve anakaraya uzanan üç ana cadde vardı
+bernal díaz del castillo tarafından yazıldığına göre her biri on at genişliğindeydi
+</text></doc>
+<docno>163156</docno>
+<text>
+foumban
+foumban, afrika'nın ortabatı kesiminde, kamerun'un batı eyaletine bağlı noun ilinin merkezi
+başkent yaoundé'nin kuzeybatısında yer alır
+bamum krallığı'nın tarihsel başkenti olan kentte 18. yüzyıldan kalma bir saray vardır
+bamumların en ünlü kralı ncoya (1889-1933) burada okullar kurmuş, bir piktografi sistemi geliştirmiş ve güzel sanatları korumuştur
+saray bugün, ahşap oymacılığının, bakır ve pişmiş topraktan yapılan gerçekçi maskelerin, bambu ve rafya mobilya koleksiyonlarının bulunduğu foumban bamum sanat müzesi'ni barındırmaktadır
+kamerun'un batısındaki zanaatçıla için en önemli ticaret merkezi olan foumban'da yerel el sanatları ürünleri pazarlanır
+kent ayrıca kahve, kakao ve tütün toplama merkezidir
+toplanan ürünler, ihraç edilmek üzere karayoluyla douala'ya gönderilir
+foumban'da bir havaalanı ve gümrük istasyonu bulunur
+</text></doc>
+<docno>35461</docno>
+<text>
+mebusevleri
+mebusevleri, ankara'da beşevler ve tandoğan arasında bir semttir
+çankaya ilçesi sınırlarındadır
+1930'lu yıllarda milletvekilleri için yapılmıştır
+semtte eski binlar yıkılıp yerlerine yeni ve yüksek binalar yapılmaktaysa da halen ilk dönem ankara'sından izler bulmak mümkündür
+özellikle yaz aylarında semtin sokaklarının üstü ağaç yaprak ve dalları ile kaplanır
+tandoğan ankaray durağına 500 metre, anıtkabire 50 metre uzaklıktadır
+meskenlerin dışında çeşitli iş yerlerinin de merkezidir
+iller sokak ve süslü sokak burada bulunur
+süslü sokak
+ilk dönem ankarası'nın özelliklerini taşıyan nadir sokaklardandır
+son dönemdeki yapılaşma sokağı tehdit etmektedir
+süslü sokak anıtkabir'in hemen alt sırasında, iller sokağı'nın üztündedir
+sokak konutlar dışında birçok işyerine de ev sahipliği yapmaktadır
+</text></doc>
