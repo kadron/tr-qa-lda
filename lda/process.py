@@ -108,9 +108,9 @@ def main():
 	#Generating topics and distributions
 	print('Starting up!')
 	num_topics = 10
-	num_question = 264
+	num_question = 50
 	num_answer = 50985
-	corpus_name = '../data/ldac/deriv/sq.txt'
+	corpus_name = '../data/ldac/deriv/sq50.txt'
 	voc_name = '../data/voc/deriv/all.txt'
 	corpus = corpora.BleiCorpus(corpus_name,voc_name)
 	print('Corpus processed!')
