@@ -176,14 +176,18 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \headerbox{Motivation}{name=intro,column=0,below=abstract}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	\par Question Answering (QA) is the task of automatic retrieval of an answer given a question. \\
+	\par Question Answering (QA) is the task of automatic retrieval of an answer given a question. Usually processing the question, system receives several search phrases and uses those to find relevant documents from a corpora or a knowledge base.
+
+\par Hazırcevap \cite{derici2014rule} is a Turkish question answering system designed for high-school students to assist their education. It is a rule based QA system that extracts parts of the question as a focus and the type and the character of the answer then is chosen based on these linguistically calculated focus words in the question.
+
+\par In this project we aim to assist Hazırcevap in finding better answers by building a topic model relation between those focus words and the relevant documents.
 
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \headerbox{Original Model}{name=exp,column=1,span=1}{
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-	\par A passage in retrieved documents (document collection) is represented as a mixture of fixed topics, with topic $z$ getting weight $\theta^(s)_z$ in passage $s$ and each topic is a distribution over a finite vocabulary of words, with word $w$ having a probability $\phi^(z)_w$ in topic $z$. Placing symmetric Dirichlet priors on $\theta^(s)$ and $\phi^(z)$, where $\alpha$ and $\beta$, the generative model is given by: \\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+	\par A passage in retrieved documents (document collection) is represented as a mixture of fixed topics, with topic $z$ getting weight $\theta^{(s)}_{z}$ in passage $s$ and each topic is a distribution over a finite vocabulary of words, with word $w$ having a probability $\phi^{(z)}_{w}$ in topic $z$. Placing symmetric Dirichlet priors on $\theta^{(s)}$ and $\phi^{(z)}$, where $\alpha$ and $\beta$, the generative model is given by:
 
 \begin{equation*}
   \label{eq:dists}
@@ -195,18 +199,24 @@
   \end{aligned}
 \end{equation*}
 
-	\par S is the number of passages, K is the total number of topics, W is the total number of words in the document collection, and $s_i$ and $z_i$ are passage and topic of the $i$th word $w_i$, respectively. \\
+	\par S is the number of passages, K is the total number of topics, W is the total number of words in the document collection, and $s_{i}$ and $z_{i}$ are passage and topic of the $i$th word $w_{i}$, respectively. \\
 
-	\par Our goal is to calculate the expected posterior probabilities of a word in a candidate passage given a topic and expected posterior probability of topic mixings of a given passage. \\
+	\par Our goal is to calculate the expected posterior probabilities of a word in a candidate passage given a topic and expected posterior probability of topic mixings of a given passage, using the count matrices.  $n^{WK}_{w_{i}k}$ is the count of $w_{i}$ in topic $k$ and $n^{SK}_{sk}$ is the count of topic k in passage s.
 
 \begin{equation*}
   \label{eq:model}
     \hat{ \phi}_{wi}^{(z_i)} = \frac{n^{WK}_{w_{i}k}+ \beta}{\sum^W_{j=1}n^{WK}_{w_{j}k}+ W \beta} \quad \hat{\theta}^{(s)} \frac{n^{SK}_{sk} +\alpha}{\sum^K_{j=1}n^{SK}_{sj}+ K \alpha}
 \end{equation*}
 
-	\par For comparison metric, we have used TODO Burak\\
+	\par For comparison metric, we have used Information Retrieval Metric (IR) which is represented as follows. The advantage of IR over KL is that it is symmetric and there is no problem with infinite values because $\frac{p^{(z)}_{s}+p^{(z)}_{q}}{2} \neq 0$ if either $p^{(z)}_{s} \neq 0$ or $p^{(z)}_{q} \neq 0$
 
-
+\begin{equation*}
+  \label{eq:metric}
+\begin{aligned}
+&IR(p^{(z)}_{q},p^{(z)}_{s}) = \\
+&KL(p^{(z)}_{q}||\frac{p^{(z)}_{s}+p^{(z)}_{q}}{2}) + KL(p^{(z)}_{s}||\frac{p^{(z)}_{s}+p^{(z)}_{q}}{2})
+\end{aligned}
+\end{equation*}
   }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
   \headerbox{Proposed Model}{name=proposed,column=2}{
@@ -226,7 +236,8 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \headerbox{Dataset and Results}{name=results,column=3,row=0}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\par We have used
+\par We have used the Turkish Wikipedia dataset as the corpus. Our dataset contains 50000 sentences and 50 questions to train the topics. We have processed the original dataset to obtain the dataset with inflectional affixes removed, and trained those two different datasets using LDA, and compared the questions and sentences using IR and document-topic distributions. \\
+\par After comparison of questions and sentences and obtaining 5 candidate passages for each question, we compare if the top 5 passages for each question contain the answers and define our success metric as \# of successful findings / \# of questions. Original model performed  \\
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -239,7 +250,7 @@
   \headerbox{References}{name=references,column=3,below=ack}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{tiny}
-	\nocite{Spink2001731,Lind2005123,Cangar200853}
+	\nocite{}
     \setlength{\parskip}{-2mm}
     \bibliographystyle{ieeetr}
     \bibliography{ref}
