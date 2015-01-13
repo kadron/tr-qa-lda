@@ -129,11 +129,12 @@ def main():
 	#doc_topic = lda[corpus]
 	dist_list = list(lda[corpus])
 	answer_list,metric_list = compare_sq(dist_list,num_question,num_answer,num_topics)
-
+	print('Answers compared!')
 	f = open('{}{}'.format(corpus_name,'.answers'), 'w')
 	for i,answers in enumerate(answer_list):
 		f.write('Question {}: {}'.format(i,' '.join(answers)))
 	f.close()
+	print('Results written !')
 
 if __name__ == '__main__':
 	main()
