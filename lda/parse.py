@@ -214,6 +214,7 @@ def print_ldac_from_file(filename,voc,limit=100):
                 if not ldac_line:
                     break
                 ldac_list.append(ldac_line)
+            break
     print_ldac(ldac_list,voc)
 
 def print_ldac(ldac_list,voc):
@@ -224,9 +225,11 @@ def print_ldac(ldac_list,voc):
             if freqs.strip():
                 #print(freqs.split(":")[0])
                 try:
-                    question.append(voc[int(freqs.split(":")[0])])
+                    question.append(voc[int(freqs.strip().split(":")[0])])
                 except IndexError:
                     print("Index Error %s" %freqs)
+                except ValueError:
+                    print("Value Error %s" %freqs)
         print(str(i) + ": "+  ldac_list[i])
         print(str(i) +": "+ " ".join(question))
 
