@@ -87,16 +87,16 @@ def compare_sq(dist_list,num_question,num_answer,num_topics):
 				max_answer = [i] + max_answer[1:5]
 			elif metric > max_metric[1]:
 				max_metric = max_metric[0:1] + [metric] + max_metric[2:5]
-				max_answer = max_answer[0:1] + [metric] + max_answer[2:5]
+				max_answer = max_answer[0:1] + [i] + max_answer[2:5]
 			elif metric > max_metric[2]:
 				max_metric = max_metric[0:2] + [metric] + max_metric[3:5]
-				max_answer = max_answer[0:2] + [metric] + max_answer[3:5]
+				max_answer = max_answer[0:2] + [i] + max_answer[3:5]
 			elif metric > max_metric[3]:
 				max_metric = max_metric[0:3] + [metric] + max_metric[4:5]
-				max_answer = max_answer[0:3] + [metric] + max_answer[4:5]
+				max_answer = max_answer[0:3] + [i] + max_answer[4:5]
 			elif metric > max_metric[4]:
 				max_metric = max_metric[0:4] + [metric]
-				max_answer = max_answer[0:4] + [metric]
+				max_answer = max_answer[0:4] + [i]
 		
 		answer_list.append(max_answer)
 		metric_list.append(max_metric)
@@ -136,7 +136,7 @@ def main():
 	print('Answers for each question.')
 	for i,answers in enumerate(answer_list):
 		answers
-		f.write('Question {}: {} {} {} {} {}'.format(i,answers[0],answers[1],answers[2],answers[3],answers[4]))
+		f.write('Question {}: {} {} {} {} {}\n'.format(i,answers[0],answers[1],answers[2],answers[3],answers[4]))
 	f.close()
 	print('Results written !')
 
