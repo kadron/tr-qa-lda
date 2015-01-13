@@ -225,7 +225,7 @@ def print_ldac(ldac_list,voc):
             if freqs.strip():
                 #print(freqs.split(":")[0])
                 try:
-                    question.append(voc[int(freqs.split(":")[0])])
+                    question.append(voc[int(freqs.strip().split(":")[0])])
                 except IndexError:
                     print("Index Error %s" %freqs)
                 except ValueError:
