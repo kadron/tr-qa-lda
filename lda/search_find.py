@@ -64,8 +64,8 @@ def merge_and_write_answers(n=range(1,357)):
     ansss = []
     with codecs.open("../data/last_questions_answers.txt","rU","utf-8") as ans_file:
         for index in n:
-            answer = ans_file.readline()
-            if answer.strip() is not u"":
-                ansss.append(answer.strip().lower())
-                _ = merge_and_write_answers_inner(index,answer.strip().lower())
+            answer = ans_file.readline().strip().strip(".").lower()
+            if answer is not u"":
+                ansss.append(answer)
+                _ = merge_and_write_answers_inner(index,answer)
     return ansss
