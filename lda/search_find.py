@@ -34,12 +34,14 @@ def find_related_docs_all(n=range(1,357)):
 def merge_and_write_answers_inner(index,answer):
     all_sentences = []
     for doc_id in range(0,5):
+        answers_filename = "../data/answers/"+str(index)
+        if os.path.exists(answers_filename):
+            print("%s exists" %answers_filename)
+            continue
         doc_filename = "../data/docs/lda_"+str(index)+"_"+str(doc_id)
         if os.path.exists(doc_filename):
             with codecs.open(doc_filename,"rU","utf-8") as doc_file:
                 line = doc_file.readline()
-                while(line != "\n"):
-                    line = doc_file.readline()
                 while True:
                     if not line:
                         break
@@ -51,7 +53,7 @@ def merge_and_write_answers_inner(index,answer):
                             all_sentences.append(sent)
     all_related_text = "\n".join(all_sentences)
     if all_related_text.find(answer) > -1:
-        with codecs.open("../data/answers/"+str(index),'w+', 'utf-8') as docs_file:
+        with codecs.open(answers_filename,'w+', 'utf-8') as docs_file:
             docs_file.write(all_related_text)
     else:
         print(index,answer)
