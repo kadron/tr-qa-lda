@@ -222,19 +222,25 @@
   \headerbox{Proposed Model}{name=proposed,column=2}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \par Recently the effects of applying different stemming techniques such as fixed-length word truncation and morphological analysis are explored in the area of document summarisation \cite{GaliotouKT13,can2008}. Following those studies we aim to overcome the data sparsity problem of morphologically rich languages by using different stemming approaches. 
-%\par In our proposed model, the words in passages are transformed to their stems by using the method of identifying and removing inflectional affixes.\\
+%\par In our proposed model, the words in passages are transformed to their stems by using the method of identifying and removing inflectional affixes. We also wanted to try prefix-N method which takes first N characters of the word as the stem but we didn't have enough time to finish implementation and testing of that feature.\\
 \includegraphics[scale=1.1]{./figures/model}
 	\vspace{-12pt}
     \captionof{figure}{Topic-Word and Passage-Topic Distributions}
     \label{fig:figure}
 \vspace{5pt}
-}%
+}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \headerbox{Dataset and Results}{name=results,column=3,row=0}{
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \par We have used the Turkish Wikipedia dataset as the corpus. Our dataset contains 50000 sentences and 50 questions to train the topics. We have processed the original dataset to obtain the dataset with inflectional affixes removed, and trained those two different datasets using LDA, and compared the questions and sentences using IR and posterior document-topic distributions. \\
-\par After comparison of questions and sentences and obtaining 50 candidate passages for each question, we compare if the top 50 passages for each question contain the answers and define our success metric as \# of successful findings / \# of qustions. Original model performed with 70% \\
+\par After comparison of questions and sentences and obtaining 50 candidate passages for each question, we compare if the top 50 passages for each question contain the answers to corresponding question and define our success metric as \# of successful findings / \# of questions.  \\
+	\begin{tabular}{| p{1.2cm} | p{1.2cm} | p{1.8cm} | p{1.5cm} |}
+	\hline	
+	 &Original Model & Inflectional Model & Prefix-N Model \\ \hline
+	Success Ratio & $20\%$ & & \\
+	\hline
+	\end{tabular}
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
