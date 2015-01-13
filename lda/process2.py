@@ -130,9 +130,13 @@ def main():
 	dist_list = list(lda[corpus])
 	answer_list,metric_list = compare_sq(dist_list,num_question,num_answer,num_topics)
 	print('Answers compared!')
+	answer_list
 	f = open('{}{}'.format(corpus_name,'.answers'), 'w')
+	
+	print('Answers for each question.')
 	for i,answers in enumerate(answer_list):
-		f.write('Question {}: {}'.format(i,' '.join(answers)))
+		answers
+		f.write('Question {}: {} {} {} {} {}'.format(i,answers[0],answers[1],answers[2],answers[3],answers[4]))
 	f.close()
 	print('Results written !')
 
