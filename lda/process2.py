@@ -141,7 +141,8 @@ def main():
 		f.write('Question {}: '.format(i))
 		for j in xrange(50):
 			f.write('{} '.format(answers[j]))
-		f.write('\n')	f.close()
+		f.write('\n')
+		f.close()
 	print('Results written !')
 
 if __name__ == '__main__':
