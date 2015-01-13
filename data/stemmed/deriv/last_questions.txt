@@ -1,0 +1,356 @@
+23 eylül kuzey yarım küre hangi mevsim başlangıçNounA3sgP3sgNom 
+akarsu aşınVerbVerbCausPos sonuç meydan gelVerbPos deniz seviye yakın hafif dalgaNounA3sgPnonNom düzAdj ne deVerb 
+atmosfer en alt katman hangi tabaka varAdj 
+birleş millet nüfus Vakfı’nın kısa ad nePronQuesA3sgPnonNom 
+bitki ve hayvan topluluk inceleVerbPos bilim dal nePronQuesA3sgPnonNom 
+biyosfer ultraviyole ışın zarar koruVerbPos gaz hangiPronQuesA3sgP3sgNom 
+Bofor ölçek ne şiddet ölçVerbVerbPassPos kullanVerb 
+çarşamba delta oluşVerbVerbCausPos akarsu hangiPronQuesA3sgP3sgNom 
+coğrafi keşif başlaVerbPos hangi icat olanak sağla 
+dev kazan hangi dış güç taraf oluşVerbVerbCaus 
+dünya nüfus en az olVerbPos kıta hangiPronQuesA3sgP3sgNom 
+dünya nüfus en çok olVerbPos kıta hangiPronQuesA3sgP3sgNom 
+ege deniz hangi jeolojiNounA3sgPnonNom zaman oluş 
+harita küçülVerbVerbCausPos oran ne deVerb 
+ilk evcilAdjVerbBecomeVerbCausVerbPassPos hayvan hangiPronQuesA3sgP3sgNom 
+ilk para kullanım hangi uygarAdj dönem ol 
+İstanbul güneydoğu esen rüzgar ne ad verVerb 
+kar ve deniz düşey doğrultuNounA3sgPnonLoc alçalVerbPos yükselVerbPos hareket ne deVerb 
+Kılıçkaya baraj hangi ırmak üzer yer almakatadır 
+menderes aşınVerbPos kısım ne ad verVerb 
+menderes birikVerbVerbCausPos kısım ne ad verVerb 
+Nil delta hangi ülke sınır içeriNounA3sgP3sgLoc 
+Pamukkale traverten hangi il sınır içeriNounA3sgP3sgLoc 
+Rotterdam hangi ülke şehirNounA3sgP3sgNom 
+Sakarya nehir hangi deniz dökVerb 
+sanayi inkılap ilk olVerbPos hangi ülke başla 
+soma ova sulaVerbPos ırmak ad nePronQuesA3sgPnonNom 
+Toros Dağ hangi jeolojiNounA3sgPnonNom zaman oluş 
+Türkiye en fazla hangi ülke işçi göç ver 
+Türkiye cepheNounA3sgPnonNom yağVerbPos en çok hangi bölge görVerb 
+Türkiye ekili dikili alan en fazla yer kaplaVerbPos bölge hangiPronQuesA3sgP3sgNom 
+Türkiye en az insan nüfus sahip olVerbPos şehir hangiPronQuesA3sgP3sgNom 
+Türkiye en fazla pirinç tarım yapVerbVerbPassPos akarsu havza isim nePronQuesA3sgPnonNom 
+Türkiye güney esen rüzgar isim nePronQuesA3sgPnonNom 
+TürkiyeNounPropA3sgPnonLoc deniz en az tuzluAdj oran sahip olVerbPos deniz hangiPronQuesA3sgP3sgNom 
+Türkiye doğu esen soğuk ve kuru rüzgar hangiPronQuesA3sgP3sgNom 
+Türkiye en büyük baraj göl hangiPronQuesA3sgP3sgNom 
+Türkiye en geniş yüz ölçüm sahip şehir nerePronQuesA3sgP3sgNom 
+Türkiye kuzeybatı esVerbPos yerel rüzgar ad nePronQuesA3sgPnonNom 
+Türkiye batı esVerbPos sıcak nemNounA3sgPnonNom rüzgar hangiPronQuesA3sgP3sgNom 
+Türkiye kuzey esen rüzgar ne deVerb 
+Türkiye kuzeydoğu esVerbPos genellikle soğuk getirVerbPos rüzgar hangiPronQuesA3sgP3sgNom 
+Umit burun hangi kıtaNounA3sgPnonLoc 
+volkan çıkVerbPos akışkan madde ne ad verVerb 
+yerküre en ince tabaka hangiPronQuesA3sgP3sgNom 
+yerküre en kalın katman hangiPronQuesA3sgP3sgNom 
+yerküre hemen üzer yer alVerbPos atmosfer tabaka ad nePronQuesA3sgPnonNom 
+yeryüzüNounA3sgP3sgLoc büyük kara parça ne ad verVerb 
+bir yer deniz seviye yüksekAdj ney ifade etVerb 
+canlı cansız varlık bütünAdj ne ifade et 
+karınca yuva açık ön hangi yön göster 
+ağaç ve taş yosun tutVerbPos taraf hangi yön göster 
+bir yer kuş bakVerbPos taslak çizim ne deVerb 
+hava sıcakAdj ölçVerbPos araç ne ad verVerb 
+yüksekAdj 500m fazla olVerbPos yer ne ad verVerb 
+üç taraf su kapNounA3sgPnonNom kara parça ne ad verVerb 
+çevre göre daha alçakAdj bulunVerbPos ve tarım elverişli geniş düz kara parça ne ad verVerb 
+kara deniz doğru olVerbPos dar uzantı ne ad verVerb 
+dağ harita hangi renk gösterVerb 
+deniz ve göl harita hangi renk gösterVerb 
+harita ova hangi renk gösterVerb 
+deniz bağlantı olVerbNeg su birikinti ne ad verVerb 
+Atatürk baraj hangi nehir üzer kurVerb 
+dünya yıllık hareket sıra güneş çevre izleVerbPos yörünge ne ad verVerb 
+Türkiye en uzun gündüz hangi tarih yaşaVerb 
+bir yer enlem ve boylam yardım belirVerbVerbCausVerbPassPos konum ne ad verVerb 
+yeryüzüNounA3sgP3sgLoc bir nokta ekvator en yakın uzaklık açı olVerbPos değer ne deVerb 
+dünya üzerNounA3sgP3sgLoc bir nokta başlangıç meridyen en yakin uzaklık açı cins değer ne ad verVerb 
+Bakü-Ceyhan petrol boru hat Türkiye ile hangi türk devlet araNounA3sgP3sgLoc 
+Türkiye maden yatak ve çeşit bakım en zengin bölge hangiPronQuesA3sgP3sgNom 
+Türkiye en yüksek bölge hangiPronQuesA3sgP3sgNom 
+ülke en çok nüfus olVerbPos il hangiPronQuesA3sgP3sgNom 
+iç Anadolu Bölge hangi iklim tür hakimNounA3sgPnonNom 
+fiziki harita tarım alan uygun yer hangi renk gösterVerb 
+çevre göre çukur kal akarsu derinAdj gömVerbVerbPassPos akVerbPos dar veya geniş düzAdj ne ad verVerb 
+gerçek ölçü küçülVerbVerbCausVerbPassPos çizVerbVerbPassPos ne deVerb 
+uzun yıl devam etVerbPos atmosfer olay ortalama durum inceleVerbPos bilim dal hangiPronQuesA3sgP3sgNom 
+okyanus deniz göl akarsu kaynak su ve yer alt su bütünAdj ne ad verVerb 
+geçVerbPos kıyı hava soğuVerbPos neden olVerbPos su ne deVerb 
+yeryüzü en soğuk ay ortalama 10 C üzer olVerbPos iklim kuşak ne isim verVerb 
+yer küre hangi yön esen rüzgar sıcakAdj yükselVerb 
+Gulf Stream sıcak su akıntı hangi yön hareket et 
+Gulf Stream sıcak su akıntı nere etki 
+alize rüzgar da etki oluşVerbPos sıcak okyanus akıntı ad nePronQuesA3sgPnonNom 
+alize rüzgar da etki oluşVerbPos sıcak okyanus akıntı ne isim verVerb 
+yeryüzü en çok ısınVerbPos alan nerePronQuesA3plPnonNom 
+deniz güneş ışın kaç metre kadar etkiNounA3sgPnonNomAdjWith 
+rüzgar hız ne ölçVerb 
+kuzey Amerika doğu kıyı batı kıyı göre daha soğuk olVerbPos sebep olVerbPos nePronQuesA3sgPnonNom 
+güneş ışın dik açı alVerbPos ekvator çevre Dünya en sıcak yer olVerbNeg sebep nePronQuesA3sgPnonNom 
+gün en soğuk anı ne zamanNounA3sgPnonNom 
+neden ve sonuç bakım karmaşık coğrafya olay inceleVerbPosAor hangi coğrafya ilke başvurVerb 
+dağ zirve nem miktar ne kadarPostpPCDat 
+kara güneş ışın etkiNounA3sgPnonNom olVerbPos derinAdj ne kadarPostpPCDat 
+yeryüzü soğuk kuşak olVerbPos adNounA3sgPnonNomVerbAcquireVerbCausVerbPassPos iklim kuşak en sıcak ay ortalama sıcakAdj ne kadarPostpPCDat 
+muson iklim yıllık sıcakAdj fark ne kadarPostpPCDat 
+ekvatoral iklim yıllık yağVerbPos miktar ne kadarPostpPCDat 
+karasal iklim yıllık yağVerbPos miktar kaç mm 
+çöl iklim günlük sıcakAdj fark kaç derece bulVerbPos 
+yüksek bulut ne deVerb 
+kümülüs bulut kaç metre aralık bulun 
+Sirüs bulut kaç metre yüksekAdj bululur 
+alize rüzgar ne sebep ol 
+sıcakAdj ve nem bakım farkNounA3sgPnonNom özellikNounA3sgPnonLoc hava kütle karşılaşma alan ne meydan gelir 
+insan barınVerbPos ihtiyaç için üreVerbVerbCausPos barınak ne göre farkNounA3sgPnonNomAdjWith göster 
+güneş ışın kırVerbVerbPassPos ve yansıVerbPos miktar ne göre art 
+bulut ne göre sınıfNounA3sgPnonNomVerbAcquireVerbCaus 
+yeryüzü kaç farkNounA3sgPnonNom sıcakAdj kuşak oluş 
+su küre taş küre ve hava küre her biri yayVerb olVerbPos küre hangiPronQuesA3sgP3sgNom 
+canlı küre hangi küre yayVerb durumNounA3sgPnonLoc 
+biyosfer hangi küre yayVerb 
+doğal çevre kaç temel unsur oluşVerb 
+eş sıcakAdj eğri ne deVerb 
+doğal çevre oluşVerbVerbCausPos dört temel unsur hangiPronQuesA3plP3plNom 
+doğal çevre oluşVerbVerbCausPos temel unsur hangiPronQuesA3plP3plNom 
+genel olVerbPos Ekvator kutup gitVerbVerbPassPos sıcakAdj nasıl değiş 
+yer Yuvarlak meydan getirVerbPos iç iç geçmiş küre ne isim verVerb 
+yer kabuk ortalama kalınAdj kara kaç km aralıkNounA3sgP3sgLoc 
+yer kabuk ortalama kalınAdj deniz ne kadarPostpPCDat 
+Granitik kabuk bileşim en çok hangi element bulun 
+Bazaltik kabuk bileşim en çok bulunVerbPos element hangiPronQuesA3plP3plNom 
+Bazaltik kabuk yoğunAdj ne kadarPostpPCDat 
+Granitik kabuk hangi taş meydan gelir 
+Astenosfer ad verVerbVerbPassPos manto katman derinAdj kaç km aralık yer al 
+sıvı halNounA3sgPnonLoc astenosfer malzeme ne deVerb 
+manto yer yuvarlakAdj hacim yüzNumCard kaç kapla 
+dış çekirdek ney oluş 
+iç çekirdek sıcakAdj kaç derece bulVerbPos 
+yer kabuk ana madde olVerbPos ve mineral meydan gelVerbPos katı cisim ne ad verVerb 
+direnç düşük kayaç bulunVerbPos arazi ne tür yer şekileri meydan gelir 
+ülke volkanik tüf aşınVerbPos oluş yer şekil nere bulun 
+tortul kayaç bir diğer ad nePronQuesA3sgPnonNom 
+püskürük ve tortul kayaç aşırı sıcakAdj ve basınç alt kalVerbPos değişim uğraVerbPos oluşVerbPos kayaç ne isim verVerb 
+kaya başkalaşım uğraVerbPos ne sebep ol 
+yeryüzü şekil oluşVerbPos sebep olVerbPos nePronQuesA3sgPnonNom 
+tektonik hareket neden olVerbPos enerji kaynak nePronQuesA3sgPnonNom 
+manto içeriNounA3sgP3sgLoc konveksiyon akıntı hangi yön hareket et 
+TürkiyeNounPropA3sgPnonLoc kuzey Anadolu dağ ve Toros dağ hangi jeolojiNounA3sgPnonNom zaman oluş 
+TürkiyeNounPropA3sgPnonLoc kuzey Anadolu dağ ve Toros dağ hangi orojenez sonuç oluş 
+Epirojenik hareket sırasında deniz çekVerbVerbPassPos ne deVerb 
+lav nePronQuesA3sgPnonNom 
+Volkanizma sonuç yüzey sıvı hal lav çıkarNounA3sgPnonNomVerbZero gaz hal çıkVerbPos nePronQuesA3sgPnonNom 
+volkanik kökenNounA3sgPnonNom ada en fazla bulunVerbPos yer nerePronQuesA3sgP3sgNom 
+volkan tüf kaç cm uzunlukNounA3sgP3sgLoc 
+volkan tüf uzunluk kaç cm.dir 
+ağrı dağ hangi tür volkanNounA3plPnonAbl 
+yeryüzü kaç tane etkin volkan varAdj 
+yeryüzüNounA3sgP3sgLoc etkin volkan yüzNumCard kaç büyük okyanus çevreNounA3sgP3sgLoc 
+yeryüzüNounA3sgP3sgLoc etkin volkan kaç büyük okyanus çevreNounA3sgP3sgLoc 
+kaç çeşit deprem dalga varVerb 
+deprem dalga iç en hızNounA3sgPnonNom dalga hangiPronQuesA3plP3plNom 
+deprem sıra yer kabuk ilk ulaşVerbPos dalga hangiPronQuesA3plP3plNom 
+tsunami deVerbVerbPassPos dev dalga ne sebep ol 
+deprem alet ölçVerbVerbPassPos büyükAdj ne deVerb 
+ülke de iç bulunVerbPos deprem kuşak hangiPronQuesA3sgP3sgNom 
+yeryüzü deprem çoğunluk nere ol 
+yeryüzü kendi özgü bir iklim bitki örtü ve hayvan topluluk bulunVerbVerbCausPos bölge ne ad verVerb 
+canlı çevre birlikte oluşVerbVerbCausPos yaşam birliktelik ne deVerb 
+Biyomlar ne en büyük birimNounA3plP3sgNom 
+ekosistem en büyük birim nePronQuesA3sgPnonNom 
+Biyomların yeryüzü dağılVerbPosNounInf3A3sgP3sgLoc en büyük etken koşul hangiPronQuesA3sgP3sgNom 
+barut pusula mürekkep kağıt ve matbaa icat etVerbPos dünya medeniyet önemNounA3sgPnonNom katkı bulunVerbPos uygarAdj hangiPronQuesA3sgP3sgNom 
+yer yuvarlakAdjNounZeroA3sgP2sgLoc iç iç küre ne ad verVerb 
+çekirdek tabaka diğer bir ad nePronQuesA3sgPnonNom 
+sismoloji ne ilgili araştırVerbPos yap 
+göl ayak diğer bir ad nePronQuesA3sgPnonNom 
+Akdeniz bölge doğal bitki örtü nePronQuesA3sgPnonNom 
+iç yer altı su bulunVerbPos tabaka ne ad verVerb 
+Türkiye istatistik kurum kısa ad nePronQuesA3sgPnonNom 
+doğa ile insan araNounA3sgP3sgLoc etkileşim inceleVerbPos bilim dal hangiPronQuesA3sgP3sgNom 
+insan yaşam sürVerbVerbCausPos ve çeşitNounA3sgPnonNom ekonomik faaliyet bulunVerbPos bölge ne deVerb 
+yerleşVerbPos sınırNounA3sgPnonNomVerbAcquireVerbCausPos en önemNounA3sgPnonNom faktör nePronQuesA3sgPnonNom 
+kır yerleşVerbPos en büyükAdj ne deVerb 
+insan barınVerbPos koruVerbVerbPassPos ve çalışVerbPos gibi ihtiyaç karşılaVerbPos tüm yapı ne deVerb 
+toprak ev en yaygın tipi nePronQuesA3sgPnonNom 
+ekvator kesim mesken bambu ve kamış yapVerbVerbPassPos en önemNounA3sgPnonNom sebep nePronQuesA3sgPnonNom 
+kutup yakın yer kar ve buz kullanVerbVerbPassPos yapVerbVerbPassPos mesken ne ad verVerb 
+ilk insan nere mesken olVerbPos seç 
+ilk yerleşim yer akarsu boy kurVerbVerbPassPos temel sebep nePronQuesA3sgPnonNom 
+insan yıl belli bir dönem gezVerbPos görVerbPos ve dinlenVerbPos amaç yönelik olVerbPos yapVerbPos yer değişikAdj ne ad verVerb 
+bir toplum tarihsel süreç iç üreVerbVerbCausPos ve kuşak kuşak aktarVerbPos her türlü maddi ve manevi özellik bütünAdj ne deVerb 
+Abd Ulusal park hangi birlik taraf koruma alt alın 
+Artemis tapınak nere kurVerb 
+Japonya başkent nerePronQuesA3sgP3sgNom 
+Japonya dil nePronQuesA3sgPnonNom 
+Japonya hangi iklim etki altNounA3sgP3sgLoc 
+İngiltere Avrupa nere yer al 
+başlangıç meridyen hangi şehirNounA3sgPnonLoc 
+insan yaşaVerbPos doğal ortam genel olVerbPos verVerbVerbPassPos isim nePronQuesA3sgPnonNom 
+gün doğa yararNounA3sgPnonNomVerbAcquirePos artVerbVerbCausPos ve hızNounA3sgPnonNomVerbAcquireVerbCausPos en önemNounA3sgPnonNom faktör nePronQuesA3sgPnonNom 
+insan toprak işleVerbPos taş çeşitNounA3sgPnonNom amaç kullanVerbPos ve yer alt kaynak işleVerbVerbCausPos yeryüzü hangi katman yap 
+insan havayolu ulaşım yeryüzü hangi katman faydaNounA3sgPnonNom 
+insan su çeşitNounA3sgPnonNom şekil yeryüzü hangi katman faydaNounA3sgPnonNom 
+insan besin ve iş güç kaynak olVerbPos yeryüzü hangi katman faydaNounA3sgPnonNom 
+orta kuşakNounA3sgPnonLoc pek çok insan en temel besin madde nePronQuesA3sgPnonNom 
+iklim değişVerbPos en çok hangi ekonomik olay etki 
+yıl boyunca nemNounA3sgPnonNom ve yağVerbPosNounInf3A3sgPnonNom olVerbPos gür orman ve otlak bulunVerbPos yer hangi hayvancılık çeşit geliş 
+yağVerbPos az ve bitki örtü zayıf olVerbPos yer hangi hayvancılık çeşit geliş 
+tarım sınırlaVerbPos en önemNounA3sgPnonNom etmen nePronQuesA3sgPnonNom 
+Norveç İsveç gibi ülke en önemNounA3sgPnonNom geçim kaynak nePronQuesA3sgPnonNom 
+ağaç bulunVerbNeg kurak bölge en çok hangi yapı malzeme kullanVerb 
+hava kirNounA3sgPnonNomAdjWith oluşVerbPosNounInf2A3sgP3sgLoc başlıca etken nePronQuesA3sgPnonNom 
+toprak yağVerbPos su ve rüzgar taraf aşınVerbVerbCausVerbPassPos taşınVerbPos ne deVerb 
+yeryüzü altNounA3sgP3sgLoc sıcak su enerji kaynak olVerbPos kullanVerbPos sistem ne ad verVerb 
+insan yaşam üzer etkiNounA3sgPnonNom olVerbPos faktör toplam ne deVerb 
+belirli bir zaman sınır belli bir alan içeri yaşaVerbPos insan sayı ne deVerb 
+sanayi devrim ile en önemNounA3sgPnonNom nüfus artVerbPos hangi kıta yaşaVerb 
+batı avrupa ülke fazla göç alVerbPos temel sebep nePronQuesA3sgPnonNom 
+kutup yakın bölge nüfus yoğunAdj az olVerbPos en önemNounA3sgPnonNom sebep nePronQuesA3sgPnonNom 
+dünya en fazla nüfus sahip kıta hangiPronQuesA3sgP3sgNom 
+dünya en az nüfus sahip kıta hangiPronQuesA3sgP3sgNom 
+nüfus artVerbPos hız en fazla olVerbPos kıta hangiPronQuesA3sgP3sgNom 
+Ganj nehir hangi ülkeNounA3sgPnonLoc 
+Dekkan plato Hindistan hangi taraf bulun 
+Ganj nehir nere doğ 
+Bengal Havza en çok hangi tarım ürün üretim yaygınAdj 
+hint kenevir diğer ad nePronQuesA3sgPnonNom 
+dünya mercimek üretim birinci sıra olVerbPos ülke nerePronQuesA3sgP3sgNom 
+Hollanda resim dil nePronQuesA3sgPnonNom 
+deniz kazanVerbVerbPassPos toprak ne ad verVerb 
+Dünya iç su ulaşım ağ en geliş ülke hangiPronQuesA3sgP3sgNom 
+İtalya hakim olVerbPos din hangiPronQuesA3sgP3sgNom 
+İtalya uzay görünVerbPos ne andır 
+dünya turistNounA3sgPnonNom açı en fazla ziyaret etVerbVerbPassPos ülke nerePronQuesA3sgP3sgNom 
+Abd baş şehir nerePronQuesA3sgP3sgNom 
+RusyaNounPropA3sgPnonLoc petrol rezerv %80 Rusya hangi bölge bulun 
+Rusya hangi ülke dağılVerbPos kurVerb 
+ipek yol başlangıç hangi ülkeNounA3sgPnonNom 
+Bartelmi Diaz nerePronQuesA3sgPnonNomAdjWith 
+dünya dolaşVerbPos ilk denizci kimPronQuesA3sgPnonNom 
+dünya ilk olVerbPos halk televizyon yayın yapVerbPos ülke hangiPronQuesA3sgP3sgNom 
+Bering boğaz kim keşfet 
+Bering boğaz kaşif nerePronQuesA3sgPnonNomAdjWith 
+dünya demir yol ağ en sık olVerbPos bölge nerePronQuesA3sgP3sgNom 
+dünya en uzun demir yol hat ad nePronQuesA3sgPnonNom 
+Afrika demir yol gelişim hangi devlet destek Avrupa devlet destek büyükAdj 
+yazı ilk defa hangi uygarAdj taraf bulun 
+yeryüzü özellikle aşırı yağVerbPos alVerbPos eğimNounA3sgPnonNom bölge yay olVerbPos görVerbVerbPassPos kütle hareket ne deVerb 
+bir bölge nem miktarNounA3sgP3sgLoc geçici dengeNounA3sgPnonNomAdjWithout o bölgeNounA3sgPnonLoc su kıtNounA3sgPnonNom ile ilişki ne ad verVerb 
+dünya en büyük su nakil proje hangi ülke aitPostpPCDat 
+Toba dağ hangi ülke sınır içeriNounA3sgP3sgLoc 
+mal ve hizmet sağlaVerbVerbPassPos ne deVerb 
+mal ve hizmet tüketVerbPos ulaşVerbVerbCausVerbPassPos ne ad verVerb 
+mal ve hizmet kullanVerbVerbPassPos ne il ifade etVerb 
+ekonomik faaliyet ilk zincir ne oluşVerb 
+ekonomik faaliyet son zincir ne oluşVerb 
+harita çizim ile uğraşVerbPos bilim dal ne ad verVerb 
+haritaNounA3sgPnonLoc uzunluk gerçek uzunluk bölVerbVerbPassPos ne ver 
+eş derinAdj eğri diğer ad nePronQuesA3sgPnonNom 
+kutup eşit uzaklıkNounA3sgPnonLoc nokta birleşVerbVerbCausVerbPassPos el etVerbVerbPassPos hayali çember ne ad verVerb 
+paralelAdj hangi doğrultu uzaVerb 
+bir nokta Ekvator olVerbPos uzaklık açı cins değer ne deVerb 
+en büyük paralel daire hangiPronQuesA3sgP3sgNom 
+ekonomik sosyal doğal ya da siyasi neden birey veya topluluk yer değişVerbVerbCausPos ne deVerb 
+türk orta Asya göç etVerbPos temel sebep nePronQuesA3sgPnonNom 
+savaş sınır ihlal ve iç karışıkAdj neden can güvenlik sağlaVerbPos için ülke değişVerbVerbCausPos insan ne deVerb 
+Osmanlı devlet bünye yaşaVerbPos rum temel geçim kaynak nePronQuesA3sgPnonNom 
+dünya ünlü çoruh nehir hangi spor yapVerb 
+en geniş havza sahip bölge hangiPronQuesA3sgP3sgNom 
+ege bölge akasuların doğrultu ne yön doğruPostpPCDat 
+YağışNounPropA3sgPnonNom dönem bol su taşıVerbPos akarsu temel nere besleVerb 
+yağmur besleVerbVerbPassPos akarsu daha çok hangi iklim görVerb 
+kar ve buz su besleVerbVerbPassPos akarsu akVerbPos azalVerbPos hangi mevsim ol 
+göl çıkVerbPos akarsu besleVerbVerbPassPos yer ne deVerb 
+bir veya birden fazla özellik benze olVerbPos alan ne adNounA3sgPnonNomVerbAcquireVerbCaus 
+Dortmund hangi sanayi bölge yer al 
+aynı kent iç bulunVerbPos kent soyutlaVerb yerleşim alan ne ad verVerb 
+Türkiye üreVerbVerbCausVerbPassPos ilk uçak hangi ilçe üreVerbVerbCaus 
+tarım sektör sulaVerbPos sonra verim artVerbVerbCausPos en önemNounA3sgPnonNom faktör nePronQuesA3sgPnonNom 
+Türkiye zirai donatım Kurum kısa ad nePronQuesA3sgPnonNom 
+devlet su iş kısaç nasıl ifade etVerb 
+toprak mahsul Ofis kısalVerbVerbCausPos nasılAdj 
+pirinç hangi bitki kabuk ayırVerbVerbPassPos el etVerb 
+pamuk bitki tohum ne ad verVerb 
+ege bölge TürkiyeNounPropA3sgPnonLoc haşhaş üretim kaçAdj kaç karşı 
+sera sürVerbVerbCausVerbPassPos faaliyet ne ad verVerb 
+maden cevher içNounA3sgP3sgLoc metal oran ne isim verVerb 
+Türkiye petrol anonim ortaklık kısa ad nePronQuesA3sgPnonNom 
+lüle taş hangi il çevre çıkVerbVerbCaus 
+Aydın hangi ilçe jeotermal elektrik santral varVerb 
+bitki veya biyolojiNounA3sgPnonNom atıkAdj el etVerbVerbPassPos enerji ne ad verVerb 
+Terrarosa toprak hangi bölge daha sık görVerb 
+çayır bitki örtü çevre oluşVerbPos toprak ne ad verVerb 
+sürVerbVerbPassPos ve işleVerbVerbPassPos zor kil oran fazla olVerbPos toprak ne isim verVerb 
+ege iç anadolu ve doğu anadolunun çöküntüNounA3sgPnonNom kısım yaygın olVerbPos üst kısım kireçNounA3sgPnonNom toprak ne deVerb 
+volkan çıkVerbPos kum boyutNounA3sgP3sgLoc malzeme ile yamaç etekNounA3plP3sgLoc kolüvyal depo üzer oluşVerbPos toprak ne deVerb 
+Türkiyede en çok yetişVerbVerbCausVerbPassPos tahıl ürün nePronQuesA3sgPnonNom 
+çay hangi toprak daha iyi yetiş 
+bozkır daha yoğun olVerbPos yöre hangi hayvan yetişVerbVerbCausPosNounAgtA3sgPnonNom fazlaPostpPCAbl 
+çayır daha fazla görVerbVerbPassPos bölge hangi hayvan daha çok yetişVerbVerbCaus 
+çam orman daha fazla olVerbPos yöre görVerbVerbPassPos hayvancılık çeşit nePronQuesA3sgPnonNom 
+Türkiyedeki bitki çeşitlilğinin fazla olVerbPos en önemNounA3sgPnonNom sebep nePronQuesA3sgPnonNom 
+3 ve 4 jeolojiNounA3sgPnonNom zaman oluş gün yetişVerbPos imkanNounA3sgPnonNom bitki ne deVerb 
+kızılçam dünya en geniş yayVerbVerbPassPos alan nerePronQuesA3sgPnonLoc 
+maki hangi iklim uygun bir bitki örtüNounA3sgP3sgNom 
+Karadeniz kıyı orman tahrip etVerbVerbPassPos bölge rastlaVerbVerbPassPos çalı ne ad verVerb 
+kurak bölge ilkbahar yağVerbPos yeşerVerbPos ve yazın sararVerbPos ot topluluk ne deVerb 
+alp çayır ne çeşit hayvancılık yapVerb 
+toprak çeşit hangi tarımsal verimNounA3sgPnonNomAdjWith en fazlaAdj 
+yer kabuk meydan gelVerbPos ani ve kısa süreli sarsıntı ne ad verVerb 
+bir liman iç bölge olVerbPos ulaşım bağlantı özellik ne deVerb 
+üreVerbVerbCausVerbPassPos mal ve hizmet alınVerbPos satVerbVerbPassPos ne deVerb 
+Milet amfi tiyatro hangi ilNounA3sgPnonLoc 
+Milet amfi tiyatro hangi ilçeNounA3sgPnonLoc 
+Karain mağara hangi il sınır içeriNounA3sgP3sgLoc 
+yer batVerbPos sarnıç kim taraf yapVerbVerbCaus 
+Ayasofya gün ne olVerbPos hizmet ver 
+Sanayi’nin diğer ad nePronQuesA3sgPnonNom 
+Oltu taş hangi il çıkVerbVerbCaus 
+Kütahya’nın hangi ilçe feldispat yatak mevcutNounA3sgPnonNom 
+ipek böcekçiNounA3sgPnonNom en çok hangi bölge yapVerb 
+Anzer bal hangi il özgüAdj 
+tek sıvı maden hangiPronQuesA3sgP3sgNom 
+toprak belirli bir süre için tamamen veya kısmen aniden su alt kalVerbPos ne deVerb 
+sel su akarsu yatak dış çıkVerbPos tarım alan taşVerbPos ne deVerb 
+uzun bir zaman iç yağVerbPos belirgin bir şekil normal değer alt düşVerbPos ne deVerb 
+toprak yüzey akarsu sel su ve rüzgar gibi dış kuvvet taraf aşınVerbVerbCausVerbPassPos taşınVerbPos ne deVerb 
+eğimNounA3sgPnonNom yamaç fazla yağVerbPos doygun hal gelVerbPos toprak adeta bir hamur gibi yamaç boyunca kayVerbPos ne deVerb 
+Türkiyede heyelan olay en çok hangi mevsim ol 
+kar örtü hızNounA3sgPnonNom bir şekil eğim yön hareket etVerbPos ne deVerb 
+hızNounA3sgPnonNom bir şekil dönVerbPos hava kolonlarınının buluduğu fırtına sistem ne ad verVerb 
+yeryüzü en şiddetNounA3sgPnonNom kasırga hangi kuşak görVerb 
+deprem neden okyanus kıyı oluşVerbPos dev dalga ne ad verVerb 
+Türkiyede en fazla can kayıpAdj yol açVerbPos doğal afet ad nePronQuesA3sgPnonNom 
+kar yağVerbPos fazla arazi engebeNounA3sgPnonNom olVerbPos bölge hangi doğal afet daha fazla görVerb 
+Türkiyenin en büyük ada hangiPronQuesA3sgP3sgNom 
+Türkiyenin en büyük baraj göl ad nePronQuesA3sgPnonNom 
+doğu anadolu bölge en kalabalık nüfus sahip olVerbPos il hangiPronQuesA3sgP3sgNom 
+biyolojiNounA3sgPnonNom her türlü atıkAdj el etVerbVerbPassPosVerbAble olVerbPos enerji ne isim verVerb 
+rüzgar enerji hangi ülke taraf keşfetVerb 
+su güç el etVerbVerbPassPos elektrik enerji ne deVerb 
+petrol ürün kullanVerbVerbPassPos sonuç hava en çok yayVerbVerbPassPos gaz ad nePronQuesA3sgPnonNom 
+UNEP merkez hangi ülkeNounA3sgPnonLoc 
+mercan yığVerbVerbPassPos orta çıkVerbPos kaya zincir ne ad verVerb 
+Nil nehir üzer kurVerb en büyük baraj ad nePronQuesA3sgPnonNom 
+filipinAdj başkent nerePronQuesA3sgP3sgNom 
+genellikle ekin biçVerbVerbPassPos sonra buğday ve diğer tahıl tarla kalVerbPos sap kısım ne deVerb 
+Türkiyenin en kalabalık şehir ad nePronQuesA3sgPnonNom 
+Türkiyenin ikinci büyük şehir nePronQuesA3sgPnonNom 
+Türkiyenin üçüncü büyük şehir hangiPronQuesA3sgP3sgNom 
+Türkiyenin en büyük yüz ölçüm sahip il ad nePronQuesA3sgPnonNom 
+Tuncel önceNounA3sgPnonNom ad nePronQuesA3sgPnonNom 
+en son il hal getirVerbVerbPassPos ilçe hangiPronQuesA3sgP3sgNom 
+Türkiyenin en az nüfus sahip il ad nePronQuesA3sgPnonNom 
+Adana sınır iç bulunVerbPos dağ geçit ad nePronQuesA3sgPnonNom 
+türk coğrafya en doğuNounA3sgP3sgLoc ülke ad nePronQuesA3sgPnonNom 
+türk coğrafya en batı hangi ülke yer al 
+kömür yatak hangi jeolojiNounA3sgPnonNom zaman oluş 
+buzul taşıVerbPos birikVerbVerbCausPos materyal buzul alt kısımNounA3sgP3sgLoc eriVerbPos sonuç meydan gelVerbPos dere taraf işleVerbVerbPassPos oluşVerbPos birikinti ne deVerb 
+geniş yerkabuğu parça yükselVerbPos ya da çökVerbPos şekilNounA3sgP3sgLoc yer hareket ne deVerb 
+deniz gerileVerbPos ne deVerb 
+yer derinAdj bulunVerbPos magma yerkabuğu zayıf kısım yeryüzü çıkVerbPos ne deVerb 
+katı sıvı ya da gaz halNounA3sgP3sgLoc madde yeryüzü çıkVerbPos yer ne deVerb 
+volkan çıkVerbPos akışkan madde ne ad verVerb 
+volkan koni tepe kısımNounA3sgP3sgLoc çukurNounA3sgPnonNom ne deVerb 
+krater patlaVerbPos ya da çökVerbPos genişle şekil ne deVerb 
