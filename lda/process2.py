@@ -75,10 +75,10 @@ def compare_sq(dist_list,num_question,num_answer,num_topics):
 	#50 answers to each question
 	answer_list = []
 	metric_list = []
-	
+
 	for q in dist_list[-num_question:]:
-		max_answer = [-1,-1,-1,-1,-1]
-		max_metric = [-1,-1,-1,-1,-1]
+		max_answer = [-1]*50
+		max_metric = [-1]*50
 
 		for i,p in enumerate(dist_list[0:num_answer]):
 			metric = sim2(p,q,num_topics)
@@ -99,10 +99,10 @@ def compare_sq(dist_list,num_question,num_answer,num_topics):
 						max_metric = max_metric[0:j] + [metric] + max_metric[j+1:num_s]
 						max_answer = max_answer[0:j] + [i] + max_answer[j+1:num_s]
 						break
-				
+
 		answer_list.append(max_answer)
 		metric_list.append(max_metric)
-	
+
 	return answer_list,metric_list
 
 def main():
@@ -122,10 +122,10 @@ def main():
 
 	#print('=== Topic-Word Distributions ===')
 	#topic_word_list = lda.show_topics()
- 
+
 	#for i in xrange(num_topics):
 	#	print('Topic {} : {}'.format(i,' '.join(topic_word_list[i][0:])))
-	
+
 	print ('=== Document-Topic Distributions ===')
 	#Writing doc_topic distributions to a file to parse later
 	#doc_topic = lda[corpus]
@@ -134,7 +134,7 @@ def main():
 	print('Answers compared!')
 	answer_list
 	f = open('{}{}'.format(corpus_name,'.answers'), 'w')
-	
+
 	print('Answers for each question.')
 	for i,answers in enumerate(answer_list):
 		answers
