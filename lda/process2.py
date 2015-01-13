@@ -72,7 +72,7 @@ def sim2(p,q,num_topics):
 	return w(p,q,num_topics)
 
 def compare_sq(dist_list,num_question,num_answer,num_topics):
-	#5 answers to each question
+	#50 answers to each question
 	answer_list = []
 	metric_list = []
 	
@@ -82,22 +82,24 @@ def compare_sq(dist_list,num_question,num_answer,num_topics):
 
 		for i,p in enumerate(dist_list[0:num_answer]):
 			metric = sim2(p,q,num_topics)
-			if metric > max_metric[0]:
-				max_metric = [metric] + max_metric[1:5]
-				max_answer = [i] + max_answer[1:5]
-			elif metric > max_metric[1]:
-				max_metric = max_metric[0:1] + [metric] + max_metric[2:5]
-				max_answer = max_answer[0:1] + [i] + max_answer[2:5]
-			elif metric > max_metric[2]:
-				max_metric = max_metric[0:2] + [metric] + max_metric[3:5]
-				max_answer = max_answer[0:2] + [i] + max_answer[3:5]
-			elif metric > max_metric[3]:
-				max_metric = max_metric[0:3] + [metric] + max_metric[4:5]
-				max_answer = max_answer[0:3] + [i] + max_answer[4:5]
-			elif metric > max_metric[4]:
-				max_metric = max_metric[0:4] + [metric]
-				max_answer = max_answer[0:4] + [i]
-		
+			num_s = 50
+			for j in xrange(num_s):
+				if j == 0:
+					if metric > max_metric[0]:
+						max_metric = [metric] + max_metric[1:num_s]
+						max_answer = [i] + max_answer[1:num_s]
+						break
+				elif j == num_s-1:
+					elif metric > max_metric[num_s-1]:
+						max_metric = max_metric[0:num_s-1] + [metric]
+						max_answer = max_answer[0:num_s-1] + [i]
+						break
+				else:
+					if metric > max_metric[j]:
+						max_metric = max_metric[0:j] + [metric] + max_metric[j+1:num_s]
+						max_answer = max_answer[0:j] + [i] + max_answer[j+1:num_s]
+						break
+				
 		answer_list.append(max_answer)
 		metric_list.append(max_metric)
 	
@@ -136,8 +138,10 @@ def main():
 	print('Answers for each question.')
 	for i,answers in enumerate(answer_list):
 		answers
-		f.write('Question {}: {} {} {} {} {}\n'.format(i,answers[0],answers[1],answers[2],answers[3],answers[4]))
-	f.close()
+		f.write('Question {}: '.format(i))
+		for j in xrange(50):
+			f.write('{} '.format(answers[j]))
+		f.write('\n')	f.close()
 	print('Results written !')
 
 if __name__ == '__main__':
