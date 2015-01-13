@@ -223,7 +223,10 @@ def print_ldac(ldac_list,voc):
         for freqs in items[1:]:
             if freqs.strip():
                 #print(freqs.split(":")[0])
-                question.append(voc[int(freqs.split(":")[0])])
+                try:
+                    question.append(voc[int(freqs.split(":")[0])])
+                except IndexError:
+                    print("Index Error %s" %freqs)
         print(str(i) + ": "+  ldac_list[i])
         print(str(i) +": "+ " ".join(question))
 
