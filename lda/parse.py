@@ -92,7 +92,7 @@ def write_voc_as_dict_to_file(filename,voc_as_dict):
 
 def read_voc(filename):
     with codecs.open(filename,"rU","utf-8") as voc_file:
-        voc = voc_file.read().split('\n')
+        voc = voc_file.read().strip().split('\n')
     return voc
 
 # voc_d2, voc2 = parse.load_vocabulary("../data/voc.pickle")
@@ -205,14 +205,15 @@ def write_ldac_as_list_to_file(filename,ldac):
     with codecs.open(filename,'w+', 'utf-8') as l_file:
         l_file.write("\n".join(ldac))
 
-def print_ldac_from_file(filename,voc):
+def print_ldac_from_file(filename,voc,limit=100):
     with codecs.open(filename,"rU","utf-8") as ldac_file:
         ldac_list = []
         while 1:
-            ldac_line = ldac_file.readline()
-            if not ldac_line:
-                break
-            ldac_list.append(ldac_line)
+            for _ in range(0,limit):
+                ldac_line = ldac_file.readline()
+                if not ldac_line:
+                    break
+                ldac_list.append(ldac_line)
     print_ldac(ldac_list,voc)
 
 def print_ldac(ldac_list,voc):
