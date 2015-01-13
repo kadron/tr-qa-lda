@@ -214,6 +214,7 @@ def print_ldac_from_file(filename,voc,limit=100):
                 if not ldac_line:
                     break
                 ldac_list.append(ldac_line)
+            break
     print_ldac(ldac_list,voc)
 
 def print_ldac(ldac_list,voc):

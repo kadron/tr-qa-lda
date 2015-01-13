@@ -24,3 +24,7 @@ big_voc_new_list = read_voc("../data/voc/deriv/all.txt")
 parse.sentence_file_to_ldac("../data/stemmed/deriv/last_questions.txt","../data/ldac/deriv/last_questions.txt", big_voc_new_list)
 
 parse.sentence_file_to_ldac("../data/stemmed/deriv/all.txt","../data/ldac/deriv/all.txt", big_voc_new_list)
+
+To test:
+
+parse.print_ldac_from_file("../data/ldac/deriv/last_questions.txt",big_voc_new_list)
