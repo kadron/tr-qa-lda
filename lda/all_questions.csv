@@ -1,0 +1,977 @@
+23 Eylül Kuzey yarım kürede hangi mevsimin başlangıcıdır	hangi mevsimin	TEMPORAL	SEASON	Sonbahar		TEMPORAL
+Akarsu aşındırması sonucunda meydana gelen deniz seviyesine yakın hafif dalgalı düzlüklere ne denir	düzlüklere denir	DESCRIPTION	DEFINITION	Yontukdüz/Peneplen		DESCRIPTION
+Akarsuların taşıyarak oluşturdukları topraklara ne ad verilir	topraklara ad	DESCRIPTION	DEFINITION	Alüvyal Topraklar.		DESCRIPTION
+Akarsuyun denize döküldüğü yere ne denir	yere denir	DESCRIPTION	DEFINITION	Akarsu ağzı		DESCRIPTION
+Akarsuyun doğduğu yere ne ad verilir	yere ad	DESCRIPTION	DEFINITION	Akarsu kaynağı		DESCRIPTION
+Atmosferin en alt katmanında hangi tabaka vardır	hangi tabaka	ENTITY	OTHERS	Troposfer		ENTITY
+Bakteriler ilk olarak hangi jeolojik zamanda ortaya çıkmıştır	hangi jeolojik zamanda	TEMPORAL	ERA	İlkel Zaman/Prekambriyen/Antekambriyen		TEMPORAL
+Bir akarsuyun kolları ile birlikte oluşturduğu sisteme ne denir	sisteme denir	DESCRIPTION	DEFINITION	Akarsu ağı		DESCRIPTION
+Bir akarsuyun kolları ile birlikte sularının toplandığı ve ya boşaltıldığı alana ne denir	alana denir	DESCRIPTION	DEFINITION	Akarsu havzası		DESCRIPTION
+Birleşmiş Milletler Nüfus Vakfı’nın kısa adı nedir	Nüfus Vakfının adı	ABBREVIATION	ABBREVIATION	UNEPA		ABBREVIATION
+Bitki ve hayvan topluluklarını inceleyen bilim dalı nedir	bilim dalı	DESCRIPTION	DEFINITION	Biyocoğrafya		ENTITY
+Biyosfer'in diğer adı nedir	Biyosferin adı	ENTITY	OTHERS	Canlı Küre/Canlılar Küresi/Canlı Yüzey		ENTITY
+Biyosferi ultraviyole ışınlarının zararlarından koruyan gaz hangisidir	gaz	ENTITY	SUBSTANCE	Ozon		ENTITY
+Bofor ölçeği neyin şiddetinin ölçülmesinde kullanılır	neyin şiddetinin	ENTITY	ENTITY	Rüzgâr		ENTITY
+Canlıların üzerinde yaşadığı katman hangisidir	katman	ENTITY	OTHERS	Litosfer/Yer kabuğu		ENTITY
+Çarşamba deltasını oluşturan akarsu hangisidir	akarsu	ENTITY	RIVER	Yeşilırmak		ENTITY
+Çayır ve otlakların en fazla olduğu bölgemiz hangisidir	bölgemiz	LOCATION	REGION.LOCAL	Doğu Anadolu		ENTITY
+Coğrafi keşifler hangi yüzyılda başlamıştır	hangi yüzyılda	TEMPORAL	CENTURY	15.Yüzyıl		TEMPORAL
+Coğrafi keşiflerin başlamasına hangi icat olanak sağlamıştır	hangi icat	ENTITY	INSTRUMENT	Pusula		ENTITY
+Cumhuriyetten Sonra ilk nüfus sayımı ne zaman yapılmıştır	ne zaman yapılmıştır	TEMPORAL	DATE	28 Ekim 1927		TEMPORAL
+Dev kazanı hangi dış güç tarafından oluşturulur	hangi dış güç	ENTITY	ENTITY	Akarsu		ENTITY
+Dünyada ilk modern manada nüfus sayımları nerede yapılmıştır	nerede yapılmıştır	LOCATION	COUNTRY	İskandinav Ülkelerinde		LOCATION
+Dünyada nüfusun en az olduğu kıta hangisidir	kıta	LOCATION	CONTINENT	Okyanusya		LOCATION
+Dünyada nüfusun en çok olduğu kıta hangisidir	kıta	LOCATION	CONTINENT	Asya		LOCATION
+Dünyanın nüfusu ne kadardır	nüfusu ne kadardır	NUMERIC	SIZE.POPULATION	Yaklaşık 7 Milyar		NUMERIC
+Ege Denizi hangi jeolojik zamanda oluşmuştur	hangi jeolojik zamanda	TEMPORAL	ERA	IV.Zaman/Kuaterner		TEMPORAL
+Göçlerin en önemli nedeni nedir	Göçlerin nedeni	DESCRIPTION	REASON	Ekonomik faktörlerdir		ENTITY
+Göllerin fazla sularını boşaltan akarsulara ne denir	akarsulara denir	DESCRIPTION	DEFINITION	Gideğen/göl ayağı		DESCRIPTION
+Gönüllü göçler üzerinde etkili olan faktörlere ne isim verilir	faktörlere isim	DESCRIPTION	DEFINITION	Çekici faktörler		DESCRIPTION
+Haritaların küçültme oranına ne denir	Haritaların küçültme oranına denir	DESCRIPTION	DEFINITION	Ölçek		DESCRIPTION
+İç kuvvetlerin etkisiyle yeryüzünde oluşan hareketlerin adı nedir	hareketlerin adı	DESCRIPTION	DEFINITION	Tektonik hareket		ENTITY
+İçerisinde bitki ve hayvan fosili bulunduran kayaç hangisidir	kayaç	ENTITY	ENTITY	Kırıntı tortul kayaçlar		ENTITY
+İki akarsu havzasını birbirinden ayıran sınıra ne ad verilir	sınıra ad	DESCRIPTION	DEFINITION	Su bölümü çizgisi		DESCRIPTION
+İlk evcilleştirilen hayvan hangisidir	hayvan	ENTITY	OTHERS	Köpek		ENTITY
+İlk para kullanımı hangi uygarlık döneminde olmuştur	hangi uygarlık döneminde	ENTITY	OTHERS	Lidyalılar		HUMAN
+İlk şehir yerleşmeleri hangi çağda görülür	hangi çağda	TEMPORAL	ERA	Maden çağı/Kalkolitik çağ		TEMPORAL
+İmparatorluklar ilk olarak hangi çağda kurulmuştur	hangi çağda	TEMPORAL	ERA	Maden Çağı/Kalkolitik Çağ		TEMPORAL
+İstanbul Boğazı hangi jeolojik dönemde oluşmuştur	hangi jeolojik dönemde	TEMPORAL	ERA	IV. Zaman/Antropozoik/Kuvaterner		TEMPORAL
+İstanbul'da güneydoğudan esen rüzgâra ne ad verilir	rüzgâra ad	ENTITY	WIND	Keşişleme		DESCRIPTION
+Kara ve denizlerde düşey doğrultudaki alçalma yükselme hareketlerine ne denir	alçalma yükselme hareketlerine denir	DESCRIPTION	DEFINITION	Epirojenez		DESCRIPTION
+Karstik mağaralarda oluşan sarkıt ve dikitler hangi kayaç türlerindendir	hangi kayaç türlerindendir	ENTITY	ENTITY	Kimyasal tortul kayaç		ENTITY
+Kavimler göçü hangi yıllar arasında olmuştur	hangi yıllar arasında	TEMPORAL	PERIOD	350/800		TEMPORAL
+Kılıçkaya barajı hangi ırmağın üzerinde yer almakatadır	hangi ırmağın	ENTITY	RIVER	Yeşilırmak		ENTITY
+Kıta bölünmeleri hangi jeolojik zamanda başlamıştır	hangi jeolojik zamanda	TEMPORAL	ERA	II. zaman/Mezezoik		TEMPORAL
+Köpek hangi çağda evcilleştirilmiştir	hangi çağda	TEMPORAL	ERA	Mezolitik Çağ/orta taş çağı		TEMPORAL
+Lavların ve tüflerin yeryüzüne çıkmak için izledikleri yola ne ad verilir	yola ad	DESCRIPTION	DEFINITION	Volkan bacası		DESCRIPTION
+Mendereslerde aşınma kısmına ne ad verilir	aşınma kısmına ad	DESCRIPTION	DEFINITION	Çaprak		DESCRIPTION
+Mendereslerde biriktirme kısmına ne ad verilir	biriktirme kısmına ad	DESCRIPTION	DEFINITION	Yığınak		DESCRIPTION
+Nil Deltası hangi ülkenin sınırları içerisindedir	hangi ülkenin	LOCATION	COUNTRY	Mısır		LOCATION
+Ormanların tahrip edilmesi sonucu oluşan bozkırlara ne denir	bozkırlara denir	DESCRIPTION	DEFINITION	Antropojen Bozkır		DESCRIPTION
+Ozon oluşumu hangi katmanda oluşur	hangi katmanda	ENTITY	OTHERS	Mezosfer- Ozonosfer		ENTITY
+Pamukkale travertenleri hangi ilin sınırları içerisindedir	hangi ilin	LOCATION	CITY	Denizli		LOCATION
+Patamoloji nedir	Patamoloji	DESCRIPTION	DEFINITION	Akarsu bilimi		ENTITY
+Rotterdam hangi ülkenin şehridir	hangi ülkenin	LOCATION	COUNTRY	Hollanda		LOCATION
+Rüzgârların taşıyarak oluşturdukları topraklara ne ad verilir	topraklara ad	DESCRIPTION	DEFINITION	Lös topraklar		DESCRIPTION
+Sakarya nehri hangi denize dökülür	hangi denize	ENTITY	SEA	Karadeniz		ENTITY
+Sanayi İnkılâbı ilk olarak hangi ülkede başlamıştır	hangi ülkede	LOCATION	COUNTRY	İngiltere		LOCATION
+Sıcak su kaynaklarından yararlanılarak elektrik enerjisi üreten santrallere nedir	santraller	DESCRIPTION	DEFINITION	Jeotermal Santraller		ENTITY
+Soma ovasını sulayan ırmağın adı nedir	ırmağın adı	ENTITY	RIVER	Bakırçay		ENTITY
+Susurluk çayının diğer adı nedir	Susurluk çayının adı	ENTITY	RIVER	Simav çayı		ENTITY
+Suyun kinetik enerjisinden yararlanılarak elektrik üretimi yapılan santrallere ne ad verilir	santrallere ad	DESCRIPTION	DEFINITION	Hidroelektrik Santral		DESCRIPTION
+Tarım hayvancılık ve ticari faaliyetler ilk kez hangi çağda başlamıştır	hangi çağda	TEMPORAL	ERA	Yeni taş çağı/Neolitik çağ		TEMPORAL
+Taşkömürü yatakları hangi jeolojik zamanda oluşmuştur	hangi jeolojik zamanda	TEMPORAL	ERA	1.Zaman/paleozik		TEMPORAL
+Toros Dağları hangi jeolojik zamanda oluşmuştur	hangi jeolojik zamanda	TEMPORAL	ERA	III.Zaman/Tersiyer		TEMPORAL
+Tortum çayı hangi akarsuyun bir koludur	hangi akarsuyun	ENTITY	RIVER	Çoruh Nehri		ENTITY
+Türkiye arazisinin yüzde kaçı ormanlık alandır	Türkiye arazisinin yüzde kaçı	NUMERIC	PERCENTAGE	0.26		NUMERIC
+Türkiye en fazla hangi ülkeye işçi göçü vermiştir	hangi ülkeye	LOCATION	COUNTRY	Almanya		LOCATION
+Türkiye'de azonal(taşınmış) topraklar içinde en yaygın olanı hangisidir	azonal(taşınmış) topraklar	ENTITY	ENTITY	Alüvyal topraklar		ENTITY
+Türkiye'de çayır ve otlakların en fazla olduğu bölge hangisidir	bölge	LOCATION	REGION.LOCAL	Doğu Anadolu.		LOCATION
+Türkiye'de cephesel yağışlar en çok hangi bölgede görülür	hangi bölgede	LOCATION	REGION.LOCAL	Akdeniz.		LOCATION
+Türkiye'de ekili dikili alanların en az yer kapladığı bölge hangisidir	bölge	LOCATION	REGION.LOCAL	Doğu Anadolu		LOCATION
+Türkiye'de ekili dikili alanların en fazla yer kapladığı bölge hangisidir	bölge	LOCATION	REGION.LOCAL	Marmara.		LOCATION
+Türkiye'de en az insan nüfusuna sahip olan şehir hangisidir	şehir	LOCATION	CITY	Bayburt		LOCATION
+Türkiye'de en fazla pirinç tarımının yapıldığı akarsu havzasının ismi nedir	akarsu havzasının ismi	ENTITY	RIVER	Ergene/Meriç		ENTITY
+Türkiye'de güneyden esen rüzgârın ismi nedir	rüzgârın ismi	ENTITY	WIND	Kıble		ENTITY
+Türkiye'de heyelan set göllerinin en fazla görüldüğü bölge neresidir	bölge neresidir	LOCATION	REGION.LOCAL	Karadeniz Bölgesi		LOCATION
+Türkiye'deki denizlerden en az tuzluluk oranına sahip olan deniz hangisidir	deniz	ENTITY	SEA	Karadeniz		ENTITY
+Türkiye'deki su kaynaklarının en bol olduğu bölge hangisidir	bölge	LOCATION	REGION.LOCAL	Doğu Anadolu		LOCATION
+Türkiye'de tarım alanları ülke arazisinin yüzde kaçını oluşturur	ülke arazisinin yüzde kaçını	NUMERIC	PERCENTAGE	0.33		NUMERIC
+Türkiye'de üzerinde ulaşım ve taşımacılık yapılan akarsu hangisidir	akarsu	ENTITY	RIVER	Bartın çayı/Kocaırmak		ENTITY
+Türkiye'nin doğusundan esen soğuk ve kuru rüzgâr hangisidir	rüzgâr	ENTITY	WIND	Gündoğusu		ENTITY
+Türkiye'nin en büyük baraj gölü hangisidir	baraj gölü	ENTITY	OTHERS	Atatürk		ENTITY
+Türkiye'nin en büyük ovasının adı nedir	ovasının adı	ENTITY	PLAIN	Konya Ovası		ENTITY
+Türkiye'nin en geniş kapalı havzası hangi bölgemizdedir	hangi bölgemizdedir	LOCATION	REGION.LOCAL	İç Anadolu		LOCATION
+Türkiye'nin en geniş yüz ölçümüne sahip şehri neresidir	şehri neresidir	LOCATION	CITY	Konya		LOCATION
+Türkiye'nin en yüksek dağı hangisidir	dağı	ENTITY	MOUNTAIN	Ağrı Dağı		ENTITY
+Türkiye'nin kuzeybatısından esen yerel rüzgârın adı nedir	rüzgârın adı	ENTITY	WIND	Karayel		ENTITY
+Türkiye'nin nüfusu ne kadardır	nüfusu ne kadardır	NUMERIC	SIZE.POPULATION	Yaklaşık 76 Milyon		NUMERIC
+Türkiye'ye batıdan esen sıcak nemli rüzgâr hangisidir	rüzgâr	ENTITY	WIND	Günbatısı		ENTITY
+Türkiye'ye kuzeyden esen rüzgâra ne denir	rüzgâra denir	ENTITY	WIND	Yıldız		DESCRIPTION
+Türkiye'ye kuzeydoğudan esip genellikle soğuk getiren rüzgâr hangisidir	rüzgâr	ENTITY	WIND	Poyraz		ENTITY
+Ülke sınırlarını gösteren haritalar hangileridir	haritalar	DESCRIPTION	DEFINITION	Siyası Haritalar.		ENTITY
+Ülkemizde cumhuriyet öncesi ilk nüfus sayımı hangi tarihte yapılmıştır	hangi tarihte	TEMPORAL	DATE	1831		TEMPORAL
+Ülkemize çölden esen rüzgâr hangisidir	rüzgâr	ENTITY	WIND	Sam Yeli		ENTITY
+Umit Burnu hangi kıtadadır	hangi kıtadadır	LOCATION	CONTINENT	Afrika		LOCATION
+Ümit Burnuna ilk kez ulaşan denizci kimdir	denizci kimdir	HUMAN	INDIVIDUAL	Vasco da Gama		HUMAN
+Volkan konisinin tepe kısmındaki çukur kısıma ne denilmektedir	kısıma denilmektedir	DESCRIPTION	DEFINITION	Volkan ağzı/krater		ENTITY
+Volkanlardan çıkan akışkan maddelere ne ad verilir	akışkan maddelere ad	DESCRIPTION	DEFINITION	Lav		DESCRIPTION
+Volkanlardan çıkan katı maddelere ne ad verilir	katı maddelere ad	DESCRIPTION	DEFINITION	Volkan tüfü		DESCRIPTION
+Yer şekillerini gösteren haritaların adı nedir	haritaların adı	DESCRIPTION	DEFINITION	Fiziki Haritalar		ENTITY
+Yerkürenin en ince tabakası hangisidir	Yerkürenin tabakası	ENTITY	OTHERS	Litosfer/Taşküre		ENTITY
+Yerkürenin en kalın katmanı hangisidir	Yerkürenin katmanı	ENTITY	OTHERS	Çekirdek		ENTITY
+Yerkürenin hemen üzerinde yer alan atmosfer tabakasının adı nedir	Yerkürenin atmosfer tabakasının adı	ENTITY	OTHERS	Troposfer		ENTITY
+Yeryüzündeki kayaçlar kaç ana grupta sınıflandırılır	kaç ana grupta	NUMERIC	COUNT	3		NUMERIC
+Yükselim yağışları Türkiye'de en çok hangi bölgede görülür	hangi bölgede	LOCATION	REGION.LOCAL	İç Anadolu		LOCATION
+Yüzeye çıkan lav ve tüfün oluşturduğu yer şeklinin adı nedir	yer şeklinin adı	DESCRIPTION	DEFINITION	Volkan Konisi		ENTITY
+Zorunlu göçler üzerinde etkili olan faktörlere ne isim verilir	faktörlere isim	DESCRIPTION	DEFINITION	İtici faktörler		DESCRIPTION
+Yeryüzündeki büyük kara parçalarına ne ad verilir	kara parçalarına ad	DESCRIPTION	DEFINITION	Kıta		DESCRIPTION
+Türkiye hangi kıtalar arasında yer almaktadır	hangi kıtalar	LOCATION	CONTINENT	Asya Avrupa		LOCATION
+Bir yerin deniz seviyesinden yüksekliği neyle ifade edilir	yüksekliği neyle ifade edilir	DESCRIPTION	DEFINITION	Rakım		ENTITY
+Canlı cansız varlıkların bütünü neyi ifade eder	neyi ifade	DESCRIPTION	DEFINITION	Doğa		ENTITY
+Karınca yuvalarının açık önü hangi yönü gösterir	hangi yönü	ENTITY	OTHERS	Kuzey		ENTITY
+Ağaçların ve taşların yosun tutan tarafı hangi yönü gösterir	hangi yönü	ENTITY	OTHERS	Kuzey		ENTITY
+Bir yerin tepeden görünümüne ne ad verilir	görünümüne ad	DESCRIPTION	DEFINITION	Kuş bakışı		DESCRIPTION
+Bir yerin kuş bakışı taslak çizimine ne denir	taslak çizimine denir	DESCRIPTION	DEFINITION	Kroki		DESCRIPTION
+Hava sıcaklığını ölçen araca ne ad verilir	araca ad	DESCRIPTION	DEFINITION	Termometre		DESCRIPTION
+Yüksekliği 500m'den fazla olan yerlere ne ad verilir	yerlere ad	ENTITY	ENTITY	Dağ		DESCRIPTION
+Üç tarafı sularla kaplı kara parçasına ne ad verilir	kara parçasına ad	ENTITY	ENTITY	Yarımada		DESCRIPTION
+Çevresine göre daha alçakta bulunan ve tarıma elverişli geniş düz kara parçasına ne ad verilir	kara parçasına ad	ENTITY	ENTITY	Ova		DESCRIPTION
+Karaların denizlere doğru olan dar uzantısına ne ad verilir	Karaların uzantısına ad	ENTITY	ENTITY	Burun		DESCRIPTION
+Dağlar haritada hangi renkle gösterilir	hangi renkle	ENTITY	OTHERS	Kahverengi		ENTITY
+Deniz ve göller haritada hangi renkle gösterilir	hangi renkle	ENTITY	OTHERS	Mavi		ENTITY
+Haritada ovalar hangi renkte gösterilir	hangi renkte	ENTITY	OTHERS	Sarı		ENTITY
+Denizlerle bağlantısı olmayan su birikintilerine ne ad verilir	su birikintilerine ad	ENTITY	ENTITY	göl		DESCRIPTION
+Atatürk Barajı hangi nehir üzerinde kurulmuştur	hangi nehir	ENTITY	RIVER	Fırat		ENTITY
+Dünyanın yıllık hareketi sırasında güneş çevresinde izlediği yörüngeye ne ad verilir	yörüngeye ad	ENTITY	OTHERS			DESCRIPTION
+Türkiye'de en uzun gündüz hangi tarihlerde yaşanır	hangi tarihlerde	TEMPORAL	PERIOD			TEMPORAL
+Cebelitarık boğazı hangi deniz ve okyanusu birbirine bağlar	hangi deniz ve okyanusu	ENTITY	SEA	Akdeniz ve Atlas Okyanusu		ENTITY
+Bir yerin enlem ve boylamlar yardımıyla belirtilen konumuna ne ad verilir	konumuna ad	DESCRIPTION	DEFINITION			DESCRIPTION
+Yeryüzündeki bir noktanın ekvatora en yakın uzaklığının açı olarak değerine ne denir	değerine denir	DESCRIPTION	DEFINITION			DESCRIPTION
+Dünya üzerindeki bir noktanın başlangıç meridyenine en yakin uzaklığının açı cinsinden değerine ne ad verilir	açı cinsinden değerine ad	DESCRIPTION	DEFINITION			DESCRIPTION
+Bakü-Ceyhan petrol boru hattı Türkiye ile hangi Türk devleti arasındadır	hangi Türk devleti	LOCATION	COUNTRY			ENTITY
+Türkiye'de maden yatakları ve çeşitleri bakımından en zengin bölge hangisidir	bölge	LOCATION	REGION.LOCAL			LOCATION
+Türkiye'nin en yüksek bölgesi hangisidir	bölgesi	LOCATION	REGION.LOCAL			LOCATION
+Ülkemizde en çok nüfusu olan il hangisidir	il	LOCATION	CITY	İstanbul		ENTITY
+İç Anadolu Bölgesi'nde hangi iklim türü hâkimdir	hangi iklim türü	ENTITY	OTHERS			HUMAN
+Fiziki haritada tarım alanlarına uygun yerler hangi renkle gösterilir	hangi renkle	ENTITY	OTHERS			ENTITY
+Çevresine göre çukurda kalmış akarsuların derine gömülmeden aktıkları dar veya geniş düzlüklere ne ad verilir	dar veya geniş düzlüklere ad	DESCRIPTION	DEFINITION			DESCRIPTION
+Gerçek ölçülerin küçültülerek çizilmesine ne denir	çizilmesine denir	DESCRIPTION	DEFINITION			DESCRIPTION
+Uzun yıllar devam eden atmosfer olaylarının ortalama durumunu inceleyen bilim dalı hangisidir	bilim dalı	DESCRIPTION	DEFINITION			ENTITY
+Okyanus deniz göl akarsu kaynak suları ve yer altı sularının bütününe ne ad verilir	bütününe ad	ENTITY	OTHERS			DESCRIPTION
+Geçtiği kıyılarda havanın soğumasına neden olan sulara ne denir	sulara denir	DESCRIPTION	DEFINITION			DESCRIPTION
+Yeryüzünde en soğuk ay ortalaması 10 C'nin üzerinde olan iklim kuşağına ne isim verilir	iklim kuşağına isim	ENTITY	OTHERS			DESCRIPTION
+Yer kürede hangi yönden esen rüzgarlar sıcaklığı yükseltir	hangi yönden	ENTITY	OTHERS			ENTITY
+Gulf Stream sıcak su akıntısı hangi yönde hareket eder	hangi yönde	ENTITY	OTHERS			ENTITY
+Gulf Stream sıcak su akıntısı nereleri etkiler	nereleri	ENTITY	REGION			LOCATION
+Alize rüzgarlarının da etkisiyle oluşan sıcak okyanus akıntısının adı nedir	okyanus akıntısının adı	ENTITY	STREAM			ENTITY
+Alize rüzgarlarının da etkisiyle oluşan sıcak okyanus akıntısına ne isim verilir	okyanus akıntısına isim	ENTITY	STREAM			DESCRIPTION
+Yeryüzünde en çok ısınan alanlar nerelerdir	alanlar nerelerdir	LOCATION	REGION			LOCATION
+Denizlerde güneş ışınları kaç metreye kadar etkilidir	kaç metreye kadar	NUMERIC	SIZE.DEPTH			NUMERIC
+Rüzgarın hızı neyle ölçülür	hızı neyle ölçülür	ENTITY	INSTRUMENT			ENTITY
+Kuzey Amerika'nın doğu kıyılarının batı kıyılarına göre daha soğuk olmasına sebep olan nedir	sebep olan	DESCRIPTION	REASON			ENTITY
+Güneş ışınlarını dik açıyla alan Ekvator çevresinin Dünya'nın en sıcak yeri olmamasının sebebi nedir	sebebi	DESCRIPTION	REASON			DESCRIPTION
+Günün en soğuk anı ne zamandır	ne zamandır	TEMPORAL	PERIOD			TEMPORAL
+Neden ve sonuç bakımından karmaşık coğrafya olaylarını incelerken hangi coğrafya ilkesine başvurulur	hangi coğrafya ilkesine	ENTITY	OTHERS			ENTITY
+Dağ zirvelerinde nem miktarı ne kadardır	nem miktarı ne kadardır	DESCRIPTION	QUANTITY			NUMERIC
+Karalarda güneş ışınlarının etkili olduğu derinlik ne kadardır	derinlik ne kadardır	NUMERIC	SIZE.DEPTH			NUMERIC
+Yeryüzünde soğuk kuşak olarak adlandırılan iklim kuşağında en sıcak ayın ortalama sıcaklığı ne kadardır	ortalama sıcaklığı ne kadardır	NUMERIC	AVERAGE			NUMERIC
+Muson ikliminde yıllık sıcaklık farkı ne kadardır	sıcaklık farkı ne kadardır	NUMERIC	DEGREE			NUMERIC
+Ekvatoral iklimde yıllık yağış miktarı ne kadardır	yağış miktarı ne kadardır	NUMERIC	SIZE.VOLUME			NUMERIC
+Karasal iklimde yıllık yağış miktarı kaç mm'dir	kaç mmdir	NUMERIC	SIZE.VOLUME			NUMERIC
+Çöl ikliminde günlük sıcaklık farkı kaç dereceyi bulur	kaç dereceyi	NUMERIC	DEGREE			NUMERIC
+Yüksek bulutlara ne denir	bulutlara denir	ENTITY	CLOUD			DESCRIPTION
+Kümülüs bulutları kaç metre aralığında bulunur	kaç metre	NUMERIC	RANGE			NUMERIC
+Sirüs bulutları kaç metre yükseklikte bululur	kaç metre	NUMERIC	SIZE.HEIGHT			NUMERIC
+Alize rüzgarları neye sebep olur	neye sebep olur	DESCRIPTION	EFFECT			DESCRIPTION
+Sıcaklık ve nem bakımından farklı özellikteki hava kütlelerinin karşılaşma alanlarında ne meydana gelir	ne meydana gelir	ENTITY	OTHERS			ENTITY
+İnsanların barınma ihtiyacı için ürettikleri barınaklar neye göre farklılık gösterir	neye göre	DESCRIPTION	REASON			DESCRIPTION
+Güneş ışınlarının kırılma ve yansıma miktarı neye göre artar	neye göre	DESCRIPTION	REASON			DESCRIPTION
+Bulutlar neye göre sınıflandırılır	neye göre	DESCRIPTION	MANNER			DESCRIPTION
+Yeryüzünde kaç farklı sıcaklık kuşağı oluşmuştur	kaç farklı	NUMERIC	COUNT			NUMERIC
+Su küre taş küre ve hava kürenin her birine yayılmış olan küre hangisidir	küre	ENTITY	OTHERS			ENTITY
+Canlılar küresi hangi kürelere yayılmış durumdadır	hangi kürelere	ENTITY	OTHERS			ENTITY
+Biyosfer hangi kürelere yayılmıştır	hangi kürelere	ENTITY	OTHERS			ENTITY
+Doğal çevreyi kaç temel unsur oluşturur	kaç temel unsur	NUMERIC	COUNT			NUMERIC
+Eş sıcaklık eğrilerine ne denir	Eş sıcaklık eğrilerine denir	ENTITY	ENTITY			DESCRIPTION
+Doğal çevreyi oluşturan dört temel unsur hangileridir	dört temel unsur	DESCRIPTION	DESCRIPTION			ENTITY
+Doğal çevreyi oluşturan temel unsurlar hangileridir	temel unsurlar	DESCRIPTION	DESCRIPTION			ENTITY
+Genel olarak Ekvator'dan kutuplara gidildikçe sıcaklık nasıl değişir	nasıl değişir	DESCRIPTION	EFFECT			ENTITY
+Yer Yuvarlağını meydana getiren iç içe geçmiş kürelere ne isim verilir	kürelere isim	ENTITY	ENTITY			DESCRIPTION
+Yer kabuğunun ortalama kalınlığı karalarda kaç km. aralığındadır	kaç km	NUMERIC	RANGE			NUMERIC
+Yer kabuğunun ortalama kalınlığı denizlerde ne kadardır	ortalama kalınlığı ne kadardır	NUMERIC	SIZE.WIDTH			NUMERIC
+Granitik kabuğun bileşiminde en çok hangi elementler bulunur	hangi elementler	ENTITY	SUBSTANCE			ENTITY
+Bazaltik kabuğun bileşiminde en çok bulunan elementler hangileridir	elementler	ENTITY	SUBSTANCE			ENTITY
+Bazaltik kabuğun yoğunluğu ne kadardır	yoğunluğu ne kadardır	NUMERIC	SIZE.DENSITY			NUMERIC
+Granitik kabuk hangi taşlardan meydana gelir	hangi taşlardan	ENTITY	SUBSTANCE			ENTITY
+Astenosfer adı verilen manto katmanın derinliği kaç km. aralığında yer alır	kaç km	NUMERIC	RANGE			NUMERIC
+Sıvı haldeki astenosfer malzemesine ne denir	astenosfer malzemesine denir	ENTITY	SUBSTANCE			DESCRIPTION
+Manto Yer Yuvarlağı hacminin yüzde kaçını kaplamaktadır	Yer Yuvarlağı hacminin yüzde kaçını	NUMERIC	PERCENTAGE			NUMERIC
+Dış çekirdek neyden oluşur	neden oluşur	ENTITY	SUBSTANCE			ENTITY
+İç çekirdeğin sıcaklığı kaç dereceyi bulur	kaç dereceyi	NUMERIC	DEGREE			NUMERIC
+Yer kabuğunun ana maddesi olan ve minerallerden meydana gelen katı cisimlere ne ad verilir	katı cisimlere ad	DESCRIPTION	DEFINITION			DESCRIPTION
+Direnci düşük kayaçların bulunduğu arazilerde ne tür yer şekileri meydana gelir	ne tür yer şekilleri	ENTITY	ENTITY			ENTITY
+Ülkemizde volkanik tüflerin aşınmasıyla oluşmuş yer şekilleri nerede bulunur	nerede bulunur	LOCATION	LOCATION			LOCATION
+Tortul kayaçların bir diğer adı nedir	kayaçların adı	ENTITY	OTHERS			ENTITY
+Püskürük ve tortul kayaçların aşırı sıcaklık ve basınç altında kalarak değişime uğramasıyla oluşan kayaçlara ne isim verilir	kayaçlara isim	ENTITY	ENTITY			DESCRIPTION
+Kayaların başkalaşıma uğramasına ne sebep olur	sebep olur	DESCRIPTION	REASON			ENTITY
+Yeryüzü şekillerinin oluşmasına sebep olan nedir	sebep	DESCRIPTION	REASON			ENTITY
+Tektonik hareketlere neden olan enerji kaynağı nedir	enerji kaynağı	ENTITY	OTHERS			ENTITY
+Mantonun içerisindeki konveksiyon akıntıları hangi yönde hareket eder	hangi yönde	ENTITY	OTHERS			ENTITY
+Türkiye'deki Kuzey Anadolu Dağları ve Toros Dağları hangi jeolojik zamanda oluşmuştur	hangi jeolojik zamanda	TEMPORAL	ERA			TEMPORAL
+Türkiye'deki Kuzey Anadolu Dağları ve Toros Dağları hangi orojenez sonucunda oluşmuştur	hangi orojenez	ENTITY	OTHERS			ENTITY
+Epirojenik hareketler sırasında denizin çekilmesine ne denir	denizin çekilmesine denir	DESCRIPTION	DEFINITION			DESCRIPTION
+Lav nedir	Lav	DESCRIPTION	DEFINITION			ENTITY
+Volkanizma sonucu yüzeye sıvı halde lavlar çıkarken gaz halinde çıkan nedir	gaz halinde çıkan	ENTITY	SUBSTANCE			ENTITY
+Volkanik kökenli adaların en fazla bulunduğu yer neresidir	yer neresidir	LOCATION	REGION			LOCATION
+Volkan tüfü kaç cm uzunluğundadır	kaç cm	NUMERIC	SIZE.LENGTH			NUMERIC
+Volkan tüfünün uzunluğu kaç cm.dir	kaç cmdir	NUMERIC	SIZE.LENGTH			NUMERIC
+Ağrı Dağı hangi tür volkanlardandır	hangi tür volkanlardandır	ENTITY	ENTITY			ENTITY
+Yeryüzünde kaç tane etkin volkan vardır	kaç tane etkin volkan	NUMERIC	COUNT			NUMERIC
+Yeryüzündeki etkin volkanların yüzde kaçı Büyük Okyanus çevresindedir	volkanların yüzde kaçı	NUMERIC	PERCENTAGE			NUMERIC
+Yeryüzündeki etkin volkanların kaçı Büyük Okyanus çevresindedir	volkanların kaçı	NUMERIC	COUNT			NUMERIC
+Kaç çeşit deprem dalgası vardır	kaç çeşit	NUMERIC	COUNT			ENTITY
+Deprem dalgaları içinde en hızlı dalgalar hangileridir	dalgalar	ENTITY	ENTITY			ENTITY
+Deprem sırasında yer kabuğuna ilk ulaşan dalgalar hangileridir	dalgalar	ENTITY	ENTITY			ENTITY
+Tsunami denen dev dalgalara ne sebep olur	sebep olur	DESCRIPTION	REASON			ENTITY
+Depremin aletle ölçülen büyüklüğüne ne denir	büyüklüğüne denir	DESCRIPTION	DEFINITION			DESCRIPTION
+Ülkemizin de içinde bulunduğu deprem kuşağı hangisidir	deprem kuşağı	ENTITY	OTHERS			ENTITY
+Yeryüzünde depremlerin çoğunluğu nerede olur	nerede olur	LOCATION	REGION			LOCATION
+Yeryüzünde kendine özgü bir iklimi bitki örtüsü ve hayvan topluluğu bulunduran bölgelere ne ad verilir	bölgelere ad	DESCRIPTION	DEFINITION	Biyom		DESCRIPTION
+Canlıların çevreyle birlikte oluşturdukları yaşam birlikteliklerine ne denir	yaşam birlikteliklerine denir	DESCRIPTION	DEFINITION	Ekosistem		DESCRIPTION
+Biyomlar neyin en büyük birimleridir	neyin birimleridir	DESCRIPTION	DESCIPTION	Ekosistemin		ENTITY
+Ekosistemin en büyük birimi nedir	Ekosistemin birimi	ENTITY	OTHERS	Biyom		ENTITY
+Biyomların yeryüzüne dağılışındaki en büyük etken koşul hangisidir	etken koşul	DESCRIPTION	REASON	İklim		ENTITY
+Atmosferdeki Azot toplam gaz miktarının yüzde kaçını oluşturur	toplam gaz miktarının yüzde kaçını	NUMERIC	PERCENTAGE	78%		NUMERIC
+Denizler ve okyanuslar yeryüzünün yüzde kaçını meydana getirir	yeryüzünün yüzde kaçını	NUMERIC	PERCENTAGE	71%		NUMERIC
+Deniz ekosisteminin ortalama derinliği ne kadardır	ortalama derinliği ne kadardır	NUMERIC	SIZE.DEPTH	3700		NUMERIC
+Suyun litosfer hidrosfer ve atmosfer arasındaki hareketi ne olarak adlandırılır	ne adlandırılır	DESCRIPTION	DEFINITION	Su döngüsü		ENTITY
+Ekosfer kaç büyük ekosistemden oluşur	kaç büyük ekosistemden	NUMERIC	COUNT	3		NUMERIC
+Tundra bölgelerinde en yüksek hava sıcaklığı kaç dereceye ulaşır	kaç dereceye	NUMERIC	DEGREE	10 C		NUMERIC
+Manş tüneli denizin kaç metre altında inşa edilmiştir	kaç metre	NUMERIC	SIZE.DEPTH	91 metre		NUMERIC
+1907 yılında Çin'de meydana gelen kuraklık sonucu kaç kişi açlıktan etkilenmiştir	kaç kişi	NUMERIC	SIZE.POPULATION	24 Milyon		NUMERIC
+Hindistan’da 1.5 milyon kişinin ölümüyle sonuçlanan kuraklık hangi yıllar arasında olmuştur	hangi yıllar arasında	TEMPORAL	PERIOD	1965 1967		TEMPORAL
+IV. Jeolojik zamanın başlarında Dünya genelinde buzul alanları kaçıncı enleme kadar gelmiştir	kaçıncı enleme	NUMERIC	LATITUDE	500		NUMERIC
+Barut pusula mürekkep kağıt ve matbaayı icat ederek Dünya medeniyetine önemli katkıda bulunan uygarlık hangisidir	uygarlık	HUMAN	NATION	Çin		HUMAN
+Dağıtım neyin tüketiciye ulaştırılmasıdır	neyin ulaştırılmasıdır	DESCRIPTION	DEFINITION	Mal ve Hizmetlerin		ENTITY
+Tüketim neyin kullanılmasıdır	neyin kullanılmasıdır	DESCRIPTION	DEFINITION	Mal ve Hizmetlerin		ENTITY
+Yer yuvarlağındaki iç içe kürelere ne ad verilir	kürelere ad	ENTITY	SPHERE	Geosfer		DESCRIPTION
+Yer kabuğunun karalardaki ortalama kalınlığı ne kadardır	ortalama kalınlığı ne kadardır	NUMERIC	SIZE.DEPTH	35 Km/40 Km		NUMERIC
+Yer kabuğunun okyanuslardaki ortalama kalınlığı ne kadardır	ortalama kalınlığı ne kadardır	NUMERIC	SIZE.DEPTH	8 Km/12 Km		NUMERIC
+Granitik kabuğun yoğunluğu ne kadardır	yoğunluğu ne kadardır	NUMERIC	SIZE.DENSITY	2.7 g cm3		NUMERIC
+Çekirdek tabakanın diğer bir adı nedir	Çekirdek tabakanın adı	ENTITY	SPHERE	Barisfer		ENTITY
+Granit siyenit diyorit ve gabro ne tip kayaçlardır	ne tip kayaçlardır	ENTITY	ENTITY	İç püskürük		ENTITY
+Levha tektoniği teorisi kimin teorisinin geliştirilmiş halidir	kimin teorisinin	HUMAN	INDIVIDUAL	Alfred Wegener		HUMAN
+Yeryüzündeki deprem bölgelerinin dağılışı neyle paralellik gösterir	dağılışı neyle paralellik gösterir	DESCRIPTION	DESCRIPTION	Fay hatlarının dağılışı		ENTITY
+Dağ oluşumu hareketleri kaç şekilde gerçekleşir	kaç şekilde	NUMERIC	COUNT	2		NUMERIC
+Transgresyon ve regresyon hangi hareketler dahilinde incelenir	hangi hareketler	ENTITY	OTHERS	Epirojenik hareketler		ENTITY
+Transgresyon kısaca nedir	Transgresyon	DESCRIPTION	DEFINITION	Deniz ilerlemesi		ABBREVIATION
+Regresyon kısaca nedir	Regresyon	DESCRIPTION	DEFINITION	Deniz gerilemesi		ABBREVIATION
+Dayk batolit ve sill gibi şekiller magmanın nerede katılaşarak oluşturduğu şekillerdir	nerede katılaşarak oluşturduğu şekillerdir	LOCATION	LOCATION	Yer kabuğunun iç kısımlarında		LOCATION
+Volkanlardan çıkan volkan tüfü lapilli ve volkan bombası isimlerini neye göre alırlar	neye göre	DESCRIPTION	MANNER	Boyutlarına göre		DESCRIPTION
+Rihter ölçeği ne amaçla kullanılır	ne amaçla	DESCRIPTION	REASON	Deprem şiddetini ölçmek		ENTITY
+Hiposantr depremin nerede oluşturduğu kısımdır	nerede oluşturduğu kısımdır	LOCATION	LOCATION	Yerin içinde		LOCATION
+Levha hareketleri sonucunda ortaya çıkan gerilimler neyin kırılmasına neden olur	neyin kırılmasına	ENTITY	ENTITY	Sert tabakaların		ENTITY
+Kaç çeşit deprem dalgası vardır	Kaç çeşit	NUMERIC	COUNT	3		ENTITY
+Boyuna dalgaların yer kabuğundaki hızları ne kadardır	hızları ne kadardır	NUMERIC	SPEED	6 km s/7 km s		NUMERIC
+P dalgalarının manto ile çekirdek arasındaki hızları ne kadardır	hızları ne kadardır	NUMERIC	SPEED	13 km s		NUMERIC
+En fazla hasara neden olan dalgalar hangileridir	dalgalar	ENTITY	OTHERS	L dalgaları		ENTITY
+S dalgaları deprem esnasında hangi dalgalardan sonra gelirler	hangi dalgalardan	ENTITY	OTHERS	P dalgalarından		ENTITY
+Sismoloji neyle ilgili araştırmaları yapar	neyle ilgili	ENTITY	ENTITY	Deprem		ENTITY
+Yeryüzündeki depremlerin yüzde kaçı Akdeniz-Himalaya kuşağında meydana gelir	depremlerin yüzde kaçı	NUMERIC	PERCENTAGE	21%		NUMERIC
+Dünyada en az deprem olma olasılığı olan bölgeler nereleridir	bölgeler	LOCATION	REGION	Doğu Avrupa Avustralya İskandinav yarım adası		LOCATION
+Normal fay ters fay dışındaki fay çeşidi hangisidir	fay çeşidi	DESCRIPTION	DEFINITION	Doğrultu atımlı fay		ENTITY
+Suyun atmosfer ile yeryüzü arasındaki dönüşüm hareketine ne ad verilir	dönüşüm hareketine ad	DESCRIPTION	DEFINITION	Su döngüsü		DESCRIPTION
+Yeryüzündeki suların yüzde kaçı tatlı sulardan oluşur	suların yüzde kaçı	NUMERIC	PERCENTAGE	3%		NUMERIC
+Denizler ve okyanuslar yeryüzünde ne kadar alan kaplamaktadır	ne kadar alan	NUMERIC	SIZE.AREA	361 milyon km2/361000000 km2/361.000.000 km2		ENTITY
+Dünyadaki okyanus sayısı kaçtır	okyanus sayısı kaçtır	NUMERIC	COUNT	3		NUMERIC
+Göl ayağının diğer bir adı nedir	Göl ayağının adı	ENTITY	OTHERS	Gideğen		ENTITY
+Dünyada tektonik göllerin en yoğun olduğu bölge neresidir	bölge neresidir	LOCATION	REGION	Doğu Afrika		LOCATION
+Debi ne cinsinden ifade edilir	ne cinsinden	NUMERIC	UNIT	m3/sn		ENTITY
+Kayaçların ayrışması kaç şekilde gerçekleşir	kaç şekilde	NUMERIC	COUNT	2		NUMERIC
+Topraklar oluşum yerlerine göre kaç gruba ayrılır	kaç gruba	NUMERIC	COUNT	3		NUMERIC
+Tundra topraklar hangi bölgelerde görülür	hangi bölgelerde	LOCATION	REGION	Kutuplara yakın		LOCATION
+Orta kuşağın nemli ormanlarında yıllık yağış miktarı ne kadardır	yağış miktarı ne kadardır	NUMERIC	SIZE.VOLUME	1000 mm		NUMERIC
+Akdeniz bölgesinin doğal bitki örtüsü nedir	doğal bitki örtüsü	ENTITY	OTHERS	Maki		ENTITY
+İçinde yer altı suyunun bulunduğu tabakaya ne ad verilir	tabakaya ad	ENTITY	OTHERS	Akifer		DESCRIPTION
+Nüfusu 10000'in altında olan yerleşkelere ne ad verilir	yerleşkelere ad	DESCRIPTION	DEFINITION	Kırsal Yerleşke		DESCRIPTION
+Kırsal yerleşmeler kaça ayrılır	Kırsal yerleşmeler kaça ayrılır	NUMERIC	COUNT	2		NUMERIC
+Mezralar daha çok hangi bölgemizde görülür	hangi bölgemizde	LOCATION	REGION.LOCAL	Doğu Anadolu Bölgesi		LOCATION
+Ülkemizin yüzde kaçı şehirlerde yaşamaktadır	Ülkemizin yüzde kaçı	NUMERIC	PERCENTAGE	%76.3		NUMERIC
+Türkiye'de şehirler fonksiyonlarına göre kaça ayrılırlar	şehirler kaça ayrılırlar	NUMERIC	COUNT	6		NUMERIC
+Nüfus hangi üç yaş grubunda incelenir	hangi üç yaş grubunda	HUMAN	GROUP	Genç olgun yaşlı		ENTITY
+Bir ülkede genç nüfus hangi yaş grubu olarak değerlendirilir	hangi yaş grubu	NUMERIC	RANGE	0-14 yaş		ENTITY
+Türkiye'de nüfusun çoğunlukta olduğu yaş grubu hangisidir	yaş grubu	HUMAN	GROUP	Yetişkin nüfus		ENTITY
+Çalışma çağındaki nüfusun taban alındığı yaş nedir	yaş	NUMERIC	COUNT	12		ENTITY
+Türkiye'de ilk periyodik nüfus sayımı ne zaman yapılmıştır	ne zaman yapılmıştır	TEMPORAL	DATE	1927		TEMPORAL
+Türkiye'de ikinci nüfus sayımı hangi tarihte yapılmıştır	hangi tarihte	TEMPORAL	DATE	1935		TEMPORAL
+2007 yılına kadar yapılan nüfus sayımlarında hangi yasak uygulanmıştır	hangi yasak	ENTITY	OTHERS	Sokağa çıkma yasağı		ENTITY
+TÜİK neyin kısaltmasıdır	neyin kısaltmasıdır	ABBREVIATION	EXPRESSION	Türkiye İstatistik Kurumu		ABBREVIATION
+Türkiye İstatistik Kurumunun kısa adı nedir	kısa adı	ABBREVIATION	ABBREVIATION	TÜİK		ABBREVIATION
+Cumhuriyetimizin ilk nüfus sayımına göre nüfus ne kadardı	ne kadardı	NUMERIC	SIZE.POPULATION	13.6 Milyon/13600000/13.600.000		ENTITY
+İç göçler hangi iki ana başlıkla ele alınır	hangi iki ana başlıkta	ENTITY	OTHERS	Sürekli ve geçici		ENTITY
+İç göçlerde hangi yaş grubunun etkisi daha fazladır	hangi yaş grubunun	HUMAN	GROUP	15 44		ENTITY
+Cumhuriyetin ilk yıllarında ülkenin kaçta kaçı kırsal kesimlerde yaşamaktaydı	ülkenin kaçta kaçı	NUMERIC	PERCENTAGE	Dörtte üçü/75%		NUMERIC
+İnsan ve insana ait faaliyetleri inceleyen coğrafyanın alt dalının adı nedir	coğrafyanın alt dalının adı	DESCRIPTION	DEFINITION	Beşeri coğrafya		ENTITY
+Yeryüzünün insan tarafından değiştirilmiş ve değiştirilmekte olan görünümü coğrafyanın hangi alt dalı tarafından incelenmektedir	coğrafyanın hangi alt dalı	ENTITY	OTHERS	Beşeri coğrafya		ENTITY
+İnsanlara ait ulaşım sanayi turizm nüfuslanma ve yerleşme gibi faaliyetleri coğrafyanın hangi alt dalı konu edinir	coğrafyanın hangi alt dalı	ENTITY	OTHERS	Beşeri coğrafya		ENTITY
+Doğa ile insan arasındaki etkileşimi inceleyen bilim dalı hangisidir	bilim dalı	DESCRIPTION	DEFINITION	Coğrafya		ENTITY
+Uluslar arası örgütlerin kuruluşu yapısı ve faaliyetleri hangi coğrafya alt dalının inceleme alanına girmektedir	hangi coğrafya alt dalının	ENTITY	OTHERS	Siyasi coğrafya		ENTITY
+İnsanların yaşamlarını sürdürdükleri ve çeşitli ekonomik faaliyetlerde bulundukları bölgeye ne denir	bölgeye denir	DESCRIPTION	DEFINITION	Yerleşme		DESCRIPTION
+Ticaretin öneminin artmasıyla deniz kıyısına kurulan şehirlere ne denir	şehirlere denir	DESCRIPTION	DEFINITION	Liman şehirleri		DESCRIPTION
+Devletleşmeyle birlikte gelen merkezi şehirlere ne isim verilir	merkezi şehirlere isim	DESCRIPTION	DEFINITION	İdari kentler		DESCRIPTION
+Peygamberler ve din yayıcılarının yaşadığı yerler etrafında kurulan şehirlere ne denir	şehirlere denir	DESCRIPTION	DEFINITION	Dini kentler		DESCRIPTION
+Taş kömürü demir petrol ve altın gibi kaynakların etrafına kurulan şehirlere ne isim verilir	şehirlere isim	DESCRIPTION	DEFINITION	Maden şehirleri		DESCRIPTION
+Sanayileşmenin artmasıyla maden yataklarının etrafında baş gösteren şehirleşme çeşidi nedir	şehirleşme çeşidi	DESCRIPTION	DEFINITION	Sanayi şehirleri		ENTITY
+İnsanların yılın belirli vakitleri özellikle gidip gezdiği şehirlere ne ad verilir	şehirlere ad	DESCRIPTION	DEFINITION	Turizm kentleri		DESCRIPTION
+Son yüzyılda bilim ve teknolojinin gelişiminde başı çeken şehirlere ne ad verilir	şehirlere ad	DESCRIPTION	DEFINITION	Teknoloji kentleri		DESCRIPTION
+Yerleşmeyi sınırlandıran en önemli faktör nedir	faktör	DESCRIPTION	REASON	Denizler		DESCRIPTION
+Dünyadaki yerleşmeler nerede son bulmaktadır	nerede son bulmaktadır	LOCATION	LOCATION	Deniz kıyılarında		LOCATION
+Kutup bölgelerinde yerleşmeyi sınırlandıran en önemli faktör nedir	faktör	DESCRIPTION	REASON	Buzul dağları		DESCRIPTION
+Yeryüzündeki yerleşmelerin genel olarak kurulduğu yerler nerelerdir	yerler nerelerdir	LOCATION	LOCATION	Ova ve düzlükler		LOCATION
+Ulaşımda sınırlayıcı etki yapan en önemli faktör nedir	faktör	DESCRIPTION	REASON	Dağlık ve engebeli arazi		DESCRIPTION
+Yükseltiye bağlı olarak yerleşimin sona erdiği noktaya ne denir	noktaya	DESCRIPTION	DEFINITION	Yerleşmenin yükselti sınırı		DESCRIPTION
+Ekvatorda kentlerin yükseğe kurulmasının sebebi nedir	kurulmasının sebebi	DESCRIPTION	REASON	Sıcaklığın fazla olması		DESCRIPTION
+İnsanların geçimini tarım ve hayvancılıktan sağladığı köylere ve köy altı yerleşmelerine ne denir	köylere ve köy altı yerleşmelerine denir	DESCRIPTION	DEFINITION	Kırsal yerleşim		DESCRIPTION
+Beşeri ve ekonomik nedenlerle köylerden ayrılan daha küçük yerleşim birimlerine ne denir	yerleşim birimlerine	DESCRIPTION	DEFINITION	Köy altı yerleşimi		DESCRIPTION
+Kır yerleşmelerinin en büyüğüne ne denir	Kır yerleşmelerinin denir	DESCRIPTION	DEFINITION	Köy		DESCRIPTION
+Köylerdeki nüfus miktarı genelde kaçtır	nüfus miktarı kaçtır	NUMERIC	SIZE.POPULATION	2000den az		NUMERIC
+Köy yerleşmelerinin toplu olmasındaki en önemli faktör nedir	faktör	DESCRIPTION	REASON	Doğal faktörler		DESCRIPTION
+Çizgisel yerleşim dokusunun oluşmasındaki en önemli faktör nedir	faktör	DESCRIPTION	REASON	Yüzey şekilleri		DESCRIPTION
+Yer şekillerinin az engebeli olduğu yerlerde görülen yerleşmeye ne ad verilir	yerleşmeye ad	DESCRIPTION	DEFINITION	Dairesel yerleşme		DESCRIPTION
+İnsanların barınma korunma ve çalışma gibi ihtiyaçlarını karşıladığı tüm yapılara ne denir	tüm yapılara denir	DESCRIPTION	DEFINITION	Mesken		DESCRIPTION
+Meskenlerin yapımında kullanılan malzemeler üzerinde en çok ne etkilidir	ne etkilidir	DESCRIPTION	EFFECT	Doğal çevre		ENTITY
+Ağaç malzeme kullanılarak ya da ağaçların üst üste konulmasıyla yapılan meskenlere ne denir	meskenlere denir	DESCRIPTION	DEFINITION	Ahşap meskenler		DESCRIPTION
+Toprak evlerin en yaygın tipi nedir	Toprak evlerin tipi	DESCRIPTION	DEFINITION	Kerpiç		ENTITY
+Orman örtüsünün bulunmadığı yüksek yaylalarda ve dağlarda yaygın olan mesken çeşidi nedir	mesken çeşidi	DESCRIPTION	DEFINITION	Taş mesken		ENTITY
+Tuğla briket çimento ve gaz beton gibi çeşitli yapı malzemelerinin kullanıldığı yapılara ne ad verilir	meskenlere ad	DESCRIPTION	DEFINITION	Betonarme yapılar		DESCRIPTION
+Ekvator kesiminde meskenlerin bambu ve kamıştan yapılmasının en önemli sebebi nedir	sebebi	DESCRIPTION	REASON	Sıcaklık		DESCRIPTION
+Kutuplara yakın yerde kar ve buz kullanılarak yapılan meskenlere ne ad verilir	meskenlere ad	DESCRIPTION	DEFINITION	İglo		DESCRIPTION
+Yer şekilleri düz ve su kaynakları sınırlı olan bölgelerde görülen yerleşim çeşidi nedir	yerleşim çeşidi	DESCRIPTION	DEFINITION	Toplu yerleşim		ENTITY
+İlk insanlar nereleri mesken olarak seçmişlerdir	nereleri	LOCATION	LOCATION	Mağaralar		LOCATION
+İlk yerleşim yerlerinin akarsu boylarına kurulmasının temel sebebi nedir	temel sebebi	DESCRIPTION	REASON	Tarım		DESCRIPTION
+İnsanların yılın belli bir döneminde gezme görme ve dinlenme amaçlarına yönelik olarak yaptıkları yer değişikliğine ne ad verilir	yer değişikliğine ad	DESCRIPTION	DEFINITION	Turizm		DESCRIPTION
+Ekvatoral bölgede Amazon ve Kongo havzasında yerleşimin az olmasının sebebi nedir	sebebi	DESCRIPTION	REASON	Gür ormanlar		DESCRIPTION
+Bir toplumun tarihsel süreç içinde ürettiği ve kuşaktan kuşağa aktardığı her türlü maddi ve manevi özellikler bütününe ne denir	maddi ve manevi özellikler bütününe denir	DESCRIPTION	DEFINITION	Kültür		DESCRIPTION
+Bir kültürün doğduğu yere ne denir	yere denir	DESCRIPTION	DEFINITION	Kültür ocağı		DESCRIPTION
+Türk kültürünün ocağı neresidir	ocağı neresidir	DESCRIPTION	DEFINITION	Orta Asya		LOCATION
+Türk kültürü hangi kültürlere komşudur	hangi kültürlere	HUMAN	NATION	Çin Tibet Hint		HUMAN
+Sanayi tesislerinde kullanılmak üzere işlenmiş ya da yarı işlenmiş maddelere ne ad verilir	maddelere ad	DESCRIPTION	DEFINITION	Ham madde		DESCRIPTION
+Dış ticaretin diğer adı nedir	ad	ENTITY	OTHERS	Küresel ticaret		ENTITY
+Dünya'daki toplam istihdamın ne kadarı turizm sektöründedir	toplam istihdamın ne kadarı	NUMERIC	PERCENTAGE	%8/8%		ENTITY
+2006 yılında Dünyadaki toplam turist sayısı ne kadar olarak hesaplanmıştır	ne kadar olarak	NUMERIC	SIZE.POPULATION	842 Milyon/842000000/842.000.000		ENTITY
+Dünyanın 7 harikasından günümüze kalan tek eser hangisidir	eser	DESCRIPTION	DEFINITION	Keops Piramidi		ENTITY
+1972 yılındaki Dünya Doğal ve Kültürel Mirası Koruma Konvansiyonu kaç maddeden oluşur	kaç maddeden	NUMERIC	COUNT	38		NUMERIC
+ABD Ulusal parkı hangi birlik tarafından koruma altına alınmıştır	hangi birlik	ENTITY	OTHERS	UNESCO		ENTITY
+UNESCO'nun açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Birleşmiş Milletler Eğitim Bilim ve Kültür Teşkilatı		ABBREVIATION
+UNESCO Türkiye'den kaç kültürel varlığı Dünya Miras Listesine eklemiştir	kaç kültürel varlığı	NUMERIC	COUNT	10		NUMERIC
+Artemis Tapınağı nerede kurulmuştur	nerede kurulmuştur	LOCATION	LOCATION	Efes		LOCATION
+Antik çağın en ünlü deniz feneri hangisidir	deniz feneri	DESCRIPTION	DEFINITION	İskenderiye Feneri		ENTITY
+Keops Piramidi kaç adet taş bloktan yapılmıştır	kaç adet taş bloktan	NUMERIC	COUNT	3 Milyon/3000000/3.000.000		NUMERIC
+Japonya'nın yüz ölçümü ne kadardır	yüz ölçümü ne kadardır	NUMERIC	SIZE.AREA	377.815 km2		NUMERIC
+Japonya'nın nüfusu ne kadardır	nüfusu ne kadardır	NUMERIC	SIZE.POPULATION	127463611/127.463.611		NUMERIC
+Japonya'nın başkenti neresidir	başkenti neresidir	LOCATION	CAPITAL	Tokyo		LOCATION
+Japonya'nın dili nedir	dili	HUMAN	LANGUAGE	Japonca		HUMAN
+Japonya'da kişi başına düşen milli gelir ne kadardır	milli gelir ne kadardır	NUMERIC	MONEY	23.100 $/23100 $		NUMERIC
+Japon erkelerinin ortalama ömrü ne kadardır	ortalama ömrü ne kadardır	NUMERIC	COUNT	77 yıl/77 sene		NUMERIC
+Japonya arazisinin yüzde kaçı dağlardan oluşur	Japonya arazisinin yüzde kaçı	NUMERIC	PERCENTAGE	%70/70%		NUMERIC
+Japonya'nın en yüksek dağları hangi adadadır	hangi adadadır	ENTITY	OTHERS	Honşu adasında		ENTITY
+Fuji dağının yüksekliği ne kadardır	yüksekliği ne kadardır	NUMERIC	SIZE.HEIGHT	3766 metre		NUMERIC
+Dünyadaki aktif volkanların kaçta kaçı Japonya'dadır	aktif volkanların kaçta kaçı	NUMERIC	PERCENTAGE	Yedide biri		NUMERIC
+Japonya'da yıllık ortalama deprem sayısı kaçtır	deprem sayısı kaçtır	NUMERIC	AVERAGE	1500		NUMERIC
+1955 yılında 5500 kişinin öldüğü deprem nerede gerçekleşmiştir	nerede gerçekleşmiştir	LOCATION	LOCATION	Kobe şehrinde		LOCATION
+Japonya hangi iklimin etkisi altındadır	hangi iklimin	ENTITY	OTHERS	Muson		ENTITY
+Bir ülkenin hemen her bölgesinde aynı kültürel özelliklerin görülmesi ne olarak nitelendirilir	ne olarak nitelendirilir	DESCRIPTION	DEFINITION	Türdeş nüfus		ENTITY
+ABD ikinci dünya savaşında hangi şehirlere atom bombası atmıştır	hangi şehirlere	LOCATION	CITY	Hiroşima Nagazaki		ENTITY
+Japonya demir çelik üretiminde dünyada kaçıncı sıradadır	kaçıncı sıradadır	NUMERIC	COUNT	2		NUMERIC
+İngiltere Avrupa'nın neresinde yer alır	neresinde yer alır	ENTITY	OTHERS	Kuzeybatısında		LOCATION
+Başlangıç meridyeni hangi şehirdedir	hangi şehirdedir	LOCATION	CITY	Londra		ENTITY
+İngiltere'de kilometrekareye ortalama kaç insan düşer	kaç insan	NUMERIC	AVERAGE	235		NUMERIC
+İngiltere'de yıllık nüfus artışı kaçtır	nüfus artışı kaçtır	NUMERIC	PERCENTAGE	Binde iki/0.2%/%0.2		NUMERIC
+İplik makinesini kim icat etmiştir	kim	HUMAN	INDIVIDUAL	James Hargreaves		HUMAN
+İplik makinesi kaç yılında icat edilmiştir	kaç yılında	TEMPORAL	DATE	1764		TEMPORAL
+Su gücüyle çalışan iplik makinesi kim tarafından icat edilmiştir	kim	HUMAN	INDIVIDUAL	Richard Arkwright		HUMAN
+Su gücüyle çalışan iplik makinesi hangi tarihte icat edilmiştir	hangi tarihte	TEMPORAL	DATE	1769		TEMPORAL
+İngiltere'de demir yolu ağı ne kadardır	demir yolu ağı ne kadardır	NUMERIC	SIZE.LENGTH	Yaklaşık 18 bin km/18000 km/18.000 km		NUMERIC
+İngiltere'nin yıllık turizm geliri kaç dolardır	kaç dolardır	NUMERIC	MONEY	30 Milyar dolar/30.000.000.000 $/30000000000 $		NUMERIC
+Hindistan'ın idari şekli nedir	idari şekli	ENTITY	OTHERS	Federal Cumhuriyet		ENTITY
+Hindistan hangi sistemle yönetilir	hangi sistemle	ENTITY	OTHERS	Federal Cumhuriyet		ENTITY
+Hindistan hangi kuzey enlemlerin arasındadır	hangi kuzey enlemlerin	NUMERIC	LATITUDE	60 370		ENTITY
+İnsanların yaşadığı doğal ortamlara genel olarak verilen isim nedir	isim	DESCRIPTION	DEFINITION	Çevre		ENTITY
+Oluşumunda insanın etkisi olmayan çevreye ne denir	çevreye denir	DESCRIPTION	DEFINITION	Doğal çevre		DESCRIPTION
+İnsanın kendi amaçları doğrultusunda değiştirmiş olduğu çevreye ne denir	çevreye denir	DESCRIPTION	DEFINITION	Yapay çevre		DESCRIPTION
+Tarih boyunca insanın doğadan yararlanmasını hızlandıran en önemli faktör nedir	faktör	DESCRIPTION	REASON	Sanayi devrimi		DESCRIPTION
+Günümüzde doğadan yararlanmamızı artıran ve hızlandıran en önemli faktör nedir	faktör	DESCRIPTION	REASON	Teknoloji		DESCRIPTION
+İnsanlar toprağı işlemeyi taşları çeşitli amaçlarla kullanmayı ve yer altı kaynaklarını işletmeyi yeryüzünün hangi katmanında yaparlar	yeryüzünün hangi katmanında	ENTITY	SPHERE	Litosfer		ENTITY
+İnsanlar havayolu ulaşımından yeryüzünün hangi katmanında faydalanırlar	yeryüzünün hangi katmanında	ENTITY	SPHERE	Atmosfer		ENTITY
+İnsanlar sudan çeşitli şekillerde yeryüzünün hangi katmanında faydalanırlar	yeryüzünün hangi katmanında	ENTITY	SPHERE	Hidrosfer		ENTITY
+İnsanlar besin ve iş gücü kaynağı olarak yeryüzünün hangi katmanından faydalanırlar	yeryüzünün hangi katmanından	ENTITY	SPHERE	Biyosfer		ENTITY
+Orta kuşaktaki pek çok insanın en temel besin maddesi nedir	besin maddesi	DESCRIPTION	DESCRIPTION	Buğday		ENTITY
+İklimin değişmesi en çok hangi ekonomik olayı etkiler	hangi ekonomik olayı	ENTITY	OTHERS	Tarım		ENTITY
+Yıl boyunca nemli ve yağışlı olan gür ormanlar ve otlakların bulunduğu yerlerde hangi hayvancılık çeşidi gelişmiştir	hangi hayvancılık çeşidi	ENTITY	OTHERS	Büyükbaş		ENTITY
+Yağışın az ve bitki örtüsünün zayıf olduğu yerlerde hangi hayvancılık çeşidi gelişmiştir	hangi hayvancılık çeşidi	ENTITY	OTHERS	Küçükbaş		ENTITY
+Tarımı sınırlayan en önemli etmen nedir	etmen	DESCRIPTION	REASON	İklim		ENTITY
+İskandinav yarımadası hangi iklim kuşağında yer alır	hangi iklim kuşağında	ENTITY	OTHERS	Soğuk iklim kuşağı		ENTITY
+Norveç İsveç gibi ülkelerde en önemli geçim kaynağı nedir	geçim kaynağı	DESCRIPTION	DEFINITION	Balıkçılık		ENTITY
+Ağaçların bulunmadığı kurak bölgelerde en çok hangi yapı malzemesi kullanılır	hangi yapı malzemesi	ENTITY	OTHERS	Kerpiç		ENTITY
+Deodorant ve zararlı gazların sanayide kullanımı temel olarak hangi çevre sorununa yol açar	hangi çevre sorununa	ENTITY	OTHERS	Ozon tabakasının incelmesi		ENTITY
+Atmosferde toz duman ve gaz gibi maddelerin insan ve diğer canlılara zarar verecek kadar yükselmesi olayına ne denir	yükselmesi olayına denir	DESCRIPTION	DEFINITION	Hava kirliliği		DESCRIPTION
+Hava kirliliğinin oluşmasındaki başlıca etken nedir	etken	DESCRIPTION	REASON	Fabrikalar		ENTITY
+İnsanlar tarafından kaynaklanan etkiler sonucunda istenmeyen zararlı maddelerin suyun niteliğini bozacak kadar yükselmesi olayına ne denir	yükselmesi olayına denir	DESCRIPTION	DEFINITION	Su kirliliği		DESCRIPTION
+Toprağın katı sıvı ve radyoaktif maddeler tarafından fiziksel ve kimyasal özelliklerinin bozulmasına ne denir	bozulmasına denir	DESCRIPTION	DEFINITION	Toprak kirliliği		DESCRIPTION
+Uranyum ve toryum gibi elektron yayan maddelerin doğal denge halindeki diğer maddelerin atom yapılarını bozmasına ne denir	bozmasına denir	DESCRIPTION	DEFINITION	Nükleer kirlilik		DESCRIPTION
+Toprağın yağış suları ve rüzgarlar tarafından aşındırılıp taşınmasına ne denir	taşınmasına denir	DESCRIPTION	DEFINITION	Erozyon		DESCRIPTION
+Atmosfere verilen gazların sera etkisi yaratması sonucunda atmosferin ve okyanusların ortalama sıcaklıklarının artmasına ne denir	okyanusların ortalama sıcaklıklarının artmasına denir	DESCRIPTION	DEFINITION	Küresel ısınma		DESCRIPTION
+Küresel ısınmanın en önemli sonucu nedir	sonucu	DESCRIPTION	EFFECT	İklim değişikliği		DESCRIPTION
+Güneşten gelen mor ötesi ışınların büyük bir kısmını absorbe eden katman nedir	katman	ENTITY	OTHERS	Ozon tabakası		ENTITY
+Ozon tabakasının incelmesinin en önemli sebebi nedir	sebebi	DESCRIPTION	REASON	Kloroflorokarbon gazları		DESCRIPTION
+Yeryüzünün altındaki sıcak suları enerji kaynağı olarak kullanan sistemlere ne ad verilir	sistemlere ad	DESCRIPTION	DEFINITION	Jeotermal		DESCRIPTION
+İnsanın yaşamı üzerinde etkili olan faktörlerin toplamına ne denir	faktörlerin toplamına denir	DESCRIPTION	DEFINITION	Çevre		DESCRIPTION
+Belirli bir zamanda sınırları belli bir alan içerisinde yaşayan insan sayısına ne denir	insan sayısına denir	DESCRIPTION	DEFINITION	Nüfus		DESCRIPTION
+Belirli bir zamanda bir ülke sınırları içinde kişilere yönelik yapılan demografik ekonomik ve sosyal verilerin toplanması ve bu verilerin değerlendirilmesi işlemine ne denir	verilerin toplanması ve değerlendirilmesi işlemine denir	DESCRIPTION	DEFINITION	Nüfus sayımı		DESCRIPTION
+Osmanlı devletinde ilk nüfus sayımı hangi padişah zamanında yapılmıştır	hangi padişah zamanında	HUMAN	INDIVIDUAL	2.Mahmut/II. Mahmut/Mahmut II		HUMAN
+Osmanlı devletinde ilk nüfus sayımı ne zaman yapılmıştır	ne zaman yapılmıştır	TEMPORAL	DATE	1831		TEMPORAL
+Çinde ilk modern nüfus sayımı ne zaman yapılmıştır	ne zaman yapılmıştır	TEMPORAL	DATE	1953		TEMPORAL
+İnsanlık tarihi boyunca Dünya nüfusunda kaç kez büyük artış dönemi yaşanmıştır	kaç kez	NUMERIC	COUNT	3		NUMERIC
+M.Ö. 4000 yılında tahmini insan nüfusu ne kadardır	insan nüfusu ne kadardır	NUMERIC	SIZE.POPULATION	30.000.000/30 Milyon		NUMERIC
+Miladi takvimin başlangıcı olan 0 yılında tahmini dünya nüfusu ne kadardır	dünya nüfusu ne kadardır	NUMERIC	SIZE.POPULATION	310.000.000/310 milyon		NUMERIC
+Sanayi devrimi ile en önemli nüfus artışı hangi kıtada yaşanmıştır	hangi kıtada	LOCATION	CONTINENT	Avrupa		LOCATION
+Batı avrupa ülkelerinin fazla göç almasının temel sebebi nedir	temel sebebi	DESCRIPTION	REASON	Sanayi		DESCRIPTION
+Amerika birleşik devletlerinin doğu kıyılarının fazla göç almasının temel sebebi nedir	temel sebebi	DESCRIPTION	REASON	Liman ticareti		DESCRIPTION
+Güneydoğu asyanın fazla göç almasının temel sebebi nedir	temel sebebi	DESCRIPTION	REASON	Tarıma elverişlilik		DESCRIPTION
+Kutuplara yakın bölgelerde nüfus yoğunluğunun az olmasının en önemli sebebi nedir	sebebi	DESCRIPTION	REASON	İklim		DESCRIPTION
+Yüksek dağlık alanlarda nüfus yoğunluğunun az olmasının en temel sebebi nedir	sebebi	DESCRIPTION	REASON	Ulaşımın sınırlı olması		DESCRIPTION
+Ekvator bölgesinde nüfuslanmanın az olmasının en temel sebebi nedir	sebebi	DESCRIPTION	REASON	Sık ormanlar		DESCRIPTION
+Dünyanın en fazla nüfusa sahip kıtası hangisidir	kıtası	LOCATION	CONTINENT	Asya		LOCATION
+Dünyanın en az nüfusa sahip kıtası hangisidir	kıtası	LOCATION	CONTINENT	Okyanusya		LOCATION
+1950-2010 yılları arasında nüfusun artışındaki değişikliklerin en önemli sebebi nedir	sebebi	DESCRIPTION	REASON	İnsanların yaşam düzeylerinin yükselmesi		DESCRIPTION
+1950-2010 yılları arasında nüfus en fazla hangi kıtalarda toplanmıştır	hangi kıtalarda	LOCATION	CONTINENT	Asya ve Avrupa		LOCATION
+Asya kıtasındaki nüfus artışının temel nedeni nedir	temel nedeni	DESCRIPTION	REASON	Doğum oranının fazla olması		DESCRIPTION
+Nüfus artış hızı en fazla olan kıta hangisidir	kıta hangisidir	LOCATION	CONTINENT	Afrika		LOCATION
+Sınırları belli bir alanda belli bir süre içinde nüfus sayısındaki değişime ne denir	değişime denir	DESCRIPTION	DEFINITION	Nüfus artışı		DESCRIPTION
+Doğum oranından ölüm oranı çıkartıldığında ne bulunur	ne bulunur	DESCRIPTION	DESCRIPTION	Doğal nüfus artışı		ENTITY
+2010 yılına göre dünyadaki nüfus artış oranı kaçtır	nüfus artış oranı kaçtır	NUMERIC	PERCENTAGE	11.40%		NUMERIC
+Gelişmekte olan ülkelerde ortalama yaşam süresinin uzamasının gelecekte doğuracağı en önemli sonuç nedir	sonuç	DESCRIPTION	EFFECT	Yaşlılık sorunu		DESCRIPTION
+Genç nüfus olarak kabul edilen yaş grubu nedir	yaş grubu	NUMERIC	RANGE	0-14		ENTITY
+Olgun nüfus olarak kabul edilen yaş grubu nedir	yaş grubu	NUMERIC	RANGE	15-64		ENTITY
+Yaşlı nüfus olarak kabul edilen yaş grubu nedir	yaş grubu	NUMERIC	RANGE	65 ve üzeri		ENTITY
+Nüfusun yaş yapısını belirleyen en önemli faktör nedir	faktör	DESCRIPTION	REASON	Doğum oranı		DESCRIPTION
+Bağımlı nüfusu hangi yaş grupları oluşturur	hangi yaş grupları	HUMAN	GROUP	Genç ve yaşlı nüfus		ENTITY
+Bir alandaki toplam nüfusun o alanın yüz ölçümüne bölünmesiyle ne elde edilir	ne elde edilir	DESCRIPTION	DESCRIPTION	Arimetik nüfus yoğunluğu		DESCRIPTION
+Bir ülkedeki nüfusun ülke yüz ölçümüne oranlanmasıyla ne elde edilir	ne elde edilir	DESCRIPTION	DESCRIPTION	Nüfus yoğunluğu		DESCRIPTION
+Antarktika Kıtasında yerleşik hayatın olmamasının en büyük sebebi nedir	sebebi	DESCRIPTION	REASON	İklim koşulları		DESCRIPTION
+Ganj nehri hangi ülkededir	hangi ülkededir	LOCATION	COUNTRY	Hindistan		LOCATION
+Dekkan platosu Hindistan'ın hangi tarafında bulunur	Hindistanın hangi tarafında	LOCATION	REGION	Güney		ENTITY
+Ganj nehri nerede doğar	nerede doğar	LOCATION	COUNTRY	Himalayalar		LOCATION
+Ganj nehri nereden denize dökülür	nereden dökülür	LOCATION	CITY	Bengal Körfezi		LOCATION
+Hindistan'ın tarım açısından en zengin ovaları hangileridir	Hindistanın ovaları	ENTITY	PLAIN	İndus ve Ganj		ENTITY
+Hindistan'da yaşayanların yüzde kaçı tarımla uğraşır	yaşayanların yüzde kaçı	NUMERIC	PERCENTAGE	0.64		NUMERIC
+Bengal Havzası'nda en çok hangi tarım ürününün üretimi yaygındır	hangi tarım ürününün	ENTITY	PLANT	Pirinç		ENTITY
+Hint kenevirinin diğer adı nedir	Hint kenevirinin adı	ENTITY	OTHERS	Jüt		ENTITY
+Hindistan pamuk ve tütün üretimi bakımından dünyada kaçıncı sıradadır	kaçıncı sıradadır	NUMERIC	COUNT	3		NUMERIC
+Dünyada mercimek üretiminde birinci sırada olan ülke neresidir	ülke neresidir	LOCATION	COUNTRY	Hindistan		LOCATION
+Hindistan bağımsızlığını hangi tarihte kazanmıştır	hangi tarihte	TEMPORAL	DATE	1947		TEMPORAL
+Tac Mahal'i kim yaptırmıştır	kim yaptırmıştır	HUMAN	INDIVIDUAL	Babür Şah'ı		HUMAN
+Hollanda'nın resmi dili nedir	resmi dili	HUMAN	LANGUAGE	Flemenkçe		HUMAN
+Hollanda'nın kuzeyi ve güneyi arasındaki uzaklık ne kadardır	uzaklık ne kadardır	NUMERIC	SIZE.LENGTH	300 km		NUMERIC
+Hollanda topraklarının kaçta kaçı deniz seviyesinin altındadır	Hollanda topraklarının kaçta kaçı	NUMERIC	PERCENTAGE	4’te 1/25%/%25		NUMERIC
+Denizden kazanılan topraklara ne ad verilir	topraklara ad	ENTITY	ENTITY	Polder		DESCRIPTION
+Hollanda'nın en yüksek noktası kaç metredir	kaç metredir	NUMERIC	SIZE.LENGTH	321		NUMERIC
+Hollanda'nın en yüksek noktası neresidir	noktası neresidir	LOCATION	LOCATION	Vaalsberg tepesi		LOCATION
+Hollanda'nın en alçak noktası kaç metredir	kaç metredir	NUMERIC	SIZE.LENGTH	-6.7 m		NUMERIC
+Dünya'da iç su ulaşım ağı en gelişmiş ülke hangisidir	ülke	LOCATION	COUNTRY	Hollanda		LOCATION
+Hollanda'daki ormanlar ülke arazisinin yüzde kaçını oluşturur	ülke arazisinin yüzde kaçını	NUMERIC	PERCENTAGE	0.18/18%/%18		NUMERIC
+Hollanda'nın nüfus yoğunluğu ne kadardır	nüfus yoğunluğu ne kadardır	NUMERIC	SIZE.DENSITY	353 kişi/km2		NUMERIC
+İtalya'da hakim olan din hangisidir	din	HUMAN	RELIGION	Hristiyanlık		HUMAN
+İtalya'nın uzaydan görünüşü neyi andırır	neyi andırır	DESCRIPTION	DESCRIPTION	Çizme		ENTITY
+İtalya'nın en büyük adaları hangileridir	İtalyanın adaları	ENTITY	OTHERS	Sicilya ve Sardinya		ENTITY
+İtalya'da sanayi hangi tarihten sonra hızlı bir ilerleme sürecine girmiştir	hangi tarihten sonra	TEMPORAL	DATE	1950		TEMPORAL
+İtalya'ya bir yılda yaklaşık ne kadar turist gelmektedir	ne kadar turist	NUMERIC	SIZE.POPULATION	40 milyon/40000000/40.000.000		ENTITY
+Fransa'da yıllık kişi başına düşen milli gelir ne kadardır	milli gelir ne kadardır	NUMERIC	MONEY	33.678$/33678$		NUMERIC
+Fransa'daki havaalanı sayısı kaçtır	havaalanı sayısı kaçtır	NUMERIC	COUNT	478		NUMERIC
+Dünyada turistlik açıdan en fazla ziyaret edilen ülke neresidir	ülke neresidir	LOCATION	COUNTRY	Fransa		LOCATION
+ABD'nin baş şehri neresidir	baş şehri neresidir	LOCATION	CAPITAL	Washington		LOCATION
+ABD kaç eyaletten oluşmaktadır	kaç eyaletten	NUMERIC	COUNT	50		NUMERIC
+Amerika kıtasını kim keşfetmiştir	kim	HUMAN	INDIVIDUAL	Kristof Kolomb		HUMAN
+Federal Almanya ve Doğu Almanya hangi tarihte birleşmişlerdir	hangi tarihte	TEMPORAL	DATE	3 Ekim 1990/1990		TEMPORAL
+Almanya'da yaşayan Türk sayısı yaklaşık ne kadardır	Türk sayısı ne kadardır	NUMERIC	SIZE.POPULATION	3 Milyon/3000000/3.000.000		NUMERIC
+Rusya Federasyonu hangi yıl kurulmuştur	hangi yıl	TEMPORAL	DATE	1991		TEMPORAL
+Rusya'nın hangi kıtalarda toprağı vardır	hangi kıtalara	LOCATION	CONTINENT	Avrupa Asya		LOCATION
+Çin'in en önemli akarsularından olan Yang-çe'nin Türkçe anlamı nedir	Türkçe anlamı	DESCRIPTION	DESCRIPTION	Mavi Irmak		ENTITY
+Çin'in ikinci büyük ırmağı olan Huang-ho’nun anlamı nedir	anlamı	DESCRIPTION	DESCRIPTION	Sarı Irmak		ENTITY
+Çin uygarlığı kaç yıllık bir geçmişe sahiptir	kaç yıllık	NUMERIC	COUNT	4000 yılık		NUMERIC
+Çin hangi yıldan itibaren sosyalist bir idare tarzı ile yönetilir	hangi yıldan itibaren	TEMPORAL	DATE	1949		TEMPORAL
+Pekin'in nüfusu kaç kişidir	kaç kişidir	NUMERIC	SIZE.POPULATION	19 Milyon/19000000/19.000.000		NUMERIC
+HongKong'da hangi iklim hakimdir	hangi iklim	ENTITY	OTHERS	Muson iklimi		HUMAN
+Çin Ar-Ge çalışmalarına yıllık ne kadar para ayırmaktadır	ne kadar para	NUMERIC	MONEY	30.5 Milyar Dolar		ENTITY
+İnsani gelişim endeksini hangi topluluk hazırlar	hangi topluluk	HUMAN	GROUP	Birleşmiş Milletler		HUMAN
+HongKong hangi tarihe kadar İngiliz Krallığına bağlı bir sömürgeydi	hangi tarihe	TEMPORAL	DATE	1 Temmuz 1997/1997		TEMPORAL
+Çin Halk Cumhuriyeti coğrafi açıdan kaç bölgeye ayrılır	kaç bölgeye	NUMERIC	COUNT	4		NUMERIC
+Rusya'daki petrol rezervlerinin %80'i Rusya'nın hangi bölgesinde bulunur	Rusyanın hangi bölgesinde	LOCATION	REGION	Sibirya		LOCATION
+Rusya hangi ülkenin dağılmasıyla kurulmuştur	hangi ülkenin	LOCATION	COUNTRY	SSCB		LOCATION
+SSCB'nin açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Sovyet Sosyalist Cumhuriyetler Birliği		ABBREVIATION
+İpek yolunun başlangıcı hangi ülkedir	hangi ülkedir	LOCATION	COUNTRY	Çin		LOCATION
+İlk coğrafi keşifler kaçıncı yüzyılda başlamıştır	kaçıncı yüzyılda	TEMPORAL	CENTURY	14. Yüzyıl/XIV		TEMPORAL
+Ümit burnu ne zaman keşfedilmiştir	ne zaman keşfedilmiştir	TEMPORAL	DATE	1487		TEMPORAL
+Ümit burnu kimin tarafından keşfedilmiştir	kim tarafından	HUMAN	INDIVIDUAL	Bartelmi Diaz		HUMAN
+Bartelmi Diaz nerelidir	nerelidir	LOCATION	COUNTRY	Portekiz		LOCATION
+Dünyayı dolaşan ilk denizci kimdir	denizci kimdir	HUMAN	INDIVIDUAL	Macellan		HUMAN
+Kristof Kolomb Amerika'ya ilk kez ne zaman ulaşmıştır	ne zaman ulaşmıştır	TEMPORAL	DATE	1492		TEMPORAL
+Akdeniz ile Hint okyanusu arasındaki ticaret yollarını kısaltmayı sağlayan kanal hangisidir	kanal	ENTITY	RIVER	Süveyş Kanalı		ABBREVIATION
+Dünyada ilk telgraf hattı ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	1844		TEMPORAL
+Matbaa ne zaman icat edildi	ne zaman icat edildi	TEMPORAL	DATE	1450		TEMPORAL
+İlk fotoğraf makinası ne zaman yapıldı	ne zaman yapıldı	TEMPORAL	DATE	1837		TEMPORAL
+Telefon hangi tarihte icat edildi	hangi tarihte	TEMPORAL	DATE	1861		TEMPORAL
+Ses kayıt makinasının icat edilme tarihi nedir	icat edilme tarihi	TEMPORAL	DATE	1877		TEMPORAL
+Kıtalar arası ilk telefon görüşmesi ne zaman yapıldı	ne zaman yapıldı	TEMPORAL	DATE	1915		TEMPORAL
+Renkli televizyonun ilk üretilme tarihi nedir	ilk üretilme tarihi	TEMPORAL	DATE	1928		TEMPORAL
+Dünyada ilk olarak halkına televizyon yayını yapan ülke hangisidir	ülke	LOCATION	COUNTRY	İngiltere		LOCATION
+Panama kanalından bir yılda yaklaşık kaç gemi geçmektedir	kaç gemi	NUMERIC	AVERAGE	13-14 bin/13000 14000		NUMERIC
+Dünya ticaretinin yüzde kaçı Panama kanalı üzerinden yapılmaktadır	Dünya ticaretinin yüzde kaçı	NUMERIC	PERCENTAGE	%5/5%		NUMERIC
+Süveyş Kanalının uzunluğu ne kadardır	uzunluğu ne kadardır	NUMERIC	SIZE.LENGTH	161 Km		NUMERIC
+Dünyada kapakları olmayan en uzun kanal hangisidir	kanal	ENTITY	RIVER	Süveyş Kanalı		ENTITY
+Kiel Kanalı hangi tarihte deniz trafiğine açılmıştır	hangi tarihte	TEMPORAL	DATE	1895		TEMPORAL
+Yunanistan ve Mora yarımadasını birbirine bağlayan kanalın adı nedir	kanalın adı	ENTITY	RIVER	Korint Kanalı		ENTITY
+Cebelitarik boğazının en sığ yeri ne kadardır	yeri ne kadardır	NUMERIC	SIZE.DEPTH	324 metre		NUMERIC
+Cebelitarık boğazındaki yüzeysel akıntı nereden nereye doğrudur	yüzeysel akıntı nereden nereye doğrudur	ENTITY	OTHERS	Batıdan doğuya		LOCATION
+Bering Boğazını kim keşfetmiştir	kim keşfetmiştir	HUMAN	INDIVIDUAL	Bering		HUMAN
+Bering boğazı ne zaman keşfedilmiştir	ne zaman kaşfedilmiştir	TEMPORAL	DATE	1730		TEMPORAL
+Bering boğazının kâşifi nerelidir	kaşifi nerelidir	LOCATION	COUNTRY	Danimarka		LOCATION
+Karadeniz’in Akdeniz’e açılmasını sağlayan boğazlar hangileridir	boğazlar	ENTITY	OTHERS	İstanbul Boğazı Çanakkale Boğazı		ENTITY
+İlk kara yolu ne zaman yapılmıştır	ne zaman yapılmıştır	TEMPORAL	DATE	Milattan Önce 7. Yüzyıl/M.Ö. VII. yy		TEMPORAL
+Türkiye'de 100 km2'ye düşen yol ne kadardır	yol ne kadardır	NUMERIC	SIZE.LENGTH	3 Km		NUMERIC
+Türkiye'de 100 km2'ye düşen yol kaç km'dir	yol kaç Kmdir	NUMERIC	SIZE.LENGTH	3 Km		NUMERIC
+Türkiye'de 100 kilometrekarelik alana düşen yol kaç kilometredir	kaç kilometredir	NUMERIC	SIZE.LENGTH	3 kilometre/3 km		NUMERIC
+Dünyada hava ulaşımının kaçta kaçı ABD sınırları içinden gerçekleşmektedir	hava ulaşımının kaçta kaçı	NUMERIC	PERCENTAGE	33%/%33		NUMERIC
+Dünyada demir yolu ağının en sık olduğu bölge neresidir	bölge neresidir	LOCATION	LOCATION	ABD		LOCATION
+Dünyanın en uzun demir yolu hattının adı nedir	demir yolu hattının adı	ENTITY	OTHERS	Trassibirya		ENTITY
+Transsibirya demiryolu hattının yaklaşık uzunluğu ne kadardır	uzunluğu ne kadardır	NUMERIC	AVERAGE	15000 km		NUMERIC
+Dünyanın en uzun demiryolu hattının yaklaşık uzunluğu ne kadardır	uzunluğu ne kadardır	NUMERIC	AVERAGE	15000 km		NUMERIC
+Afrika demir yollarının gelişiminde hangi devletin desteği Avrupa devletinin desteği büyüktür	hangi Avrupa devletinin desteği	LOCATION	COUNTRY	Fransa		ENTITY
+Yük ve yolcu taşıma maliyetinin en yüksek olduğu ulaşım yolu hangisidir	ulaşım yolu	ENTITY	OTHERS	Hava yolları		ENTITY
+Türkiye'de 1000 kişiye kaç km yol düşmektedir	kaç km yol	NUMERIC	SIZE.LENGTH	1 km		NUMERIC
+Yazı ilk defa hangi uygarlık tarafından bulunmuştur	hangi uygarlık	HUMAN	NATION	Sümerler		HUMAN
+Telgraf hatlarının kurulması ile hangi iletişim türü başlamıştır	hangi iletişim türü	ENTITY	OTHERS	Elektronik iletişim		LOCATION
+Hürmüz boğazının en dar yeri ne kadardır	yeri ne kadardır	NUMERIC	SIZE.LENGTH	56 km		NUMERIC
+Baltık denizini Kuzey denize bağlayan kanalın uzunluğu ne kadardır	uzunluğu ne kadardır	NUMERIC	SIZE.LENGTH	99 km		NUMERIC
+Kiel kanalının uzunluğu ne kadardır	uzunluğu ne kadardır	NUMERIC	SIZE.LENGTH	99 km		NUMERIC
+Babülmendep Kanalı hangi ülkelerin kıyıları arasındadır	hangi ülkelerin	LOCATION	COUNTRY	Yemen Somali		LOCATION
+Bering boğazı hangi denizleri birbirine bağlar	hangi denizleri	ENTITY	SEA	Bering Kuzey Buz		ENTITY
+Bugüne kadar Dünya üzerindeki ölçülen en yüksek hava sıcaklığı kaç derecedir	kaç derecedir	NUMERIC	DEGREE	57 C		NUMERIC
+Bugüne kadar Dünya üzerindeki ölçülen en yüksek hava sıcaklığı nerede ölçülmüştür	nerede ölçülmüştür	LOCATION	LOCATION	El Azizias		LOCATION
+Bugüne kadar Dünya üzerindeki ölçülen en düşük hava sıcaklığı kaç derecedir	kaç dereecedir	NUMERIC	DEGREE	-89.2 C		NUMERIC
+Bugüne kadar Dünya üzerindeki ölçülen en düşük hava sıcaklığı nerede ölçülmüştür	nerede ölçülmüştür	LOCATION	LOCATION	Vostok araştırma merkezi		LOCATION
+İke kasırgası ne zaman gerçekleşmiştir	ne zaman gerçekleşmiştir	TEMPORAL	DATE	7 Eylül 2008		TEMPORAL
+İke kasırgası ne kadar hıza ulaşmıştır	ne kadar hıza	NUMERIC	SPEED	180 km-s		ENTITY
+Töhoku depremi ne zaman gerçekleşmiştir	ne zaman gerçekleşmiştir	TEMPORAL	DATE	2011		TEMPORAL
+Marmara depremi kaç şiddetinde olmuştur	kaç şiddetinde	NUMERIC	COUNT	7.4		NUMERIC
+Marmara depremi hangi tarihte meydana gelmiştir	hangi tarihte	TEMPORAL	DATE	17 Ağustos 1999		TEMPORAL
+Yeryüzünde özellikle aşırı yağış alan eğimli bölgelerde yaydın olarak görülen kütle hareketlerine ne denir	kütle hareketlerine denir	DESCRIPTION	DEFINITION	Heyelan		DESCRIPTION
+Bir bölgede nem miktarındaki geçici dengesizliğin o bölgedeki su kıtlığı ile ilişkisine ne ad verilir	ilişkisine ad	DESCRIPTION	DEFINITION	Kuraklık		DESCRIPTION
+1965-1967 yılları arasında Hindistan'da hüküm süren kuraklık sonucu kaç kişi hayatını kaybetmiştir	kaç kişi	NUMERIC	COUNT	1.5 Milyon/1500000/1.500.000		NUMERIC
+Manş tüneli hangi tarihte hizmete açılmıştır	hangi tarihte	TEMPORAL	DATE	1994		TEMPORAL
+Manş tüneli hangi ülkeler arasındadır	hangi ülkeler	LOCATION	COUNTRY	Fransa İngiltere		LOCATION
+Dünyanın en büyük su nakli projesi hangi ülkeye aittir	hangi ülkeye	LOCATION	COUNTRY	Libya		LOCATION
+Toba dağı hangi ülke sınırları içerisindedir	hangi ülke sınırları	LOCATION	COUNTRY	Endonezya		LOCATION
+Mal ve hizmetlerin sağlanmasına ne denir	Mal ve hizmetlerin sağlanmasına denir	DESCRIPTION	DEFINITION	Üretim		DESCRIPTION
+Mal ve hizmetlerin tüketiciye ulaştırılmasına ne ad verilir	ulaştırılmasına ad	DESCRIPTION	DEFINITION	Dağıtım		DESCRIPTION
+Mal ve hizmetlerin kullanılması ne ile ifade edilir	ne ile ifade edilir	DESCRIPTION	DEFINITION	Tüketim		ENTITY
+Ekonomik faaliyetlerin ilk zincirini ne oluşturur	ne oluşturur	ENTITY	OTHERS	Üretim		ENTITY
+Ekonomik faaliyetlerin son zincirini ne oluşturur	ne oluşturur	ENTITY	OTHERS	Tüketim		ENTITY
+Türkiye’de çay üretimi hangi bölgede olur	hangi bölgede	LOCATION	REGION.LOCAL	Doğu Karadeniz		LOCATION
+Bir çizimin harita özelliği taşıması için kaç temel ilkeye uyma zorunluluğu vardır	kaç temel ilkeye	NUMERIC	COUNT	3		NUMERIC
+Yeryüzündeki ayrıntıları en az hata ile bir düzlem üzerinde gösterebilmek için geliştirilen metotlara ne ad verilir	metotlara ad	DESCRIPTION	DEFINITION	İz düşüm metotları		DESCRIPTION
+Harita çizimi ile uğraşan bilim dalına ne ad verilir	bilim dalına ad	DESCRIPTION	DEFINITION	Kartoğrafya		DESCRIPTION
+Haritadaki uzunluğun gerçek uzunluğa bölünmesi neyi verir	neyi verir	DESCRIPTION	DESCRIPTION	Ölçek		DESCRIPTION
+Ölçeği 1/20000 ile 1/200000 arasında olan haritalar hangileridir	haritalar	DESCRIPTION	DEFINITION	Topoğrafya Haritaları		ENTITY
+Profil hangi tip haritalardan çıkarılabilir	hangi tip haritalardan	ENTITY	OTHERS	Fiziki Haritalardan		ENTITY
+Eş derinlik eğrilerinin diğer adı nedir	Eş derinlik eğrilerinin adı	ENTITY	OTHERS	İzobat		ENTITY
+Kıyıdan 200 metre derinliğe kadar olan saha neyle ifade edilir	saha neyle ifade edilir	DESCRIPTION	DEFINITION	Kıta sahanlığı		ENTITY
+Gölgelendirme yöntemi ile çizim yapılırken haritanın sağ üst köşesinden kaç derecelik bir açıyla ışık geldiği varsayılır	kaç derecelik bir açıyla	NUMERIC	DEGREE	45		NUMERIC
+Lejant ne demektir	ne demektir	DESCRIPTION	DEFINITION	Harita anahtarı		ABBREVIATION
+Fiziki haritalarda yeşil alanlar kaç metre aralıklarını ifade eder	kaç metre aralıkları	NUMERIC	SIZE.LENGTH	0-200		NUMERIC
+Haritadaki uzunluk ile harita ölçeğinin çarpımı neyi verir	neyi verir	DESCRIPTION	DESCRIPTION	Gerçek uzunluğu		DESCRIPTION
+Kutuplara eşit uzaklıktaki noktaların birleştirilmesiyle elde edilen hayali çembere ne ad verilir	hayali çembere ad	ENTITY	ENTITY	Ekvator		DESCRIPTION
+Kaç adet paralel vardır	Kaç adet paralel	NUMERIC	COUNT	180		ENTITY
+Paraleller hangi doğrultuda uzanır	hangi doğrultuda	ENTITY	OTHERS	Doğu-Batı		ENTITY
+İki paralel arasındaki uzaklık ne kadardır	uzaklık ne kadardır	NUMERIC	SIZE.LENGTH	111 km		NUMERIC
+230-271 kuzey enleminin özel adı nedir	230-271 kuzey enleminin adı	ENTITY	OTHERS	Yengeç dönencesi		ENTITY
+230-271 güney enlemin diğer adı nedir	230-271 güney enleminin adı	ENTITY	OTHERS	Oğlak dönencesi		ENTITY
+Bir noktanın Ekvator'a olan uzaklığının açı cinsinden değerine ne denir	açı cinsinden değerine denir	ENTITY	ENTITY	Enlem		DESCRIPTION
+Greenwich'in antimeridyeni nedir	antimeridyeni	ENTITY	OTHERS	1800 boylamı		ENTITY
+900 güney paralelinin özel adı nedir	900 güney paralelinin adı	ENTITY	OTHERS	Güney kutup noktası		ENTITY
+Saat dilimleri kaç meridyende bir numaralandırılır	kaç meridyende bir	NUMERIC	COUNT	15		NUMERIC
+İleri saat uygulamasına gidilmeye hangi tarihten itibaren başlanmıştır	hangi tarihten itibaren	TEMPORAL	DATE	1978		TEMPORAL
+En büyük paralel dairesi hangisidir	paralel dairesi	ENTITY	OTHERS	Ekvator		ENTITY
+Güneş'in ufuk düzlemi üzerinde en yüksek noktaya ulaştığı zamana ne denir	zamana denir	DESCRIPTION	DEFINITION	Öğle vakti		DESCRIPTION
+Ekonomik sosyal doğal ya da siyasi nedenlerle birey veya toplulukların yer değiştirmesine ne denir	yer değiştirmesine denir	DESCRIPTION	DEFINITION	Göç		DESCRIPTION
+Bir ülke içinde bölge şehir ve köy gibi bir yerden diğerine yönelik nüfus hareketlerine ne denir	nüfus hareketlerine denir	DESCRIPTION	DEFINITION	İç göç		DESCRIPTION
+Bir ülkeden başka bir ülkeye olan göçlere ne ad verilir	göçlere ad	DESCRIPTION	DEFINITION	Dış göç		DESCRIPTION
+Göçlerin kaç temel sebebi vardır	kaç temel sebebi	NUMERIC	COUNT	4		NUMERIC
+Türklerin Orta Asya'dan göç etmelerinin temel sebebi neydi	temel sebebi	DESCRIPTION	REASON	Kuraklık		ENTITY
+Savaşlar sınır ihlalleri ve iç karışıklıklar nedeniyle can güvenliklerini sağlamak için ülke değiştiren insanlara ne denir	ülke değiştiren insanlara denir	DESCRIPTION	DEFINITION	Mülteci		DESCRIPTION
+Uzun süreli ve devamlı kalmak üzere yapılan göçlere ne denir	göçlere denir	DESCRIPTION	DEFINITION	Kalıcı göç		DESCRIPTION
+Kavimler göçü kaçıncı yüzyıllarda gerçekleşmiştir	kaçıncı yüzyıllarda gerçekleşmiştir	TEMPORAL	CENTURY	4.yy 5.yy/IV. V. yy		TEMPORAL
+Kavimler göç hangi çağın kapanmasına sebep olmuştur	hangi çağın	TEMPORAL	ERA	İlk çağ		TEMPORAL
+Coğrafi keşifler hangi yüzyılda  hız kazanmıştır	hangi yüzyılda	TEMPORAL	CENTURY	15.yy/XV. yy		TEMPORAL
+Amerika kıtasına olan göçlerde kayıtlara göre ortalama kaç insan yer değiştirmiştir	kaç insan	NUMERIC	SIZE.POPULATION	60 milyon/60000000/60.000.000		NUMERIC
+İngiliz ve Fransızlar Amerikanın hangi bölgelerinde koloniler kurmuşlardır	Amerikanın hangi bölgelerinde	LOCATION	REGION	Kuzey Amerika		LOCATION
+İspanyollar Amerikanın hangi bölgesinde koloniler kurmuşlardır	Amerikanın hangi bölgesinde	LOCATION	REGION	Güney Amerika		LOCATION
+Amerikaya olan göçler hangi yüzyılda hız kazanmıştır	hangi yüzyılda	TEMPORAL	CENTURY	19. yy		TEMPORAL
+Osmanlı devleti bünyesinde yaşayan rumların temel geçim kaynağı neydi	temel geçim kaynağı	DESCRIPTION	DESCRIPTION	Ticaret		ENTITY
+Yunanistan ile mübadele kararını içeren Lozan anlaşması ne zaman imzalanmıştır	ne zaman imzalanmıştır	TEMPORAL	DATE	30 ocak 1923		TEMPORAL
+Çoğunlukla bilim ve tekniğin gelişmesine katkıda bulunabilecek nitelikli elemanların başka ülkelere çalışmak amaçlı göç etmelerine ne denir	göç etmelerine denir	DESCRIPTION	DEFINITION	Beyin göçü		DESCRIPTION
+Ülkeler arası beyin göçü hangi yıldan sonra hız kazanmıştır	hangi yıldan sonra	TEMPORAL	DATE	1960		TEMPORAL
+Türkiye en çok beyin göçü veren ülkeler arasında kaçıcı sıradadır	kaçıncı sıradadır	NUMERIC	COUNT	24		NUMERIC
+Almanya kalkınma politikası sebebiyle hangi yıllar arası işçi alımı yapmıştır	hangi yıllar arası	TEMPORAL	PERIOD	1952-1954		TEMPORAL
+Türkiyeden avrupaya ilk işçi göçleri hangi yıllar arasında gerçekleşmiştir	hangi yıllar arasında	TEMPORAL	PERIOD	1958-1961		TEMPORAL
+Türkiye almanya ile hangi yılda işçi göçü anlaşması yapmıştır	hangi yılda	TEMPORAL	DATE	1961		TEMPORAL
+Günümüzde Almanyada yaklaşık kaç insanımız işçi olarak çalışmaktadır	kaç insanımız	NUMERIC	SIZE.POPULATION	1.3 milyon/1300000/1.300.000		NUMERIC
+Göç alan şehirlerde ortaya çıkan problemlerin temel nedeni nedir	temel nedeni	DESCRIPTION	REASON	Plansız kentleşme		DESCRIPTION
+Akarsularımızın taşımaya elverişli olmamasının temel sebebi nedir	temel sebebi	DESCRIPTION	REASON	Denge profilleri		DESCRIPTION
+Türkiye hidroelektrik üretim potansiyeli açısından dünya sıralamasında kaçıncıdır	kaçıncıdır	NUMERIC	COUNT	3		NUMERIC
+Dünyaca ünlü çoruh nehrinde hangi spor yapılır	hangi spor	ENTITY	OTHERS	Rafting		ENTITY
+Doğru karadenizdeki akarsuların her zaman bol su taşıyor olmasının temel sebebi nedir	temel sebebi	DESCRIPTION	REASON	Yağış miktarı		DESCRIPTION
+En geniş havzaya sahip bölgemiz hangisidir	bölgemiz	LOCATION	REGION.LOCAL	Karadeniz		ENTITY
+Ege bölgesinde akasuların doğrultusu ne yöne doğrudur	ne yöne doğrudur	ENTITY	OTHERS	Doğu-batı		ENTITY
+Yağışlı dönemde bol su taşıyan akarsular temelde nereden beslenir	nereden beslenir	ENTITY	ENTITY	Yağmur		LOCATION
+Yağmurla beslenen akarsular daha çok hangi iklimde görülür	hangi iklimde	ENTITY	OTHERS	Akdeniz		ENTITY
+Kar ve buz sularıyla beslenen akarsuların akışında azalma hangi mevsimde olur	hangi mevsimde	TEMPORAL	SEASON	Kış		TEMPORAL
+Fırat nehrinde bahar aylarında saniyede geçen ortalama su akımı ne kadardır	su akımı ne kadardır	NUMERIC	SIZE.DENSITY	2000 metre küp/2000 m3		NUMERIC
+Gölden çıkan akarsuların beslendiği yerlere ne denir	beslendiği yere denir	DESCRIPTION	DEFINITION	Gideğen		DESCRIPTION
+Akım rejimleri yıl içinde birden çok kez değişen akarsulara ne denir	değişen akarsulara denir	DESCRIPTION	DEFINITION	Karma rejimli akarsular		DESCRIPTION
+Türkiyede ortalama kaç tane doğal göl vardır	kaç tane doğal göl	NUMERIC	AVERAGE	120		NUMERIC
+Türkiyede ortalama kaç adet baraj gölü bulunmaktadır	kaç adet baraj gölü	NUMERIC	AVERAGE	555		NUMERIC
+Ülkemizdeki göllerin toplam yüzölçümü ortalama olarak ne kadardır	yüzölçümü ne kadardır	NUMERIC	SIZE.AREA	10000 m2		NUMERIC
+Türkiyenin en büyük gölü nedir	gölü	ENTITY	LAKE	Van gölü		ENTITY
+Buzul gölleri ortalama kaç metre yükseklikte bulunurlar	kaç metre yükseklikte	NUMERIC	SIZE.HEIGHT	2000 m		NUMERIC
+Volkanik alanlardaki çukurların suyla dolması sonucu oluşan göllere ne isim verilir	göllere isim	DESCRIPTION	DEFINITION	Volkanik göl		DESCRIPTION
+Delta ovalarındaki kıyı oklarının gerisinde oluşan göllere ne denir	göllere denir	DESCRIPTION	DEFINITION	Kıyı set gölü		DESCRIPTION
+Volkanlardan çıkan lavların bir çukurluğun ve vadinin önünü kapamasıyla oluşan göllere ne denir	göllere denir	DESCRIPTION	DEFINITION	Volkanik set gölleri		DESCRIPTION
+Oluşumunda tektonik hareketler volkanik olaylar ve doğal etkenlerin eş zamanlı rol oynadığı göllere ne denir	göllere denir	DESCRIPTION	DEFINITION	Karma oluşumlu göller		DESCRIPTION
+Kuzey anadolu dağlarının denize bakan yamaçlarında görülen toprak çeşidinin adı nedir	toprak çeşidinin adı	ENTITY	OTHERS	Kahverengi orman toprakları		ENTITY
+Bir veya birden fazla özelliği benzer olan alanlar neyle adlandırılır	anlanlar neyle adlandırılır	ENTITY	ENTITY	Bölge		ENTITY
+Sadabat Paktı hangi ülkelerden oluşuyordu	hangi ülkelerden	LOCATION	COUNTRY	Türkiye İran Irak Afganistan		LOCATION
+Dortmund hangi sanayi bölgesinde yer almaktadır	hangi sanayi bölgesinde	LOCATION	REGION	Ruhr		ENTITY
+Aynı kentin içinde bulunup kentten soyutlanmış yerleşim alanlarına ne ad verilir	yerleşim alanlarına ad	ENTITY	ENTITY	Getto		DESCRIPTION
+Sanayi devrimi kaçıncı yüzyılda gerçekleşmiştir	kaçıncı yüzyılda	TEMPORAL	CENTURY	18. Yüzyıl/XVIII. yy		TEMPORAL
+1960 yılında Dünya üzerinde yaklaşık kaç kişi şehirlerde yaşıyordu	kaç kişi	NUMERIC	SIZE.POPULATION	1 Milyar/1000000000/1.000.000.000		NUMERIC
+OECD'nin açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Ekonomik Kalkınma ve İşbirliği Örgütü		ABBREVIATION
+1950 yılında Dünya genelinde kişi başına düşen milli gelir ne kadardır	milli gelir ne kadardır	NUMERIC	MONEY	$1,671.00		NUMERIC
+Türkiye'deki sarp bölgelerin kapladığı alan ne kadardır	alan ne kadardır	NUMERIC	SIZE.AREA	487864 Km2		NUMERIC
+Türkiye arazisinin yüzde kaçı düz ve hafif eğimlidir	Türkiye arazisinin yüzde kaçı	NUMERIC	PERCENTAGE	%8.5		NUMERIC
+Türkiye hangi yarım kürede yer almaktadır	hangi yarım kürede	ENTITY	SPHERE	Kuzey Yarım Küre		ENTITY
+Teşvik-i Sanayi Kanunu ne zaman çıkarılmıştır	ne zaman çıkarılmıştır	TEMPORAL	DATE	1926		TEMPORAL
+1. İzmir İktisat kongresi ne zaman yapılmıştır	ne zaman yapılmıştır	TEMPORAL	DATE	1923		TEMPORAL
+TCDD'nin açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Türkiye Cumhuriyeti Devlet Demiryolları		ABBREVIATION
+Türkiye'de ilk uçak ne zaman üretildi	ne zaman üretildi	TEMPORAL	DATE	1936		TEMPORAL
+Türkiyede üretilen ilk uçağa ne ad verilmiştir	uçağa ad	ENTITY	OTHERS	ND-36		ENTITY
+Türkiye'de üretilen ilk uçak hangi ilçede üretildi	hangi ilçede	LOCATION	CITY	Beşiktaş		LOCATION
+DPT neyi ifade eder	neyi ifade eder	ABBREVIATION	EXPRESSION	Devlet Planlama Teşkilatı		ENTITY
+DPT ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	1960		TEMPORAL
+Tarıma elverişli araziler ülkemiz topraklarının ne kadarını oluşturur	ne kadarını oluşturur	NUMERIC	PERCENTAGE	0.33/33%/%33		ENTITY
+Tarım sektöründe sulamadan sonra verimi artıran en önemli faktör nedir	faktör	DESCRIPTION	REASON	Gübreleme		DESCRIPTION
+TİGEM neyin kısaltmasıdır	neyin kısaltmasıdır	ABBREVIATION	EXPRESSION	Tarım İşletmeleri Genel Müdürlüğü		ABBREVIATION
+Türkiye Zirai Donatım Kurumu'nun kısa adı nedir	Türkiye Zirai Donatım Kurumunun adı	ABBREVIATION	ABBREVIATION	TZDK		ABBREVIATION
+Devlet Su İşleri kısaca nasıl ifade edilir	nasıl ifade edilir	ABBREVIATION	ABBREVIATION	DSİ		ABBREVIATION
+Toprak Mahsulleri Ofisi'nin kısaltması nasıldır	Toprak Mahsulleri Ofisinin kısalatması	ABBREVIATION	ABBREVIATION	TMO		ABBREVIATION
+Buğday üretimi en yüksek olan 3 ilimiz hangileridir	3 ilimiz	LOCATION	CITY	Konya Ankara Adana		ENTITY
+Pirinç hangi bitkinin kabuklarından ayrılmasıyla elde edilir	hangi bitkinin	ENTITY	PLANT	Çeltik		ENTITY
+Fasulye kaç metreden yüksek yerlerde yetişmez	kaç metreden yüksek	NUMERIC	SIZE.HEIGHT	1200 metre		NUMERIC
+Pamuk bitkisinin tohumuna ne ad verilir	tohumuna ad	ENTITY	OTHERS	Çiğit		DESCRIPTION
+Çiğit nedir	Çiğit	DESCRIPTION	DEFINITION	Pamuk bitkisinin tohumu		ENTITY
+Türkiye şeker pancarı üretimine ne zaman başlamıştır	ne zaman başlamıştır	TEMPORAL	DATE	1926		TEMPORAL
+İlk şeker fabrikalarımız hangileridir	şeker fabrikalarımız	ENTITY	OTHERS	Uşak Alpullu		ENTITY
+Ege bölgesi Türkiye'deki haşhaş üretiminin kaçta kaçını karşılar	haşhaş üretiminin kaçta kaçını	NUMERIC	PERCENTAGE			NUMERIC
+GAP'ın açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Güneydoğu Anadolu Projesi		ABBREVIATION
+Seralarda sürdürülen faaliyetlere ne ad verilir	faaliyetlere ad	DESCRIPTION	DESCRIPTION	Seracılık		DESCRIPTION
+Rize çay üretimimizin yüzde kaçını karşılar	çay üretimimizin yüzde kaçını	NUMERIC	PERCENTAGE	0.75/%75/75%		NUMERIC
+Maden cevheri içindeki metal oranına ne isim verilir	metal oranına isim	ENTITY	OTHERS	Tenör		DESCRIPTION
+Anadolu topraklarındaki madencilik ne zaman başlamıştır	ne zaman başlamıştır	TEMPORAL	DATE	M.Ö. 7000		TEMPORAL
+MTA nedir	MTA	ABBREVIATION	EXPRESSION	Maden Tetkik ve Arama		ENTITY
+MTA ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	1935		TEMPORAL
+Türkiye Petrolleri Anonim Ortaklığının kısa adı nedir	Türkiye Petrolleri Anonim Ortaklığının adı	ABBREVIATION	ABBREVIATION	TPAO		ABBREVIATION
+Dünyadaki bor rezervlerinin yüzde kaçı Türkiye'dedir	bor rezervlerinin yüzde kaçı	NUMERIC	PERCENTAGE	%63/63%		NUMERIC
+Doğada kaç çeşit bor minareli vardır	kaç çeşit bor minerali	NUMERIC	COUNT	230		NUMERIC
+Lüle taşı hangi il çevresinde çıkarılır	hangi il çevresinde	LOCATION	CITY	Eskişehir		LOCATION
+Aydın'ın hangi ilçesinde jeotermal elektrik santrali vardır	Aydının hangi ilçesinde	LOCATION	CITY	Germencik		LOCATION
+Bitkilerden veya biyolojik atıklardan elde edilen enerjiye ne ad verilir	enerjiye ad	DESCRIPTION	DEFINITION	Biyoenerji		DESCRIPTION
+Petrol yataklarımızın büyük bir çoğunluğu hangi bölgemizde yer almaktadır	hangi bölgemizde	LOCATION	REGION.LOCAL	Güneydoğu Anadolu		LOCATION
+Terrarosa toprakları hangi bölgemizde daha sık görülür	hangi bölgemizde	LOCATION	REGION.LOCAL	Akdeniz		LOCATION
+Yıllık yağış miktarının az olduğu kireçli topraklara ne ad verilir	kireçli topraklara ad	DESCRIPTION	DEFINITION	Kahverengi bozkır topraklar		DESCRIPTION
+Kestane renkli bozkır topraklarının olduğu bir yörede yıllık yağış miktarı ne kadardır	yağış miktarı ne kadardır	NUMERIC	SIZE.HEIGHT	400mm 600mm		NUMERIC
+Çayır bitki örtüsü çevresinde oluşan topraklara ne ad verilir	topraklara ad	DESCRIPTION	DEFINITION	Çerezyom		DESCRIPTION
+Sürülmesi ve işlenmesi zor kil oranı fazla olan topraklara ne isim verilir	topraklara isim	DESCRIPTION	DEFINITION	Vertisol		DESCRIPTION
+Ege iç anadolu ve doğu anadolunun çöküntülü kısımlarında yaygın olan üst kısmı kireçli topraklara ne denir	üst kısmı kireçli topraklara denir	DESCRIPTION	DEFINITION	Rendzina		DESCRIPTION
+Akarsuların taşıyıp biriktirdiği malzemelerden oluşan toprağa ne denir	toprağa denir	DESCRIPTION	DEFINITION	Alüvyal toprak		DESCRIPTION
+Dağlık alanlarda yamaçlar boyunca ufalanan çeşitli malzemelerin dağların eteklerinde birikmesiyle oluşan topraklara ne ad verilir	topraklara ad	DESCRIPTION	DEFINITION	Kolüvyal toprak		DESCRIPTION
+Volkanlardan çıkan kum boyutundaki malzemeler ile yamaç eteklerindeki kolüvyal depolar üzerinde oluşan topraklara ne denir	topraklara denir	DESCRIPTION	DEFINITION	Regosol		DESCRIPTION
+Türkiye arazisinin yüzde kaçında tarım yapılmaktadır	Türkiye arazisinin yüzde kaçında	NUMERIC	PERCENTAGE	0.36/%36/36%		NUMERIC
+Türkiyede yetiştirilen tarım ürünlerinin çeşitliliği temelde neye bağlıdır	neye bağlıdır	DESCRIPTION	REASON	İklim çeşitliği		DESCRIPTION
+Türkiyede en çok yetiştirilen tahıl ürünü nedir	tahıl ürünü	ENTITY	PLANT	Buğday		ENTITY
+Çay hangi toprakta daha iyi yetişir	hangi toprakta	ENTITY	OTHERS	Kireçsiz		ENTITY
+Maki ve çalılıkların yaygın olduğu bölgelerde yapılan hayvancılıkta hangi hayvan daha yaygındır	hangi hayvan	ENTITY	OTHERS	Kıl keçisi		ENTITY
+Bozkırların daha yoğun olduğu yörelerde hangi hayvan yetiştiriciliği fazladır	hangi hayvan yetiştiriciliği	ENTITY	OTHERS	Koyun		ENTITY
+Çayırların daha fazla görüldüğü bölgelerde hangi hayvan daha çok yetiştirilir	hangi hayvan	ENTITY	OTHERS	Sığır		ENTITY
+Dut ağaçlarının yaygın olduğu bölgelerde hangi hayvandan daha çok faydalanılır	hangi hayvandan	ENTITY	OTHERS	İpek böceği		ENTITY
+Çam ormanlarının daha fazla olduğu yörelerde görülen hayvancılık çeşidi nedir	hayvancılık çeşidi	ENTITY	OTHERS	Arıcılık		ENTITY
+Seramik porselen çömlek tuğla ve kiremit yapımında ham madde olarak hangi toprak çeşidi kullanılır	hangi toprak çeşidi	ENTITY	OTHERS	Killi toprak		ENTITY
+Türkiyede yaklaşık kaç farklı bitki türü bulunmaktadır	kaç bitki türü	NUMERIC	COUNT	20000		NUMERIC
+Türkiyedeki bitki çeşitlilğinin fazla olmasının en önemli sebebi nedir	sebebi	DESCRIPTION	REASON	İklim		DESCRIPTION
+Sadece türkiyede bulunan ve dünyanın başka hiç bir yerinde görülmeyen bitkilere ne ad verilir	bitkilere ad	DESCRIPTION	DEFINITION	Endemik bitki		DESCRIPTION
+3. ve 4. Jeolojik zamanda oluşmuş günümüzde yetişmesi imkansız bitkilere ne denir	bitkilere denir	DESCRIPTION	DEFINITION	Relikt		DESCRIPTION
+Ülkemizin yüzde kaçı ormanlarla kaplıdır	Ülkemizin yüzde kaçı	NUMERIC	PERCENTAGE	0.28/%28/28%		NUMERIC
+Ağaçlar yapraklarının özelliklerine göre kaça ayrılırlar	Ağaçlar kaça ayrılırlar	NUMERIC	COUNT	2		NUMERIC
+Kızılçamın dünyada en geniş yayılış alanı nerededir	yayılış alanı nerededir	LOCATION	LOCATION	Türkiye		LOCATION
+Sarıçam türkiyede daha çok nerede bulunur	nerede bulunur	LOCATION	REGION.LOCAL	Kuzey anadolu dağları		LOCATION
+Kızılağaç en fazla kaç metre yükseklikte görülür	kaç metre yükseklikte	NUMERIC	SIZE.HEIGHT	1000 metre		NUMERIC
+Ihlamur en fazla kaç metre yükseklikte görülür	kaç metre yükseklikte	NUMERIC	SIZE.HEIGHT	1000 metre		NUMERIC
+Karaçam ortalama hangi yüksekliklerde görülür	hangi yüksekliklerde	NUMERIC	SIZE.HEIGHT	1000-2000 metre		ENTITY
+Göknar ortalama hangi yükseklerde görülür	hangi yükseklikte	NUMERIC	SIZE.HEIGHT	1000-1500 metre		ENTITY
+Maki bitki örtüsünün ortalama boyu ne kadardır	ortalama boyu ne kadardır	NUMERIC	SIZE.HEIGHT	1-3 metre		NUMERIC
+Maki hangi iklime uygun bir bitki örtüsüdür	hangi iklime	ENTITY	OTHERS	Akdeniz		ENTITY
+Karadeniz kıyılarında ormanların tahrip edildiği bölgelerde rastlanan çalılara ne ad verilir	çalılara ad	DESCRIPTION	DEFINITION	Psödomaki		DESCRIPTION
+Kurak bölgelerde ilkbahar yağışıyla yeşeren ve yazın sararan ot topluluklarına ne denir	ot topluluklarına denir	DESCRIPTION	DEFINITION	Bozkır		DESCRIPTION
+Türkiyenin iç kesimlerinde ormanların tahrip edilmesiyle oluşan ve doğal olmayan bozkır alanlarına ne denir	bozkır alanlarına denir	DESCRIPTION	DEFINITION	Antropojen bozkır		DESCRIPTION
+İlkbaharda yeşerip yaz boyu yeşil kalan ve bozkırdan daha gür olan bitki örtüsüne ne denir	bitki örtüsüne denir	DESCRIPTION	DEFINITION	Alpin çayır		DESCRIPTION
+Alpin çayırlarda ne çeşit hayvancılık yapılır	ne çeşit hayvancılık	ENTITY	OTHERS	Büyükbaş		ENTITY
+Akarsuların taşıdıkları malzeme ile kendi önlerini kapatmaları sonucu oluşan göllere ne ad verilir	göllere ad	DESCRIPTION	DEFINITION	Set gölleri		DESCRIPTION
+Toprak çeşitlerinden hangisinin tarımsal verimliliği en fazladır	Toprak çeşitlerinden hangisinin	ENTITY	OTHERS	Alüvyal		ENTITY
+Türkiye ormanlarının yüzde kaçı Karadeniz bölgesinde bulunur	Türkiye ormanlarının yüzde kaçı	NUMERIC	PERCENTAGE	0.25/25%/%25		NUMERIC
+Türkiye ormanlarının yüzde kaçı ege bölgesinde bulunur	Türkiye ormanlarının yüzde kaçı	NUMERIC	PERCENTAGE	0.17		NUMERIC
+Can ve mal kayıplarına neden olan doğa olaylarına ne denir	doğa olaylarına	DESCRIPTION	DEFINITION	Doğal afet		DESCRIPTION
+Doğal afetler oluşum nedenlerine göre kaça ayrılırlar	Doğal afetler kaça ayrılırlar	NUMERIC	COUNT	2		NUMERIC
+Doğal afetler gelişim hızlarına göre kaça ayrılırlar	Doğal afetler kaça ayrılırlar	NUMERIC	COUNT	2		NUMERIC
+Yer kabuğunda meydana gelen ani ve kısa süreli sarsıntılara ne ad verilir	sarsıntılara ad	DESCRIPTION	DEFINITION	Deprem		ABBREVIATION
+Depremler oluşumlarına göre kaça ayrılır	Depremler kaça ayrılır	NUMERIC	COUNT	3		NUMERIC
+Dünyada en fazla deprem hangi deprem kuşağında meydana gelir	hangi deprem kuşağında	ENTITY	OTHERS	Büyük okyanus		ENTITY
+Büyük okyanus deprem kuşağında dünya depremlerinin yüzde kaçı meydana gelir	dünya depremlerinin yüzde kaçı	NUMERIC	PERCENTAGE	0.68/68%/%68		NUMERIC
+Alp-Himalaya kuşağında dünyadaki depremlerin yüzde kaçı meydana gelir	depremlerin yüzde kaçı	NUMERIC	PERCENTAGE	0.25/%25/25%		NUMERIC
+Ülkemizde şu an faal durumda olan kaç organize sanayi vardır	kaç organize sanayi	NUMERIC	COUNT	100 civarı		NUMERIC
+Bolu otoyol tüneli hangi projenin bir parçasıdır	hangi projenin	ENTITY	OTHERS	Bolu Dağı Geçişi Projesi		ENTITY
+Kara Yolları Genel Müdürlüğü ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	1950		TEMPORAL
+KGM neyin kısaltmasıdır	neyin kısaltmasıdır	ABBREVIATION	EXPRESSION	Kara Yolları Genel Müdürlüğü		ABBREVIATION
+Bir limanın iç bölgelerle olan ulaşım bağlantısı özelliğine ne denir	ulaşım bağlantısı özelliğine denir	DESCRIPTION	DEFINITION	Hinterlant		DESCRIPTION
+Hinterlant'ın diğer adı nedir	Hinterlantın adı	ENTITY	OTHERS	Art bölge		ENTITY
+Ülkemizin en işlek limanı hangisidir	Ülkemizin limanı	ENTITY	OTHERS	İstanbul limanı		ENTITY
+BTC nedir	BTC	ABBREVIATION	EXPRESSION	Bakü-Tiflis-Ceyhan Boru Hattı		ENTITY
+Mavi Akım Projesi hangi tarihte tamamlanmıştır	hangi tarihte	TEMPORAL	DATE	2002		TEMPORAL
+Hazar-Türkiye-Avrupa Doğal gaz hattı hangi proje kapsamında ilerlemektedir	hangi proje kapsamında	ENTITY	OTHERS	Nabuco Projesi		ENTITY
+Üretilen mal ve hizmetlerin alınıp satılmasına ne denir	alınıp satılmasına denir	DESCRIPTION	DEFINITION	Ticaret		DESCRIPTION
+Milet Amfi Tiyatrosu hangi ildedir	hangi ildedir	LOCATION	CITY	Aydın		LOCATION
+Milet Amfi Tiyatrosu hangi ilçededir	hangi ilçededir	LOCATION	CITY	Söke		LOCATION
+Efes'i yılda ortalama kaç kişi ziyaret etmektedir	kaç kişi	NUMERIC	SIZE.POPULATION	1.5 Milyon kişi		NUMERIC
+Ülkemizde kaç ilde kaplıca bulunmaktadır	kaç ilde	NUMERIC	COUNT	46		NUMERIC
+Ülkemizdeki 2010 yılında toplam turist sayısı ne kadardır	toplam turist sayısı ne kadardır	NUMERIC	SIZE.POPULATION	28632204		NUMERIC
+Turizm teşvik kanunu ne zaman çıkmıştır	ne zaman çıkmıştır	TEMPORAL	DATE	1982		TEMPORAL
+Türsab nedir	Türsab	ABBREVIATION	EXPRESSION	Türkiye Seyahat Acenteleri Birliği		ENTITY
+Avrupa'da endemik bitki sayısı toplamı ne kadardır	endemik bitki sayısı toplamı ne kadardır	NUMERIC	COUNT	2750		NUMERIC
+Türkiye'de endemik bitki kaç adettir	endemik bitki sayısı kaç adettir	NUMERIC	COUNT	3000		NUMERIC
+Karain mağarası hangi ilin sınırları içerisindedir	hangi ilin	LOCATION	CITY	Antalya		LOCATION
+Yere Batan Sarnıcı kim tarafından yaptırılmıştır	kim tarafından	HUMAN	INDIVIDUAL	I.Jüstinyen		HUMAN
+Yere Batan Sarnıcı hangi tarihler arasında yaptırılmıştır	hangi tarihler arasında	TEMPORAL	DATE	532-537 yılları		TEMPORAL
+Ayasofya kim tarafından camiye dönüştürülmüştür	kim tarafından	HUMAN	INDIVIDUAL	Fatih Sultan Mehmet		HUMAN
+Ayasofya günümüzde ne olarak hizmet vermektedir	ne olarak	DESCRIPTION	REASON	Müze		ENTITY
+TSE ne demektir	TSE	ABBREVIATION	EXPRESSION	Türk Standartları Enstitüsü		ABBREVIATION
+TSE ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	1954		TEMPORAL
+TSE bağımsız bir kamu kuruluşuna ne zaman dönüşmüştür	ne zaman dönüşmüştür	TEMPORAL	DATE	1960		TEMPORAL
+Hızlı Tren projesi kapsamında Ankara-İstanbul arası yolculuk süresinin kaç saat olması beklenmektedir	kaç saat	NUMERIC	COUNT	3 Saat		NUMERIC
+2010 yılı verilerine göre ülkemizdeki otoyol uzunluğu ne kadardır	otoyol uzunluğu ne kadardır	NUMERIC	SIZE.LENGTH	2080 km		NUMERIC
+Türkiye'de ilk şeker fabrikası hangi tarihte kurulmuştur	hangi tarihte	TEMPORAL	DATE	1926		TEMPORAL
+Ülkemizde hangi bölge dışında bütün bölgelerde şeker fabrikası vardır	hangi bölge dışında	LOCATION	REGION.LOCAL	Güneydoğu Anadolu		LOCATION
+Türkiye'de birinci beş yıllık sanayi alanı hangi tarihte yürürlüğe konmuştur	hangi tarihte	TEMPORAL	DATE	1933		TEMPORAL
+Sanayi’nin diğer adı nedir	Sanayinin adı	ENTITY	OTHERS	Endüstri		ENTITY
+Oltu taşı hangi ilimizde çıkarılmaktadır	hangi ilimizde	LOCATION	CITY	Erzurum		LOCATION
+Kütahya’nın hangi ilçesinde feldispat yatakları mevcuttur	Kütahyanın hangi ilçesinde	LOCATION	CITY	Simav		LOCATION
+Hızla akan suyun elektrik üreten türbinleri çalıştırması ile oluşan enerji ne enerjisidir	ne enerjisidir	DESCRIPTION	DEFINITION	Hidroelektrik enerjisi		ENTITY
+İzmir İktisat kongresi kimin teşviki ile olmuştur	kimin teşviki ile	HUMAN	INDIVIDUAL	Mustafa Kemal Atatürk		HUMAN
+Türkiye'deki kültür balıkçılığı hangi iki balık üzerine yoğunlaşmıştır	hangi iki balık	ENTITY	OTHERS	Alabalık sazan		ENTITY
+Türkiye Sanayi ve Maden Bankası hangi tarihte kurulmuştur	hangi tarihte	TEMPORAL	DATE	1923		TEMPORAL
+Tiftik keçisi ne olarak da bilinir	ne olarak da	ENTITY	OTHERS	Ankara Keçisi		ENTITY
+Koyun ve keçi gibi hayvanların genel adı nedir	hayvanların genel adı	ENTITY	OTHERS	Küçükbaş hayvan		ENTITY
+İpek böceği yetiştirme ve ondan koza elde etme işine ne ad verilir	işine ad	DESCRIPTION	DEFINITION	İpek böcekçiliği		DESCRIPTION
+İpek böcekçiliği en çok hangi bölgemizde yapılmaktadır	hangi bölgemizde	LOCATION	REGION.LOCAL	Marmara		LOCATION
+İpek böceği daha çok hangi ağacın yaprakları ile beslenir	hangi ağacın	ENTITY	PLANT	Dut ağacı		ENTITY
+Anzer balı hangi ilimize özgüdür	hangi ilimize	LOCATION	CITY	Rize		LOCATION
+Denizlerden üretilen balık üretiminin yüzde kaçı Karadeniz bölgesinden karşılanır	balık üretiminin yüzde kaçı	NUMERIC	PERCENTAGE	0.67/67%/%67		NUMERIC
+Tek sıvı maden hangisidir	Tek sıvı maden	ENTITY	SUBSTANCE	Civa		ENTITY
+Türkiye hangi deprem kuşağında yer almaktadır	hangi deprem kuşağında	ENTITY	OTHERS	Alp himalaya		ENTITY
+Türkiyede kaç tane deprem bölgesi vardır	kaç tane deprem bölgesi	NUMERIC	COUNT	3		NUMERIC
+Toprağın belirli bir süre için tamamen veya kısmen aniden su altında kalmasına ne denir	su altında kalmasına denir	DESCRIPTION	DEFINITION	Sel		DESCRIPTION
+Sel sularının akarsu yatağının dışına çıkarak tarım alanlarına taşmasına ne denir	taşmasına denir	DESCRIPTION	DEFINITION	Taşkın		DESCRIPTION
+Dünyada sel felaketleri en çok nerede yaşanır	nerede yaşanır	LOCATION	LOCATION	Güney asya		LOCATION
+Bangladeşte dünyada görülen sel felaketlerinin yüzde kaçı meydana gelir	sel felaketlerinin yüzde kaçı	NUMERIC	PERCENTAGE	0.65/%65/65%		NUMERIC
+Türkiyede yılda ortalama kaç adet sel felaketi olmaktadır	kaç adet sel felaketi	NUMERIC	AVERAGE	23		NUMERIC
+Uzun bir zaman içinde yağışın belirgin bir şekilde normal değerlerin altına düşmesine ne denir	düşmesine denir	DESCRIPTION	DEFINITION	Kuraklık		DESCRIPTION
+Toprak yüzeyinin akarsular sel suları ve rüzgar gibi dış kuvvetler tarafından aşındırılarak taşınmasına ne denir	taşınmasına denir	DESCRIPTION	DEFINITION	Erozyon		DESCRIPTION
+Yamaç boyunca taş kum ve toprak tabakalarının yer değiştirmesi olayına ne denir	yer değiştirmesi olayına denir	DESCRIPTION	DEFINITION	Kütle hareketi		DESCRIPTION
+Eğimli yamaçlarda fazla yağışlarla doygun hale gelen toprağın adeta bir hamur gibi yamaç boyunca kaymasına ne denir	kaymasına denir	DESCRIPTION	DEFINITION	Heyelan		DESCRIPTION
+Toprak kaymalarını harekete geçiren en önemli faktör nedir	faktör	DESCRIPTION	REASON	Yer çekimi		DESCRIPTION
+Karadeniz kıyılarının yüzde kaçı heyelan riski taşır	Karadeniz kıyılarının yüzde kaçı	NUMERIC	PERCENTAGE	0.89/%89/89%		NUMERIC
+Türkiyede heyelan olayları en çok hangi mevsimde olur	hangi mevsimde	TEMPORAL	SEASON	İlkbahar		TEMPORAL
+Kar örtüsünün hızlı bir şekilde eğim yönünde hareket etmesine ne denir	hareket etmesine denir	DESCRIPTION	DEFINITION	Çığ		DESCRIPTION
+Rüzgarın hızı kaç kilometrenin üzerine çıkarsa fırtına denir	kaç kilometrenin üzerine	NUMERIC	SPEED	63 km		NUMERIC
+Kasırgaların saattaki ortalama hızları kaçtır	hızları kaçtır	NUMERIC	SPEED	120 km		NUMERIC
+Hızlı bir şekilde dönen hava kolonlarınının buluduğu fırtına sistemine ne ad verilir	fırtına sistemine ad	ENTITY	OTHERS	Hortum		DESCRIPTION
+Yeryüzünde en şiddetli kasırgalar hangi kuşakta görülür	hangi kuşakta	ENTITY	OTHERS	Tropikal		ENTITY
+Yeryüzüne yaklaşık olarak kaç adet aktif volkan vardır	kaç adet aktif volkan	NUMERIC	COUNT	500		NUMERIC
+Dünyadaki aktif volkanlar en fazla hangi bölgede konumlanmıştır	hangi bölgede	LOCATION	REGION	Büyük okyanus çevresi		LOCATION
+Depremler nedeniyle okyanus kıyılarında oluşan dev dalgalara ne ad verilir	dev dalgalara ad	DESCRIPTION	DEFINITION	Tsunami		DESCRIPTION
+Türkiyede en fazla can kaybına yol açan doğal afetin adı nedir	doğal afetin adı	ENTITY	OTHERS	Deprem		ENTITY
+Kar yağışlarının fazla arazinin engebeli olduğu bölgelerde hangi doğal afet daha fazla görülür	hangi doğal afet	ENTITY	OTHERS	Çığ		ENTITY
+Türkiyenin en doğu ile en batı ucu arasınaki zaman farkı kaçtır	zaman farkı kaçtır	NUMERIC	COUNT	76 dk		NUMERIC
+Türkiyenin ortalama yüz ölçümü ne kadardır	yüz ölçümü ne kadardır	NUMERIC	SIZE.AREA	814.000 km2		NUMERIC
+Ağrı dağının yüksekliği yaklaşık kaç metredir	kaç metredir	NUMERIC	SIZE.HEIGHT	5100 m		NUMERIC
+Kızılırmak nehrinin uzunluğu kaç metredir	kaç metredir	NUMERIC	SIZE.LENGTH	1350 m		NUMERIC
+Türkiyenin kara sınırlarının toplam uzunluğu ne kadardır	toplam uzunluğu ne kadardır	NUMERIC	SIZE.LENGTH	2753 km		NUMERIC
+Türkiyenin suriye ile olan sınırının uzunluğu ne kadardır	uzunluğu ne kadardır	NUMERIC	SIZE.LENGTH	877 km		NUMERIC
+Türkiyenin iran ile olan sınırının uzunluğu ne kadardır	uzunluğu ne kadardır	NUMERIC	SIZE.LENGTH	454 km		NUMERIC
+Türkiyenin Irak ile olan sınırının uzunluğu kaç kilometredir	kaç kilometredir	NUMERIC	SIZE.LENGTH	331 km		NUMERIC
+Türkiyenin Ermenistan ile olan sınırının uzunluğu kaç kilometredir	kaç kilometredir	NUMERIC	SIZE.LENGTH	316 km		NUMERIC
+Türkiyenin Yunanistan ile olan sınırının uzunluğu kaç kilometredir	kaç kilometredir	NUMERIC	SIZE.LENGTH	212 km		NUMERIC
+Türkiyenin en büyük adası hangisidir	adası	LOCATION	CITY	Gökçeada		ENTITY
+Gökçeadanın yüz ölçümü kaç kilometre karedir	kaç kilometre karedir	NUMERIC	SIZE.AREA	279 km2		NUMERIC
+Türkiyenin en büyük baraj gölünün adı nedir	baraj gölünün adı	ENTITY	OTHERS	Atatürk		ENTITY
+Atatürk baraj gölünün büyüklüğü ne kadardır	büyüklüğü ne kadardır	NUMERIC	SIZE.AREA	817 km2		NUMERIC
+Türkiyenin en doğu ucu ile en batı ucu arasındaki uzaklık ne kadardır	uzaklık ne kadardır	NUMERIC	SIZE.LENGTH	1565 km		NUMERIC
+Türkiyenin yüzölçümü olarak en büyük bölgesi hangisidir	bölgesi	LOCATION	REGION.LOCAL	Doğu anadolu bölgesi		LOCATION
+Doğu anadolu bölgesinin yüz ölçümü yaklaşık ne kadardır	yüz ölçümü yaklaşık ne kadardır	NUMERIC	SIZE.AREA	163.000 km2		NUMERIC
+Doğu anadolu bölgesinde kaç bölüm vardır	kaç bölüm	NUMERIC	COUNT	4		NUMERIC
+Doğu anadolu bölgesinin nüfusu ortalama ne kadardır	nüfusu ne kadardır	NUMERIC	SIZE.POPULATION	6147000		NUMERIC
+Fırat sularını nereye döker	nereye döker	LOCATION	LOCATION	Basra körfezi		LOCATION
+Dicle sularını nereye döker	nereye döker	LOCATION	LOCATION	Basra körfezi		LOCATION
+Kura nehri sularını nereye döker	nereye döker	LOCATION	LOCATION	Hazar denizi		LOCATION
+Doğu anadolu bölgesinde kaç il vardır	kaç il	NUMERIC	COUNT	14		NUMERIC
+Doğu anadolu bölgesinin en kalabalık nüfusa sahip olan ili hangisidir	ili	LOCATION	CITY	Erzurum		ENTITY
+Erzurumun nüfusu yaklaşık ne kadardır	nüfusu ne kadardır	NUMERIC	SIZE.POPULATION	780000		NUMERIC
+Türkiyenin nüfus yoğunluğu en az olan bölgesi hangisidir	bölgesi	LOCATION	REGION.LOCAL	Doğu anadolu		LOCATION
+Birleşmiş milletler hangi tarihte kurulmuştur	hangi tarihte	TEMPORAL	DATE	29 ekim 1945		TEMPORAL
+Birleşmiş milletler teşkilatının kaç üyesi bulunmaktadır	kaç üyesi	NUMERIC	COUNT	179		NUMERIC
+Birleşmiş milletler bünyesinde tartışma ve karar organı olan yapının adı nedir	yapının adı	DESCRIPTION	DEFINITION	Genel kurul		ENTITY
+Birleşmiş milletler genel kurulu yılda kaç kez olağan toplanır	kaç kez	NUMERIC	COUNT	1		NUMERIC
+Birleşmiş milletler güvenlik konseyi kaç üyeden oluşur	kaç üyeden	NUMERIC	COUNT	15		NUMERIC
+Birleşmiş milletler güvenlik konseyi ne sıklıkta toplanır	ne sıklıkta	NUMERIC	PERCENTAGE	Ayda bir		ENTITY
+Birleşmiş milletler uluslararası adalet divanı kaç üyeden oluşmaktadır	kaç üyeden	NUMERIC	COUNT	15		NUMERIC
+Birleşmiş milletler uluslararası adalet divanının merkezi hangi ülkededir	hangi ülkededir	LOCATION	COUNTRY	Hollanda Lahey		LOCATION
+Birleşmiş milletler bünyesinde sömürge topraklarıyla ilgilenen alt kurulun adı nedir	alt kurulun adı	DESCRIPTION	DESCRIPTION	Vesayet konseyi		ENTITY
+Birleşmiş milletler ekonomik ve sosyal konseyi kaç üyeden oluşur	kaç üyeden	NUMERIC	COUNT	54		NUMERIC
+Birleşmiş milletler teşkilatının en üst organı olan yapının adı nedir	yapının adı	DESCRIPTION	DEFINITION	Genel sekreterlik		ENTITY
+UNESCO'nun türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	BM bilim ve kültür örgütü		ABBREVIATION
+FAO'nun türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	BM gıda ve tarım örgütü		ABBREVIATION
+WHO'nun türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Dünya sağlık örgütü		ABBREVIATION
+ILO'nun türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Uluslararası çalışma örgütü		ABBREVIATION
+IMF'nin türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Uluslararası para fonu		ABBREVIATION
+OPEC'in türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Petrol ihraç eden ülkeler örgütü		ABBREVIATION
+NATO'nun türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Kuzey atlantik antlaşması örgütü		ABBREVIATION
+NATO'nun kurucu üye sayısı kaçtır	kurucu üye sayısı kaçtır	NUMERIC	COUNT	12		NUMERIC
+NATO kaç yılında kurulmuştur	kaç yılında kurulmuştur	TEMPORAL	DATE	1949		TEMPORAL
+NATO'nun en büyük sivil organı nedir	sivil organı	DESCRIPTION	DEFINITION	Kuzey atlantik konseyi		ENTITY
+NATO'nun en yüksek askeri organı nedir	askeri organı	DESCRIPTION	DEFINITION	Askeri komite		ENTITY
+OECD'nin türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Ekonomik kalkınma ve iş birliği örgütü		ABBREVIATION
+OECD ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	1948		TEMPORAL
+Türkiye OECD'ye ne zaman üye olmuştur	ne zaman üye olmuştur	TEMPORAL	DATE	1948		TEMPORAL
+OPEC ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	1960		TEMPORAL
+IMF ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	1944		TEMPORAL
+IMF'nin kaç tane kurucu üyesi vardır	kaç tane kurucu üyesi	NUMERIC	COUNT	44		NUMERIC
+IMF'de en fazla oy hakkı olan ülke hangisidir	ülke	LOCATION	COUNTRY	Amerika birleşik devletleri		LOCATION
+Dünya bankası kaç yılında kurulmuştur	kaç yılında	TEMPORAL	DATE	1945		TEMPORAL
+G-8 ülkeleri hangi yıldan beri faaliyet göstermektedirler	hangi yıldan beri	TEMPORAL	DATE	1975		TEMPORAL
+G-20 ülkeleri ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	25 eylül 1999		TEMPORAL
+Greenpeace örgütü ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	1971		TEMPORAL
+Greenpeace türkiyede ilk ofisini ne zaman açmıştır	ne zaman açmıştır	TEMPORAL	DATE	1991		TEMPORAL
+Avrupa birliği ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	25 mart 1957		TEMPORAL
+Türkiye hangi yıl avrupa birliğine aday ülke olarak açıklanmıştır	hangi yıl	TEMPORAL	DATE	1999		TEMPORAL
+Türkiye AB müzakerelerine ne zaman başlamıştır	ne zaman başlamıştır	TEMPORAL	DATE	3 ekim 2005		TEMPORAL
+KEİ'nin açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Karadeniz ekonomik işbirliği teşkilatı		ABBREVIATION
+KEİ ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	25 haziran 1992		TEMPORAL
+NAFTA'nın türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Kuzey amerika  serbest ticaret birliği		ABBREVIATION
+AGİT'in açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Avrupa güvenlik ve işbirliği teşkilatı		ABBREVIATION
+AGİT hangi yıl çalışmalarına başlamıştır	hangi yıl	TEMPORAL	DATE	1973		TEMPORAL
+Türkiye AGİT'e kaç yılında üye olmuştur	kaç yılında	TEMPORAL	DATE	1999		TEMPORAL
+Dünydaki enerji kaynaklarının yüzde kaçını fosil yakıtlar oluştumaktadır	enerji kaynaklarının yüzde kaçını	NUMERIC	PERCENTAGE	80%/%80		NUMERIC
+Dünya üzerinde kaç adet çalışır durumda nükleer santral bulunmaktadır	kaç adet nükleer santral	NUMERIC	COUNT	442		NUMERIC
+Dünya kullanılan enerji kaynaklarının yüzde kaçı yenilenebilir kaynaklardır	enerji kaynaklarının yüzde kaçı	NUMERIC	PERCENTAGE	14%/%14		NUMERIC
+Biyolojik her türlü atıktan elde edilebilecek olan enerjiye ne isim verilir	enerjiye isim	DESCRIPTION	DEFINITION	Biyoenerji		DESCRIPTION
+Dünya üzerinde ilk rüzgar türbini ne zaman kullanılmıştır	ne zaman kullanılmıştır	TEMPORAL	DATE	1890		TEMPORAL
+Dünya üzerinde üretilen elektriğin yüzde kaçı hidroelektrik santrallerden üretilmektedir	elektriğin yüzde kaçı	NUMERIC	PERCENTAGE	17%		NUMERIC
+Çin toplam dünya kömür üretiminin yüzde kaçını gerçekleştirmektedir	kömür üretiminin yüzde kaçını	NUMERIC	PERCENTAGE	30%		NUMERIC
+Rüzgar enerjisi hangi ülke tarafından keşfedilmiştir	hangi ülke	LOCATION	COUNTRY	Danimarka		LOCATION
+Yerin derinliklerindeki sıcaklıkla ilgili olan ve bu güçle ısınarak oluşan enerjiye ne denir	enerjiye denir	DESCRIPTION	DEFINITION	Jeotermal enerji		DESCRIPTION
+Dalgaların kabarma ve çekilme hareketlerinden yararlanılarak üretilen enerjiye ne denir	enerjiye denir	DESCRIPTION	DEFINITION	Dalga enerjisi		DESCRIPTION
+Dünyanın kıyı şeritlerindeki dalga enerjisi potansiyeli ortalama ne kadardır	dalga enerjisi potansiyeli ne kadardır	NUMERIC	AVERAGE	4milyon kwh		NUMERIC
+Gelgitin oluşturduğu okyanus veya deniz suyunun yükselme ve geri çekilme hareketlerinin kıyılara kurulan türbinler sayesinde elektrik enerjisine çevrilmesine ne denir	elektrik enerjisine çevrilmesine denir	DESCRIPTION	DEFINITION	Gelgit enerjisi		DESCRIPTION
+Su gücünden elde edilen elektrik enerjisine ne denir	elektrik enerjisine denir	DESCRIPTION	DEFINITION	Hidroelektrik		DESCRIPTION
+Dünya üzerinde üretilen enerjinin yüzde kaçı hidroelektrik enerjisidir	enerjinin yüzde kaçı	NUMERIC	PERCENTAGE	17%		NUMERIC
+Ormanlar günümüzde yeryüzünün yüzde kaçını kaplamaktadır	yeryüzünün yüzde kaçını	NUMERIC	PERCENTAGE	25%		NUMERIC
+Amazon ormanlarının yayılım alanı ne kadardır	yayılım alanı ne kadardır	NUMERIC	SIZE.AREA	4.2 milyon km2		NUMERIC
+Petrol ürünlerinin kullanılması sonucu havaya en çok yayılan gazın adı nedir	gazın adı	ENTITY	OTHERS	Karbondioksit		ENTITY
+Çernobil nükleer kazası ne zaman gerçekleşmiştir	ne zaman gerçekleşmiştir	TEMPORAL	DATE	1986		TEMPORAL
+Batmanın günümüzde nüfusu kaçtır	Batmanın nüfusu kaçtır	NUMERIC	SIZE.POPULATION	534000		NUMERIC
+Deprem tsunami gibi doğal afetleri önceden haber veren sistemlere ne denir	sistemlere denir	DESCRIPTION	DEFINITION	Erken uyarı sistemleri		DESCRIPTION
+AKOM'un açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Afet koordinasyon merkezi		ABBREVIATION
+LIFE'nin türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Çevre projelerini destekleme programı		ABBREVIATION
+Ramsar sözleşmesi ilk ne zaman imzalanmıştır	ne zaman imzalanmıştır	TEMPORAL	DATE	1971		TEMPORAL
+Türkiye ramsar sözleşmesini ne zaman imzalamıştır	ne zaman imzalanmıştır	TEMPORAL	DATE	1993		TEMPORAL
+Milli parklar kanunu kaç yılında çıkarılmıştır	kaç yılında	TEMPORAL	DATE	1983		TEMPORAL
+Türkiyede kaç adet milli park vardır	kaç adet milli park	NUMERIC	COUNT	33		NUMERIC
+Türkiyede kaç adet koruma alanı vardır	kaç adet koruma alanı	NUMERIC	COUNT	4		NUMERIC
+Türkiyede kaç adet tabiat anıtı bulunmaktadır	kaç adet tabiat anıtı	NUMERIC	COUNT	58		NUMERIC
+Türkiyede kaç adet tabiatı koruma alanı vardır	kaç adet tabiatı koruma alanı	NUMERIC	COUNT	35		NUMERIC
+ÇED'in açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Çevresel etki değerlendirmesi		ABBREVIATION
+ÇED türkiyede ne zamandan beri uygulanmaktadır	ne zamandan beri	TEMPORAL	DATE	7 şubat 1993		TEMPORAL
+EEA'nın türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Avrupa çevre ajansı		ABBREVIATION
+EEA kaç yılında kurulmuştur	kaç yılında	TEMPORAL	DATE	1990		TEMPORAL
+EEA nın kaç üyesi vardır	kaç üyesi	NUMERIC	COUNT	32		NUMERIC
+Türkiye EEA'ya kaç yılında üye olmuştur	kaç yılında	TEMPORAL	DATE	2003		TEMPORAL
+UNEP'in türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Birleşmiş milletler çevre programı		ABBREVIATION
+UNEP ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	1972		TEMPORAL
+UNEP'in merkezi hangi ülkededir	hangi ülkededir	LOCATION	COUNTRY	Kenya		LOCATION
+WWF'nin türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Dünya doğal yaşamı koruma vakfı		ABBREVIATION
+WWF ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	1961		TEMPORAL
+WWF nin kaç ülkede şubesi vardır	keç ülkede	NUMERIC	COUNT	50		NUMERIC
+WCS'nin türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Doğal hayatı koruma derneği		ABBREVIATION
+FFI'nin türkçe açılımı nedir	açılımı	ABBREVIATION	EXPRESSION	Uluslararası fauna ve flora		ABBREVIATION
+FFI ne zaman kurulmuştur	ne zaman kurulmuştur	TEMPORAL	DATE	1903		TEMPORAL
+Biyolojik çeşitlilik sözleşmesini türkiye kaç yılında imzalamıştır	kaç yılında	TEMPORAL	DATE	1992		TEMPORAL
+Türkiyede kullanılabilir suyun yüzde kaçı içilebilir su olarak kullanılmaktadır	suyun yüzde kaçı	NUMERIC	PERCENTAGE	16%		NUMERIC
+Biyolojik çeşitlilik sözleşmesi ilk nerede imzalanmıştır	nerede imzalanmıştır	LOCATION	CITY	Rio de janerio		LOCATION
+Konya kapalı havzasının akılcı kullanımına doğru projesi hangi yıl başlamıştır	hangi yıl	TEMPORAL	DATE	2003		TEMPORAL
+Estetik kültürel bilimsel ekonomik unsurlarla zenginleşen doğal güzelliklerin ve biyolojik çeşitliliğin oluşturduğu değerlere ne denir	değerlere denir	DESCRIPTION	DEFINITION	Doğal miras		DESCRIPTION
+Galapagos takım adalarının toplam yüzölçümü yaklaşık ne kadardır	yüzölçümü ne kadardır	NUMERIC	SIZE.AREA	50000 km2		NUMERIC
+İgaçu şelalerinin yüksekliği ne kadardır	yüksekliği ne kadardır	NUMERIC	SIZE.LENGTH	80 m		NUMERIC
+İgaçu çağlayanları hangi yıl dünya mirası kabul edilmiştir	hangi yıl	TEMPORAL	DATE	1984		TEMPORAL
+Mercanların yığılmasıyla ortaya çıkan kaya zincirlerine ne ad verilir	kaya zincirlerine ad	ENTITY	OTHERS	Resif		DESCRIPTION
+Avustralya mercan resiflerinin uzunluğu ne kadardır	uzunluğu ne kadardır	NUMERIC	SIZE.LENGTH	2000km		NUMERIC
+Nil nehri üzerine kurulmuş en büyük barajın adı nedir	barajın adı	ENTITY	OTHERS	Aswan		ENTITY
+Filipinlerin başkenti neresidir	Filipinlerin başkenti	LOCATION	CAPITAL	Manila		LOCATION
+Genellikle ekinler biçildikten sonra buğday ve diğer tahılların tarlada kalan sap kısımlarına ne denir	sap kısımlarına denir	DESCRIPTION	DEFINITION	Anız		DESCRIPTION
+Türkiyenin en kalabalık şehrinin adı nedir	şehrinin adı	LOCATION	CITY	İstanbul		LOCATION
+İstanbul'un nüfusu yaklaşık kaçtır	nüfusu kaçtır	NUMERIC	SIZE.POPULATION	13700000		NUMERIC
+Türkiyenin ikinci büyük şehri nedir	şehri	LOCATION	CITY	Ankara		LOCATION
+Ankaranın yaklaşık nüfusu kaçtır	nüfusu kaçtır	NUMERIC	SIZE.POPULATION	4600000		NUMERIC
+Türkiyenin üçüncü büyük şehri hangisidir	şehri	LOCATION	CITY	İzmir		LOCATION
+İzmirin nüfusu yaklaşık kaçtır	nüfusu kaçtır	NUMERIC	SIZE.POPULATION	3400000		NUMERIC
+Bursanın nüfusu yaklaşık ne kadardır	nüfusu ne kadardır	NUMERIC	SIZE.POPULATION	2000000		NUMERIC
+Türkiyenin en büyük yüz ölçümüne sahip ilinin adı nedir	ilinin adı	LOCATION	CITY	Konya		LOCATION
+Konyanın yüzölçümü yaklaşık ne kadardır	yüzölçümü ne kadardır	NUMERIC	SIZE.AREA	41000 km2		NUMERIC
+Konyanın nüfusu yaklaşık kaçtır	nüfusu kaçtır	NUMERIC	SIZE.POPULATION	2000000		NUMERIC
+Ardahan hangi yıl il yapılmıştır	hangi yıl	TEMPORAL	DATE	1924		TEMPORAL
+Artvin hangi yıl il yapılmıştır	hangi yıl	TEMPORAL	DATE	1924		TEMPORAL
+Kars hangi yıl il yapılmıştır	hangi yıl	TEMPORAL	DATE	1924		TEMPORAL
+Doğubeyazıt hangi yıl ağrıya bağlanmıştır	hangi yıl	TEMPORAL	DATE	1927		TEMPORAL
+Tuncelinin önceki adı nedir	Tuncelinin adı	ENTITY	OTHERS	Dersim		ENTITY
+Hatay hangi yıl türkiyeye bağlandı	hangi yıl	TEMPORAL	DATE	1939		TEMPORAL
+Uşak hangi yıl il haline getirildi	hangi yıl	TEMPORAL	DATE	1953		TEMPORAL
+Osmaniye hangi yıl il olarak kabul edildi	hangi yıl	TEMPORAL	DATE	1996		TEMPORAL
+En son il haline getirilen ilçe hangisidir	ilçe	LOCATION	CITY	Düzce		ENTITY
+Düzce hangi yıl il olarak kabul edildi	hangi yıl	TEMPORAL	DATE	1999		TEMPORAL
+Türkiyenin en az nüfusa sahip ilinin adı nedir	ilinin adı	LOCATION	CITY	Bayburt		LOCATION
+Adananın kaç ilçesi vardır	kaç ilçesi	NUMERIC	COUNT	15		NUMERIC
+Adana sınırları içinde bulunan dağ geçidinin adı nedir	dağ geçidinin adı	ENTITY	OTHERS	Gülek		ENTITY
+Türk coğrafyasının en doğusundaki ülkenin adı nedir	ülkenin adı	LOCATION	COUNTRY	Moğolistan		ENTITY
+Türk coğrafyasının en batısında hangi ülke yer alır	hangi ülke	LOCATION	COUNTRY	Kosova		LOCATION
+Azerbaycanın kuruluş yılı nedir	Azerbaycanın kuruluş yılı	TEMPORAL	DATE	1991		TEMPORAL
+Kazakistanın kuruluş yılı nedir	Kazakistanın kuruşuş yılı	TEMPORAL	DATE	1991		TEMPORAL
+Özbekistanın kuruluş yılı nedir	Özbekistanın kuruluş yılı	TEMPORAL	DATE	1991		TEMPORAL
+Türkmeninstanın kuruluş yılı nedir	Türkmenistanın kuruluş yılı	TEMPORAL	DATE	1991		TEMPORAL
+Dünyanın yaşı yaklaşık kaçtır	Dünyanın yaşı kaçtır	NUMERIC	COUNT	4.5 milyar		NUMERIC
+Sudaki tek hücreli canlıların ortaya çıkışı hangi jeolojik zamana rastlar	hangi jeolojik zamana	TEMPORAL	ERA	İlkel zaman		TEMPORAL
+Kömür yatakları hangi jeolojik zamanda oluşmuştur	hangi jeolojik zamanda	TEMPORAL	ERA	Paleozoik		TEMPORAL
+Deniz seviyesinin altında kıyı çizgisinden 200 metre derine kadar inen bölüme ne denir	bölüme denir	DESCRIPTION	DEFINITION	Kıta sahanlığı		DESCRIPTION
+Kıta sahanlığı ile derin deniz platformunu birbirine bağlayan bölüme ne denir	bölüme denir	DESCRIPTION	DEFINITION	Kıta yamacı		DESCRIPTION
+Dünyadaki denizlerin ortalama derinliği ne kadardır	ortalama derinliği ne kadardır	NUMERIC	SIZE.DEPTH	4000 metre		NUMERIC
+Mariana deniz çukuru kaç kilometre derinliktedir	kaç kilometre	NUMERIC	SIZE.DEPTH	11		NUMERIC
+Buzulların taşıyıp biriktirdiği materyallerin buzulun alt kısmındaki erimeler sonucu meydana gelen dereler tarafından işlenmesiyle oluşan birikintilere ne denir	birikintilere denir	DESCRIPTION	DEFINITION	Drumlin		DESCRIPTION
+Geniş yerkabuğu parçalarının yükselmesi ya da çökmesi şeklindeki yer hareketlerine ne denir	yer hareketlerine denir	DESCRIPTION	DEFINITION	Epirojenez		DESCRIPTION
+Deniz gerilemesine ne denir	Deniz gerilemesine denir	DESCRIPTION	DEFINITION	Regrasyon		DESCRIPTION
+Katı haldeki yer kabuğunun sıvı haldeki manto üzerinde batmadan kalabilmesine ne denir	batmadan kalabilmesine	DESCRIPTION	DEFINITION	İzostatik denge		DESCRIPTION
+Türkiyede kaç tane büyük fay hattı bulunur	kaç tane büyük fay hattı	NUMERIC	COUNT	3		NUMERIC
+Yerin derinliklerinde bulunan magmanın yerkabuğunun zayıf kısımlarından yeryüzüne çıkmasına ne denir	çıkmasına denir	DESCRIPTION	DEFINITION	Volkanizma		DESCRIPTION
+Katı sıvı ya da gaz halindeki maddelerin yeryüzüne çıktığı yere ne denir	yere denir	DESCRIPTION	DEFINITION	Yanardağ		DESCRIPTION
+Volkanlardan çıkan akışkan maddeye ne ad verilir	akışkan maddeye ad	DESCRIPTION	DEFINITION	Lav		DESCRIPTION
+Lavların yeryüzüne çıkmak için izledikleri yola ne denir	yola denir	DESCRIPTION	DEFINITION	Volkan bacası		DESCRIPTION
+Yüzeye çıkan lav ve tüfün oluşturduğu yer şekline ne denir	yer şeklinde denir	DESCRIPTION	DEFINITION	Volkan konisi		DESCRIPTION
+Volkan konisinin tepe kısmındaki çukurluğa ne denir	çukurluğa denir	DESCRIPTION	DEFINITION	Krater		DESCRIPTION
+Kraterlerin patlama ya da çökmelerle genişlemiş şekillerine ne denir	Kraterlerin şekillerine denir	DESCRIPTION	DEFINITION	Kaldera		DESCRIPTION
+Volkanik püskürtmeler sırasında görülen etki alanları dar olan depremlere ne denir	depremlere denir	DESCRIPTION	DEFINITION	Volkanik depremler		DESCRIPTION
+Yer kabuğunun derinliklerinde basınç ve gerilimler sonucu katmanların yer değiştirme oynama ve kırılma gibi hareketlerinin ortaya çıkardığı sarsıntılara ne denir	sarsıntılara denir	DESCRIPTION	DEFINITION	Tektonik depremler		DESCRIPTION
