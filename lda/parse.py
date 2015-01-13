@@ -213,7 +213,7 @@ def write_questions_raw(filename):
                 break
             row = line.split("\t")
             answer = row[4].strip()
-            if answer is not '' and (len(answer.split(" ")) == 1 and not contains_digits(answer) ):
+            if answer is not u'' and (len(answer.split(" ")) == 1 and not contains_digits(answer) ):
                 #print("%d: %s \t %s" %(i,row[4],row[0]))
                 questions_raw.insert(i,row[0].lower())
                 answers_raw.insert(i,answer.lower())
