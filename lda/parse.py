@@ -53,6 +53,20 @@ def write_part_as_ldac(doc_file, ldac_file): # ("allDocsTogether_2","../data/cor
     to_ldac(voc3,ldac,filename = doc_file)
     write_ldac_as_list_to_file(ldac_file, ldac)
 
+def build_vocabulary_from_sent_file(filename,outname,voc_d = {}):
+    with codecs.open(filename,"rU","utf-8") as wikifile:
+    #    for _ in range(0,COUNTER):
+        while 1:
+            line = wikifile.readline()
+            if not line:
+                break
+            words = word_tokenize(line)
+            for word in words:
+                add_to_vocabulary(line,voc_as_dict=voc_d)
+    if outname:
+        write_voc_as_dict_to_file(outname,voc_d)
+    return voc_d
+
 def build_vocabulary():
     wikifile = codecs.open("allDocsTogether","rU","utf-8")
     #    for _ in range(0,COUNTER):
