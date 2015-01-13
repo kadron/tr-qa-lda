@@ -137,7 +137,7 @@ def main():
 	print('Answers for each question.')
 	for i,answers in enumerate(answer_list):
 		answers
-		f.write('Question {}: {} {} {} {} {}'.format(i,answers[0],answers[1],answers[2],answers[3],answers[4]))
+		f.write('Question {}: {} {} {} {} {}\n'.format(i,answers[0],answers[1],answers[2],answers[3],answers[4]))
 	f.close()
 	print('Results written !')
 
