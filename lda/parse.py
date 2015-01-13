@@ -138,6 +138,19 @@ def add_to_vocabulary(word,voc_as_dict=VOCABULARY):
         if VERBOSE:
             print("%s added" %word)
 
+def sentence_file_to_ldac(filename,outname,voc):
+    with codecs.open(filename,"rU","utf-8") as wikifile:
+        with codecs.open(outname,"wb","utf-8") as ldac_file:
+            while 1:
+                line = wikifile.readline()
+                if not line:
+                    break
+                words = word_tokenize(line)
+                line_ldac = from_sen_to_ldac(words,voc)
+                if line_ldac:
+                    ldac_file.write(line_ldac)
+                    ldac_file.write("\n")
+
 def to_ldac(voc,ldac,filename="allDocsTogether"): #allDocsTogether_last_80000
     with codecs.open(filename,"rU","utf-8") as wikifile:
         while 1:
@@ -163,7 +176,9 @@ def from_par_to_ldac(text,voc,ldac):
 def from_sen_to_ldac(words,voc):
     temp = {}
     for word in words:
-        word = word.lower()
+        word = word.strip().lower()
+        if word is u"":
+            continue
         if not word.isalnum():
             try:
                 word = regexp_tokenizer.tokenize(word)[0]
@@ -222,7 +237,7 @@ def write_questions(filename,voc,ldac_q): # ../data/questions.ldac
                 break
             question = line.split("\t")[1]
             words = word_tokenize(question)
-            from_sen_to_ldac(words,voc,ldac_q)
+            from_sen_to_ldac(words,voc)
             questions.append(question)
     with codecs.open(filename,'w+', 'utf-8') as v_file:
         v_file.write("\n".join(ldac_q))
