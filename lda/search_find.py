@@ -56,7 +56,7 @@ def merge_and_write_answers_inner(index,answer):
         with codecs.open(answers_filename,'w+', 'utf-8') as docs_file:
             docs_file.write(all_related_text)
     else:
-        print(index,answer)
+        print("%d %s" %(index,answer))
     return all_sentences
 
 
