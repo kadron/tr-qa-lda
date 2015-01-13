@@ -87,7 +87,6 @@ def build_vocabulary():
 
 def write_voc_as_dict_to_file(filename,voc_as_dict):
     with codecs.open(filename,'w+', 'utf-8') as v_file:
-        v_file.write("First Line\n")
         for word,_ in voc_as_dict.items():
             v_file.write("%s\n" %word)
 
