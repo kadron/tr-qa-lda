@@ -1,0 +1,231 @@
+cpaste
+wikifile = codecs.open("allDocsTogether","rU","utf-8")
+vocabulary = {}
+for i in range(0,5):
+	title = wikifile.readline()
+	print("Title: %s" %title)
+	wikifile.readline()
+	body = wikifile.readline()
+	while body != u'\n':
+		add_to_vocabulary(body)
+		print(body)
+		body = wikifile.readline()
+wikifile.close()
+
+
+
+cpaste
+wikifile = codecs.open("allDocsTogether","rU","utf-8")
+while True:
+	try:
+		body = wikifile.readline()
+	except EOFError:
+		break	
+wikifile.close()
+
+voc_file = "../data/voc_1.txt"
+voc = parse.read_voc(voc_file)
+q_ldac = []
+questions = parse.write_questions("../data/questions.ldac",voc,q_ldac)
+
+parse.VERBOSE =True
+
+voc_d2, voc2 = parse.load_vocabulary("../data/voc.pickle")
+q_ldac2 = []
+questions = parse.write_questions("../data/questions2.ldac",voc2,q_ldac2)
+voc_d3, voc3 = parse.extend_vocabulary(questions,voc_d2)
+
+q_ldac3 = []
+questions = parse.write_questions("../data/questions3.ldac",voc3,q_ldac3)
+parse.print_ldac(q_ldac3,voc3)
+
+
+for ind,q in enumerate(q_ldac3):
+    a = q.split(" ")
+    print("%d: %s %s %s %s " %(ind,a[0],voc2[int(a[1].split(":")[0])], voc2[int(a[2].split(":")[0])] if len(a)>2 and a[2] != '' else "", voc2[int(a[3].split(":")[0])] if len(a) > 3 and a[3] != '' else ""))
+
+for i in range(0,len(q_ldac3)):
+    a = q_ldac3[i].split(" ")
+    question = [a[0]+" ",]
+    for freqs in a[1:]:
+	if freqs:
+		question.append(voc3[int(freqs.split(":")[0])])
+    print(q) 
+    print(str(i) + " ".join(question))
+
+to_ldac(voc,ldac,filename="allDocsTogether"
+
+
+import parse
+file2 = "allDocsTogether_2"
+filename_extended = "../data/voc_3.txt"
+voc3 = parse.read_voc(filename_extended)
+ldac = []
+doc_file = "allDocsTogether_2" # 37000 - 40000 arası satırlar
+parse.to_ldac(voc3,ldac,filename= doc_file)
+corpus_ldac_file = "../data/corpus_2.ldac.txt"
+parse.write_ldac_as_list_to_file(corpus_lac_file, ldac)
+
+head -n 40000 allDocsTogether | tail -n 3000  > allDocsTogether_2
+head -n 43000 allDocsTogether | tail -n 3000  > allDocsTogether_3
+
+
+parse.write_part_as_ldac("allDocsTogether_3","../data/corpus_3.ldac.txt")
+
+/home/hazircevap/IR/indri-5.0/runquery/IndriRunQuery -count=5 /home/hazircevap/IR/queries/20
+
+(hazircevap)cagil@godel:/home/hazircevap$ /home/hazircevap/IR/indri-5.0/runquery/IndriRunQuery -count=5 ~/hazircevap/clir/queries-tr/deneme
+
+-9.16125        838789  0       130
+-9.32683        248271  0       131
+-9.48502        200418  0       472
+-9.48817        1569961 0       622
+-9.49174        173280  0       187
+(hazircevap)cagil@godel:/home/hazircevap$ less ~/hazircevap/clir/queries-tr/deneme
+<parameters>
+<index>/home/hazircevap/turkceIndexDir/</index>
+
+<query>
+<number>0</number>
+<text>#combine(Akarsuların taşıyarak oluşturdukları topraklara ne ad verilir)</text>
+</query>
+</parameters>
+
+_digits = re.compile('\d')
+def contains_digits(d):
+    return bool(_digits.search(d))
+
+questions_raw = [] ; i = 0
+with codecs.open('all_questions.csv', 'rU', "utf-8") as csvfile:
+        spamreader = csv.reader(csvfile, delimiter='\t', quotechar='|')
+        for row in spamreader:
+                answer = row[4].strip()
+                if answer is not '' and (len(answer.split(" ")) == 1 and not contains_digits(answer) ):
+                        print("%d: %s \t %s" %(i,row[4],row[0]))
+                        questions_raw.insert(i,(row[0],answer))
+                        i +=1
+
+search_find.prepare_param_files() #mac
+scp -r lda/queries/tr cagil@godel.cmpe.boun.edu.tr: #mac
+cp -r /home/cagil/tr ~/IR/queries/ # hazırcevap
+search_find.find_related_docs_all() # hazırcevap
+
+
+answer = ans_file.readline() ; index += 1 ; print answer.strip().lower().split("/")[0]
+metin = merge_and_write_answers_inner(index,answer.strip().lower().split("/")[0])
+
+
+263 soru arasından 142 sorunun cevabını ilk 5 alakalı dökümanda bulduk
+
+
+with codecs.open("/tmp/last.txt","rU","utf-8") as ldac_file:
+    ldac_list = []
+    for i in range(0,5):
+        ldac_line = ldac_file.readline()
+        ldac_list.append(ldac_line)
+    parse.print_ldac(ldac_list,vvv)
+
+Question Answering (QA) is the task of automatic retrieval of an answer given a question. Usually processing the question, system receives several search phrases and uses those to find relevant documents from a corpora or a knowledge base.
+
+Hazırcevap \cite{derici2014rule} is a Turkish question answering system designed for high-school students to assist their education. It is a rule based QA system that extracts parts of the question as a focus and the type and the character of the answer then is chosen based on these linguistically calculated focus words in the question.
+
+In this project we aim to assist Hazırcevap in finding better answers by building a topic model relation between those focus words and the relevant documents.
+
+@inproceedings{derici2014rule,
+  title={Rule-based focus extraction in Turkish question answering systems},
+  author={Derici, Caner and Celik, Kerem and Ozgur, Arzucan and Gungor, Tunga and Kutbay, Ekrem and Aydin, Yigit and Kartal, Gunizi},
+  booktitle={Signal Processing and Communications Applications Conference (SIU), 2014 22nd},
+  pages={1604--1607},
+  year={2014},
+  organization={IEEE}
+}
+
+Recently the effects of applying different stemming techniques such as fixed-length word truncation and morphological analysis are explored in the area of document summarisation \cite{GaliotouKT13,can2008,Yavuz}. Following those studies we aim to overcome the data sparsity problem of morphologically rich languages by using different stemming approaches. 
+
+@inproceedings{GaliotouKT13,
+   author              = {Eleni Galiotou and 
+                          Nikitas Karanikolas and 
+                          Christodoulos Tsoulloftas},
+   title               = {On the effect of stemming algorithms on extractive summarization: a case study.},
+   booktitle           = {Panhellenic Conference on Informatics},
+   year                = {2013},
+   pages               = {300-304},
+   ee                  = {http://doi.acm.org/10.1145/2491845.2491889},
+   crossref            = {2013},
+}
+
+@article{can2008,
+  title={Information retrieval on Turkish texts},
+  author={Can, Fazli and Kocberber, Seyit and Balcik, Erman and Kaynak, Cihan and Ocalan, H Cagdas and Vursavas, Onur M},
+  journal={Journal of the American Society for Information Science and Technology},
+  volume={59},
+  number={3},
+  pages={407--421},
+  year={2008},
+  publisher={Wiley Online Library}
+}
+
+answer_sents = []
+with  codecs.open("../data/ldac/deriv/sq50.txt.answers","rU","utf-8") as sq_file:
+    while 1:
+        line = sq_file.readline()
+        if not line:
+            break
+        answer_sents.append(line)
+answer_sents.reverse()
+
+for ind,line in enumerate(answer_sents):	
+    for l_line_id in line.strip("\n").split(":")[1].strip().split(" "):
+	try:
+		answer_id = big_voc_new_list.index(answer_words[ind].lower())
+	except:
+		pass
+	id_list = map(lambda x: int(x.split(":")[0]),lines[int(l_line_id)].strip("\n").strip().split(" ")[1:])
+	if answer_id in id_list:
+		print("True")
+-----
+
+for ind,line in enumerate(answer_sents):	
+    for l_line_id in line.strip("\n").split(":")[1].strip().split(" "):
+	try:
+		answer_id = big_voc_new_list.index(answer_words[ind].lower())
+	except:
+		pass
+	id_list = map(lambda x: int(x.split(":")[0]),lines[int(l_line_id)].strip("\n").strip().split(" ")[1:])
+	for id in id_list:
+		print(big_voc_new_list[id])
+    print("**************")	
+
+**************
+
+deriv_all = "../data/ldac/deriv/all.txt"
+with  codecs.open(deriv_all,"rU","utf-8") as l_file:
+	lines = []
+	while 1:
+		line = l_file.readline()
+    		if not line:
+        		break
+    		lines.append(line)
+
+******************
+
+answer_sents = []
+with  codecs.open("../data/ldac/org/sq.txt.answers","rU","utf-8") as sq_file:
+    while 1:
+        line = sq_file.readline()
+        if not line:
+            break
+        answer_sents.append(line)
+answer_sents.reverse()
+
+for ind,line in enumerate(answer_sents):	
+    for l_line_id in line.strip("\n").split(":")[1].strip().split(" "):
+	try:
+		answer_id = big_voc_new_list.index(answer_words[ind].lower())
+	except:
+		pass
+	id_list = map(lambda x: int(x.split(":")[0]),lines[int(l_line_id)].strip("\n").strip().split(" ")[1:])
+	if answer_id in id_list:
+		print("True")
+		break
+-----
